@@ -1,0 +1,30 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{% static 'css/index2.css' %}">
+
+{#    <script>#}
+{#        setTimeout(function(){#}
+{#            alert("It works")#}
+{#        }, 5000)#}
+{#    </script>#}
+
+</head>
+
+<body>
+    <h1>My first project</h1>
+
+    <ul>
+        {% for user in object_list %}
+            <li>
+                <span>Hello: </span>{{ user.username }}
+            </li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>

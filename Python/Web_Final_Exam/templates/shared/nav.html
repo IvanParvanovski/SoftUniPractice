@@ -1,0 +1,46 @@
+{% load static %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+<link rel="stylesheet" href="{% static 'css/shared/nav.css' %}">
+
+<nav>
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link" href="{% url 'display watches' 'all' %}">Watches</a>
+        </li>
+
+        {% if user.is_authenticated %}
+            {% if not user.is_staff %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'profile' request.user.id %}">Hello, {{ request.user.username }}</a>
+                </li>
+            {% endif %}
+
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'user sign out' %}">Sign Out</a>
+            </li>
+
+            {% if not user.is_staff %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'purchases' request.user.userprofile.id %}">Purchase <i class="fas fa-cart-arrow-down"></i></a>
+                </li>
+            {% endif %}
+
+        {% else %}
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'user sign up' %}">Sign Up</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'user sign in' %}">Sign In</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'purchases' 0 %}">Purchase <i class="fas fa-cart-arrow-down"></i></a>
+            </li>
+        {% endif %}
+    </ul>
+</nav>

@@ -1,0 +1,24 @@
+{% extends 'shared.html' %}
+{% load snake_filter %}
+{% load show_snake %}
+
+{% block site_heading %}
+    All Pythons
+{% endblock %}
+
+{% block site_content %}
+    <form action="{% url 'index' %}" method="get">
+        {{ filter_form }}
+        <button>Filter</button>
+    </form>
+
+    <div class="d-flex p-3">
+{#        {% for python in pythons|snake_filter:'Ivan' %}#}
+        {% for python in pythons %}
+{#        {% include 'show_pythons.html' with python=python %}#}
+        {% show_snake snake=python %}
+
+        {% endfor %}
+    </div>
+{% endblock %}
+

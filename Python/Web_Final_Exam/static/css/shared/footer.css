@@ -1,0 +1,9 @@
+.card-header,
+.card-footer {
+    background-color: rgba(14, 103, 117, 0.9);
+    color: white;
+}
+
+a {
+    margin-left: 10px;
+}

@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('../../fonts/Pacifico-Regular.woff2'),
+         url('../../fonts/Pacifico-Regular.woff');
+}
+
+h1 {
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+
+    background-color: red;
+    color: white;
+    border: 5px solid black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+nav {
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    display: inline-block;
+    border: 3.5px solid rgb(32, 14, 110);
+    background-color: rgb(87, 202, 187);
+}
+
+.li-space {
+    margin-left: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Pacifico';
+    font-weight: 500;
+
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+li:hover {
+    background-color: black;
+    border: 5px solid rgb(32, 14, 110);
+}
+
+li:hover > a {
+    color: white;
+    font-weight: bold;
+}

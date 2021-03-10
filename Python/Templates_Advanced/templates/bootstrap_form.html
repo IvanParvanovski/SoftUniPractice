@@ -1,0 +1,18 @@
+<form class="col-lg-6 offset-lg-3" method="{{ method }}" action="{{ action }}" enctype="multipart/form-data" >
+    {% csrf_token %}
+
+    <label for="name">Name</label>
+    {{ form.name }}
+
+    <label for="description">Description</label>
+    {{ form.description }}
+
+    <label for="url">Image</label>
+    {{ form.image }}
+    {{ form.image.errors }}
+
+    <label for="snake_passport">Snake Documentation</label>
+    {{ form.snake_passport }}
+
+    <input type="submit" value="Create" class="btn btn-primary">
+</form>

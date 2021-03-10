@@ -1,0 +1,10 @@
+num1 = int(3522)
+num2 = int(52353)
+num3 = int(23)
+num4 = int(2336)
+num5 = int(501)
+num6 = int(23432)
+num7 = int(6743)
+num8 = int(3)
+
+print((num1 + num2) * num3 - (num4 * num5 + num6 - num7) * num8)

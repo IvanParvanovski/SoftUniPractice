@@ -1,0 +1,17 @@
+.image-detail {
+    width: 60em;
+    height: 40em;
+    border-radius: 10%;
+}
+
+.content-container {
+    display: flex;
+}
+
+.des-text {
+    width: fit-content;
+}
+
+.info {
+    margin: 3em auto;
+}

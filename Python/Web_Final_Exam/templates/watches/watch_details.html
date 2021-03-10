@@ -1,0 +1,103 @@
+{% extends 'shared/base.html' %}
+{% load static %}
+{% block site_links %}
+    <link rel="stylesheet" href="{% static 'css/watches/watch_details.css' %}">
+{% endblock %}
+
+{% block site_title %}
+    Watch Details
+{% endblock %}
+
+{% block site_content %}
+    <div class="content-container">
+        <div>
+            <img class="image-detail" src="{{ watch.image.url }}" alt="no image">
+        </div>
+
+        <div class="info">
+            <h2 class="des-text">Model: {{ watch.model }}</h2>
+            <h2 class="des-text">Brand: {{ watch.brand }}</h2>
+            <h2 class="des-text">Price: {{ watch.price }}</h2>
+            <h2 class="des-text">Gender: {{ watch.gender.capitalize }}</h2>
+            <br>
+
+            <h2 class="des-text">Description:</h2>
+            <ul>
+                <li>
+                    <h4>Dial colour:
+                        {% if watch.watchdescription.dial_colour %}
+                            {{ watch.watchdescription.get_dial_colour_display }}
+                        {% else %}
+                            None
+                        {% endif %}
+                    </h4>
+                </li>
+                <li>
+                    <h4>Strap colour colour:
+                        {% if watch.watchdescription.strap_colour %}
+                            {{ watch.watchdescription.get_strap_colour_display }}
+                        {% else %}
+                            None
+                        {% endif %}
+                    </h4>
+                </li>
+                <li>
+                    <h4>Chronograph:
+                        {% if watch.watchdescription.chronograph %}
+                            {{ watch.watchdescription.get_chronograph_display }}
+                        {% else %}
+                            None
+                        {% endif %}
+                    </h4>
+                </li>
+                <li>
+                    <h4>Water resistance:
+                        {% if watch.watchdescription.water_resistance %}
+                            {{ watch.watchdescription.water_resistance }}
+                        {% else %}
+                            None
+                        {% endif %}
+                    </h4>
+                </li>
+                <li>
+                    <h4>Case shape:
+                        {% if watch.watchdescription.case_shape %}
+                            {{ watch.watchdescription.get_case_shape_display }}
+                        {% else %}
+                            None
+                        {% endif %}
+                    </h4>
+                </li>
+                <li>
+                    <h4>Analogue/Digital:
+                        {% if watch.watchdescription.analogue_or_digital %}
+                            {{ watch.watchdescription.get_analogue_or_digital_display }}
+                        {% else %}
+                            None
+                        {% endif %}
+                    </h4>
+                </li>
+            </ul>
+
+            {% if user.is_authenticated %}
+                {% if not user.is_staff %}
+                    <a class="btn btn-success"
+                       href="{% url 'create purchase' user.userprofile.id watch.id %}">Purchase</a>
+                {% endif %}
+            {% else %}
+                <a class="btn btn-success" href="{% url 'create purchase' 0 0 %}">Purchase</a>
+            {% endif %}
+
+            {% if user.is_staff %}
+                <a class="btn btn-warning" href="{% url 'edit watch' watch.id %}">Edit watch</a>
+                {% if watch.watchdescription.id %}
+                    <a class="btn btn-warning" href="{% url 'watch description edit' watch.watchdescription.id %}">Edit description</a>
+                {% else %}
+                    <a class="btn btn-warning" href="{% url 'watch description add' watch.id %}">Add description</a>
+                {% endif %}
+                <a class="btn btn-danger" href="{% url 'delete watch' watch.id %}">Delete</a>
+            {% endif %}
+        </div>
+
+    </div>
+{% endblock %}

@@ -1,0 +1,15 @@
+label {
+    font-size: 25px;
+    margin-right: 20px;
+    display: block;
+}
+
+.root {
+    margin-left: 50px;
+}
+
+.orange {
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,23 @@
+{% extends 'shared/base.html' %}
+{% load static %}
+{% block site_title %}
+    Profile
+{% endblock %}
+
+{% block site_content %}
+    <div>
+        <h2 class="text-center">Username: {{ user.username }}</h2>
+        <img class="rounded d-block mx-auto" src="{{ user.userprofile.profile_picture.url }}" alt="No image" style="width: 23em;">
+        <br>
+        <h3 class="text-center">Email: {{ user.userprofile.email }}</h3>
+        <h3 class="text-center">Phone number: {{ user.userprofile.telephone_number }}</h3>
+    </div>
+
+    <div class="mx-auto" style="width: fit-content">
+        {% if request.user.id == user.id or request.user.is_staff %}
+            <a class="btn btn-warning" href="{% url 'edit profile' user.userprofile.id %}" style="width: fit-content">Edit</a>
+            <a class="btn btn-danger" href="{% url 'delete profile' user.id %}" style="width: fit-content;">Delete</a>
+        {% endif %}
+    </div>
+
+{% endblock %}

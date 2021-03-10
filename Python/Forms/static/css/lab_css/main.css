@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Staatliches-Regular;
+    src: url(../../fonts/Staatliches-Regular.woff),
+         url(../../fonts/Staatliches-Regular.woff2);
+}
+
+.root {
+    margin: 20px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.my-button {
+    margin-top: 20px;
+}
+
+.user-data {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.box {
+    padding: 3px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.user-info {
+    font-weight: bold;
+}
+
+.users-title {
+    font-family: Staatliches-Regular, serif;
+    color: red;
+}
+
+

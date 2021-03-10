@@ -1,0 +1,18 @@
+nav {
+    background-color: rgba(14, 103, 117, 0.9);
+    margin-bottom: 15px;
+    font-family: "Times New Roman";
+}
+
+.nav-link {
+    color: white;
+}
+
+a:hover {
+    color: rgb(55, 41, 35);
+}
+
+.nav-link {
+    font-size: 1.5em;
+}
+

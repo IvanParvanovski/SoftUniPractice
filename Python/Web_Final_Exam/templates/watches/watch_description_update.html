@@ -1,0 +1,21 @@
+{% extends 'shared/base.html' %}
+{% load static %}
+
+{% block site_title %}
+    Update Watch Description
+{% endblock %}
+
+{% block site_links %}
+    <link rel="stylesheet" href="{% static 'css/shared/forms.css' %}">
+{% endblock %}
+{% block site_content %}
+    <form method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            {{ form }}
+        </div>
+        <button class="btn btn-primary" type="submit">
+            Submit
+        </button>
+    </form>
+{% endblock %}

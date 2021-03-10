@@ -1,0 +1,30 @@
+{% extends 'shared/base.html' %}
+{% block site_title %}
+    Edit Profile
+{% endblock %}
+{% block site_content %}
+    <form action="{% url 'edit profile' user.userprofile.id %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="id_username">Username</label>
+            {{ form.username }}
+            {{ form.username.errors }}
+
+            <label for="id_email">Email</label>
+            {{ form.email }}
+            {{ form.email.errors }}
+
+            <label for="id_telephone_number">Phone number</label>
+            {{ form.telephone_number }}
+            {{ form.telephone_number.errors }}
+
+            <label for="id_profile_picture">Profile picture</label>
+            {{ form.profile_picture }}
+            {{ form.profile_picture.erros }}
+        </div>
+
+        <button class="btn btn-primary" type="submit">
+            Submit
+        </button>
+    </form>
+{% endblock %}

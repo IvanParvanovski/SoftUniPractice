@@ -1,0 +1,9 @@
+input {
+    display: block;
+}
+
+.center-box {
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+}

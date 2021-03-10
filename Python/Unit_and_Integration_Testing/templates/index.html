@@ -1,0 +1,37 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+</head>
+<body>
+    <div class="root">
+        <form action="{% url 'profiles' %}" method="post">
+            {{ form }}
+            {% csrf_token %}
+            <button>Create</button>
+        </form>
+
+        {% for profile in profiles %}
+            <div class="user-data">
+                <p class="user-info">
+                    <span class="user-label-name">Name:</span> {{ profile.name }}
+                </p>
+
+                <p class="user-info">
+                    <span class="user-label-name">Age:</span> {{ profile.age }}
+                </p>
+
+                <p class="user-info">
+                    <span class="user-label-name">Egn:</span> {{ profile.egn }}
+                </p>
+
+            </div>
+        {% endfor %}
+    </div>
+
+</body>
+</html>

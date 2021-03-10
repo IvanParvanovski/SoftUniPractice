@@ -1,0 +1,18 @@
+{% extends 'shared.html' %}
+{% load static %}
+{% block site_links %}
+    <link rel="stylesheet" href="{% static 'css/forms.css' %}">
+{% endblock %}
+{% block site_content %}
+    <h1 class="text-center">Register</h1>
+
+    <div class="center-box">
+        <form class="form" action="{% url 'register user' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ user_form }}
+            {{ user_profile }}
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+    </div>
+
+{% endblock %}

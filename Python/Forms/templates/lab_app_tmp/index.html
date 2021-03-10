@@ -1,0 +1,47 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'css/lab_css/main.css' %}">
+</head>
+<body>
+    <div class="root">
+        <main>
+            {% if pk %}
+                <form method="post" action="{% url form_action pk %}" method="post" id="form1">
+            {% else %}
+                <form method="post" action="{% url form_action %}" id="form1">
+            {% endif %}
+                {% csrf_token %}
+                {{ lab_form }}
+            </form>
+
+            <button type="submit" class="my-button btn btn-dark" form="form1">Submit</button>
+
+            <div class="user-data">
+                <h1 class="users-title">U s e r s: </h1>
+                {% for user in lab_users %}
+                    <div class="box">
+                        <p><span class="user-info">Name:</span> {{ user.name }}</p>
+                        <p><span class="user-info">Age:</span> {{ user.age }}</p>
+                        <p><span class="user-info">Email:</span> {{ user.email }}</p>
+                        <p><span class="user-info">Password:</span> {{ user.password }}</p>
+                        <p><span class="user-info">Text:</span> {{ user.text }}</p>
+                        <div class="btn btn-primary">
+                            <a href="{% url 'edit user' user.id %}">Edit</a>
+                        </div>
+                        <div class="btn btn-primary">
+                            <a href="{% url 'delete user' user.id %}">Delete</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+        </main>
+    </div>
+</body>
+</html>

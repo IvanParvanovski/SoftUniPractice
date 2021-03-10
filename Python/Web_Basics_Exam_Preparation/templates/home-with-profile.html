@@ -1,0 +1,41 @@
+{% extends 'shared.html' %}
+
+{% block site_content %}
+    {% if expenses %}
+        <div>
+        <h1>Summary</h1><h1>
+        <ul class="expenses-list">
+            <li class="blue">{{ profile.budget }}$</li>
+            {% for expense in expenses %}
+                <li class="red"> - {{ expense.price }}$</li>
+            {% endfor %}
+            <li class="green">= {{ profile.budget_left }}$left</li>
+        </ul>
+        </h1>
+    </div>
+    {% endif %}
+
+    <h1>My Expenses</h1>
+    <a class="link-button" href="{% url 'expense create' %}">Add Expense</a>
+
+    {# https://www.pngkit.com/png/full/307-3075914_free-piano-clipart-piano-png.png#}
+    <div class="expenses-container">
+        {% for expense in expenses %}
+            <div class="expense-container">
+            <h2>{{ expense.title }}</h2>
+            <hr>
+            <img src="{{ expense.image_url }}">
+            <p>{{ expense.description }}</p>
+            <div class="expense-detail">
+                <div>
+                    <p>Price: {{ expense.price }}$</p>
+                </div>
+                <div class="right">
+                    <a class="button edit" href="{% url 'expense edit' expense.pk %}">Edit</a>
+                    <a class="button delete" href="{% url 'expense delete' expense.pk %}">Delete</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% endblock %}

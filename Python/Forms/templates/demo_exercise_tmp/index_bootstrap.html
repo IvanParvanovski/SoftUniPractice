@@ -1,0 +1,37 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'css/demo_exercise_css/main_bootstrap.css' %}">
+</head>
+
+<body>
+    <div class="root">
+        <main>
+            <div class="row">
+                <div class="col-5">
+                    <form class="information" action="">
+                {{ demo_exercise_form }}
+
+                <div>
+                    <button class="btn btn-success">
+                        Submit
+                    </button>
+                </div>
+            </form>
+                </div>
+
+                <div class="col-7">
+                    <div class="orange"></div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+</body>
+</html>

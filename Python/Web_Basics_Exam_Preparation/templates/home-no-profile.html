@@ -1,0 +1,33 @@
+{% extends 'shared.html' %}
+
+{% block site_content %}
+    <h1>Enter your data</h1>
+    <div class="form">
+        <form action="{% url 'home page' %}" method="POST">
+            {% csrf_token %}
+            {{ form.budget.label }}
+            {{ form.budget }}
+            {{ form.budget.errors }}
+
+            {{ form.first_name.label }}
+            {{ form.first_name }}
+            {{ form.first_name.errors }}
+
+            {{ form.last_name.label }}
+            {{ form.last_name }}
+            {{ form.last_name.errors }}
+
+{#            <label for="budget">Budget</label>#}
+{#            <input type="number" name="budget" value="" required="" id="id_budget">#}
+{#            {{ form.budget.errors }}#}
+{#            <label for="firstName">First Name</label>#}
+{#            <input type="text" name="first_name" maxlength="15" required="" id="id_first_name">#}
+{#            {{ form.first_name.errors }}#}
+{#            <label for="lastName">Last Name</label>#}
+{#            <input type="text" name="last_name" maxlength="15" required="" id="id_last_name">#}
+{#            {{ form.last_name.errors }}#}
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+{% endblock %}

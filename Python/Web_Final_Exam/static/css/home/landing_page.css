@@ -1,0 +1,12 @@
+article {
+    margin-top: 50px;
+}
+
+article:last-of-type {
+    margin-bottom: 20px;
+}
+
+.quote {
+    margin-top: 18px;
+    text-decoration: overline dimgray;
+}

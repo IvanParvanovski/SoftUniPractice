@@ -1,0 +1,21 @@
+---> Strategy design pattern
+
+It helps to provide class methods functionality repetition and gives us more flexibility.
+Also solves the problem with inheritance, polymorphism and abstraction.
+
+
+S.O.L.I.D
+
+1 - S = Single responsibility
+2 - O = Open for extensions / Closed for modifications.
+3 - L = Liskov substitution
+4 - I = Interface segregation
+5 - D = Dependency inversion
+
+We've used [2 - Open for extensions and Closed for modifications] The base class (in our example Vehicle) is .
+We've used [4 - Interface segregation] (ILandVehicleFact, IAirVehicleFact, IWaterVehicleFact)
+We've used [5 - Dependency inversion] when we have taken the i_fact in Vehicle
+
+
+# Learned the usage of strategy pattern, definition(partly). +
+# It isn't a good idea to have multiple inheritance and a lot polymorphism code structures in your script.

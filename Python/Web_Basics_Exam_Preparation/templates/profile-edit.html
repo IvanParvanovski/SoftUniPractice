@@ -1,0 +1,23 @@
+{% extends 'shared.html' %}
+
+{% block site_content %}
+    <h1>Enter your new data</h1>
+    <div class="form">
+        <form action="{% url 'profile edit' %}" method="POST">
+            {% csrf_token %}
+            {{ form.budget.label }}
+            {{ form.budget }}
+            {{ form.budget.errors }}
+
+            {{ form.first_name.label }}
+            {{ form.first_name }}
+            {{ form.first_name.errros }}
+
+            {{ form.last_name.label }}
+            {{ form.last_name }}
+            {{ form.last_name.errors }}
+
+            <input type="submit" value="Edit">
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends 'shared.html' %}
+{% load static %}
+{% load bootstrap_form %}
+
+{% block site_links %}
+    <link rel="stylesheet" href="{% static 'css/create.css' %}">
+{% endblock %}
+
+{% block site_heading %}
+    Create Python
+{% endblock %}
+
+{% block site_content %}
+    {% bootstrap_form form=form method='post' action='/create' %}
+{% endblock %}
+

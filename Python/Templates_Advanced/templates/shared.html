@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pythons Wiki</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    {% block site_links %}
+    {% endblock %}
+</head>
+
+<body>
+    <header>
+        {% include 'nav.html' %}
+    </header>
+
+    <main>
+        <h1 class="text-center">
+            {% block site_heading %}{% endblock %}
+        </h1>
+
+        {% block site_content %}
+        {% endblock %}
+    </main>
+
+    <footer>
+        {% include 'footer.html' %}
+    </footer>
+
+</body>
+</html>

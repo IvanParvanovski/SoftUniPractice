@@ -1,0 +1,30 @@
+{% extends 'shared/base.html' %}
+
+{% block site_title %}
+    {{ title }}
+{% endblock %}
+
+{% block site_main_content %}
+    <h1>This is the main App</h1>
+    <a href="../secondary_app">Go to Secondary App</a>
+    <br>
+    <br>
+    <a href="/">Go to Lobby</a>
+
+    {% if users %}
+        <ul>
+            {% for user in users %}
+                <li>
+                    <span>{% cycle 'Hello' 'Hi' %}: </span>
+                    {{ user.username }}
+                </li>
+                {% cycle 'odd' 'even' %}
+                {% cycle '1' '2' %}
+            {% endfor %}
+        </ul>
+
+    {% else %}
+        <p>No users</p>
+
+    {% endif %}
+{% endblock %}

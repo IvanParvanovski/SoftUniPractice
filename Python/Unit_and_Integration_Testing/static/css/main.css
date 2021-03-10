@@ -1,0 +1,21 @@
+.root {
+    text-align: center;
+}
+
+.user-data {
+    border: 3px solid black;
+    background-color: pink;
+    width: 50%;
+    margin: 15px auto;
+}
+
+.user-info {
+    margin-left: 20px;
+}
+
+.user-label-name {
+    font-weight: bold;
+}
+
+
+

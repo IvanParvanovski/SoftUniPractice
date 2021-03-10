@@ -1,0 +1,37 @@
+{% extends 'shared/base.html' %}
+{% load static %}
+{% block site_title %}
+    Sign Up
+{% endblock %}
+{% block site_links %}
+    <link rel="stylesheet" href="{% static 'css/shared/distance.css' %}">
+{% endblock %}
+{% block site_content %}
+    <form action="{% url 'user sign up' %}" method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="id_username">Username</label>
+            {{ form.username }}
+            {{ form.username.errors }}
+
+            <label for="id_password1">Password</label>
+            {{ form.password1 }}
+            {{ form.password1.errors }}
+
+            <label for="id_password2">Password confirmation</label>
+            {{ form.password2 }}
+            {{ form.password2.errors }}
+
+            <label for="id_email">Email</label>
+            {{ form.email }}
+            {{ form.email.errors }}
+
+            <label for="id_phone_number">Phone number</label>
+            {{ form.phone_number }}
+            {{ form.phone_number.errors }}
+        </div>
+        <button class="btn btn-primary" type="submit">
+            Submit
+        </button>
+    </form>
+{% endblock %}

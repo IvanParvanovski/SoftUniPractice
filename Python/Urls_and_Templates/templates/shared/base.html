@@ -1,0 +1,21 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block site_title %} {% endblock %}</title>
+    <link rel="stylesheet" href="{% static './css/shared/main_webpages.css' %}"/>
+    <link rel="stylesheet" href="{% static './css/shared/shared2.css'%}">
+    {% block page_styles %}
+    {% endblock %}
+    {% block page_scripts %}
+    {% endblock %}
+</head>
+
+<body>
+    {% block site_main_content %}
+        <span>No content</span>
+    {% endblock %}
+</body>
+</html>

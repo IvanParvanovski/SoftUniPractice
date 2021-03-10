@@ -1,0 +1,39 @@
+{% extends 'shared/base.html' %}
+{% block site_title %}
+    Purchases
+{% endblock %}
+
+{% block site_content %}
+
+    <div class="row">
+        {% for purchase in purchases %}
+            <div class="col-lg-5 card mx-auto" style="margin-bottom: 3em; width: 18rem;">
+                <img class="card-img-top" src="{{ purchase.watch.image.url }}" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">{{ purchase.watch.brand }}</h5>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Model: {{ purchase.watch.model }}</li>
+                    <li class="list-group-item">Gender: {{ purchase.watch.gender }}</li>
+                    <li class="list-group-item">Price: {{ purchase.watch.price }}</li>
+                </ul>
+                <div class="card-body">
+                    <a href="{% url 'watch details' purchase.watch_id %}" class="btn btn-primary card-link">Details</a>
+                    <a href="{% url 'remove purchase' purchase.user_id purchase.id %}" class="btn btn-danger card-link">Remove</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <div class="mx-auto card text-white bg-success mb-3" style="margin-top: 3em; max-width: 25rem;">
+        <div class="card-header"></div>
+        <div class="card-body">
+            <h5 class="card-title">Total</h5>
+            <p class="card-text">{{ prices }} = {{ end_price }}</p>
+        </div>
+        <div class="card-footer">
+            <a class="btn btn-dark" href="#">Order</a>
+        </div>
+    </div>
+
+{% endblock %}

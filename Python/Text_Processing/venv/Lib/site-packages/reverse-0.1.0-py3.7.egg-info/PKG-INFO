@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: reverse
+Version: 0.1.0
+Summary: Reverse a file
+Home-page: https://github.com/physacco/reverse
+Author: physacco
+Author-email: physacco@gmail.com
+License: MIT
+Description: Reverse the content of a file, write into another file.
+Platform: UNKNOWN

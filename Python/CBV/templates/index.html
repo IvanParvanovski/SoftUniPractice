@@ -1,0 +1,30 @@
+{% extends 'shared.html' %}
+{% block site_content %}
+    <p>
+        Page works!
+    </p>
+    <h1>{{ heading }}</h1>
+
+<ul>
+    {% for pet in pets %}
+        <li>
+            <a href="{% url 'pet details' pet.id %}">{{ pet.name }}</a>
+        </li>
+    {% endfor %}
+
+    {# Pages #}
+    {% if page_obj.has_previous %}
+        <a href="?page={{ page_obj.previous_page_number }}">Prev</a>
+    {% else %}
+        <a>Prev</a>
+    {% endif %}
+
+    {{ page_obj.number }}
+
+    {% if page_obj.has_next %}
+        <a href="?page={{ page_obj.next_page_number }}">Next</a>
+    {% else %}
+        <a>Next</a>
+    {% endif %}
+</ul>
+{% endblock %}

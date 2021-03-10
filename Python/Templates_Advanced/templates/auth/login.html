@@ -1,0 +1,18 @@
+{% extends 'shared.html' %}
+{% load static %}
+{% block site_links %}
+    <link rel="stylesheet" href="{% static 'css/forms.css' %}">
+{% endblock %}
+{% block site_content %}
+    <h1 class="text-center">Login</h1>
+    <div class="center-box">
+        <form action="{% url 'login user' %}" method="post">
+            <input type="hidden" name="redirect_url" value="{{ request.GET.next }}">
+            {% csrf_token %}
+            {{ login_form }}
+
+            <button type="submit">Login</button>
+            <p>or <a href="{% url 'register user' %}?next={{ request.GET.next }}">register</a></p>
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static '/css/demo_exercise_css/main.css' %}">
+</head>
+
+<body>
+    <div class="root">
+        <main>
+            <form action="{% url 'create demo_exercise_form' %}" method="post" id="form1">
+                {% csrf_token %}
+                {{ demo_exercise_form }}
+            </form>
+        </main>
+    </div>
+
+    <button type="submit" form="form1">
+        Submit
+    </button>
+
+{#    <form action="{% url 'create demo_exercise_form' %}" method="post" id="form2">#}
+{#        {% csrf_token %}#}
+{#        <label>#}
+{#            {{ demo_exercise_form.name.label }}#}
+{#            {{ demo_exercise_form.name }}#}
+{#            <input type="text"#}
+{#                   name="{{ demo_exercise_form.name.html_name }}"#}
+{#                   maxlength="{{ demo_exercise_form.name.max_length }}"#}
+{#                   required="{{ demo_exercise_form.name.required }}"#}
+{#                   value="{{ demo_exercise_form.name.value }}"#}
+{#            >#}
+{#        </label>#}
+{#            {{ demo_exercise_form.name.errors }}#}
+{#    </form>#}
+{##}
+{#    <button type="submit" form="form2">#}
+{#        Submit#}
+{#    </button>#}
+
+</body>
+</html>

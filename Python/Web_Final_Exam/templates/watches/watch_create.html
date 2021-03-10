@@ -1,0 +1,16 @@
+{% extends 'shared/base.html' %}
+{% block site_title %}
+    Add Watch
+{% endblock %}
+{% block site_content %}
+    <form action="{% url 'create watch' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="form-group">
+            {{ form }}
+        </div>
+        <button class="btn btn-primary" type="submit">
+            Submit
+        </button>
+    </form>
+    
+{% endblock %}

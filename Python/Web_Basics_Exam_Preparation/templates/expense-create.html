@@ -1,0 +1,40 @@
+{% extends 'shared.html' %}
+
+{% block site_content %}
+    <h1>Create Expense</h1>
+    <div class="form">
+        <form action="{% url 'expense create' %}" method="POST">
+            {% csrf_token %}
+            {{ form.title.label }}
+            {{ form.title }}
+            {{ form.title.errors }}
+
+            {{ form.description.label }}
+            {{ form.description }}
+            {{ form.description.errors }}
+
+            <label for="{{ form.image_url.id_for_label }}">Link to image</label>
+            {{ form.image_url }}
+            {{ form.image_url.errors }}
+
+            {{ form.price.label }}
+            {{ form.price }}
+            {{ form.price.errors }}
+
+{#            <label for="name">Title</label>#}
+{#            <input type="text" name="title" maxlength="50" required="" id="id_title" value="{{ title }}">#}
+{#            {{ form.title.errors }}#}
+{#            <label for="description">Description</label>#}
+{#            <textarea name="description" cols="40" rows="10" required="" id="id_description">{{ description }}</textarea>#}
+{#            {{ form.description.errors }}#}
+{#            <label for="imageUrl">Link to Image</label>#}
+{#            <input type="url" name="image_url" maxlength="200" required="" id="id_image_url" value="{{ image_url }}">#}
+{#            {{ form.image_url.errors }}#}
+{#            <label for="price">Price</label>#}
+{#            <input type="number" name="price" step="any" required="" id="id_price" value="{{ price }}">#}
+{#            {{ form.price.errors }}#}
+
+            <input type="submit" value="Create">
+        </form>
+    </div>
+{% endblock %}

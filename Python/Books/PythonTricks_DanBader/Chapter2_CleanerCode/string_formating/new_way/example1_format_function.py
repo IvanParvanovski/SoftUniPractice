@@ -1,0 +1,1 @@
+print('Hello, {}'.format('Ivan'))
