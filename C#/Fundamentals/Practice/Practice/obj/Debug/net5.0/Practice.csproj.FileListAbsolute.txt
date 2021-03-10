@@ -1,0 +1,16 @@
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\Practice.exe
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\Practice.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\Practice.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\Practice.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\Practice.dll
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\ref\Practice.dll
+D:\SoftUni\C#\Fundamentals\Practice\Practice\bin\Debug\net5.0\Practice.pdb
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.dll
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\ref\Practice.dll
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.pdb
+D:\SoftUni\C#\Fundamentals\Practice\Practice\obj\Debug\net5.0\Practice.genruntimeconfig.cache

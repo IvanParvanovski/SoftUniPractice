@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/names"
+            android:inputType="textMultiLine"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/black" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/radiobutton_OnlyPizza"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:onClick="onRadioButtonClicked"
+                android:padding="5dp"
+                android:text="@string/OnlyPizza" />
+
+            <RadioButton
+                android:id="@+id/radiobutton_PizzaWithAdds"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonClicked"
+                android:text="@string/PizzaWithAdds"
+
+                />
+
+        </RadioGroup>
+
+        <LinearLayout
+            android:id="@+id/linearLayout_pizzaWithAdds"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:text="@string/adds"
+                android:textColor="@android:color/black" />
+
+            <CheckBox
+                android:id="@+id/checkbox_Mushrooms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="@string/Mushrooms" />
+
+            <CheckBox
+                android:id="@+id/checkbox_Corn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="@string/Corn" />
+
+            <CheckBox
+                android:id="@+id/checkbox_Cucumbers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="@string/Cucumbers" />
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:text="@string/pizza1"
+            android:textColor="@android:color/black" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button_Minus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="button_Minus"
+                android:text="@string/minus" />
+
+
+            <TextView
+                android:id="@+id/textView_NumberOfPizzas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:text="@string/_1" />
+
+            <Button
+                android:id="@+id/button_Plus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="button_Plus"
+                android:text="@string/plus" />
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:text="@string/sum"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/textView_FullSumForPizzas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:text="@string/_00" />
+
+        <Button
+            android:id="@+id/orderButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="orderButton"
+            android:text="@string/order"
+            android:textSize="12sp" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

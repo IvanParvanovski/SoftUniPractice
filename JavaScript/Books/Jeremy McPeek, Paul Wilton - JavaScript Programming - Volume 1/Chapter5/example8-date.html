@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var greeting;
+        var nowDate = new Date();
+        var nowHour = nowDate.getHours();
+        var nowMinute = nowDate.getMinutes();
+        var nowSecond = nowDate.getSeconds();
+
+        if (nowMinute < 10)
+            nowMinute = '0' + nowMinute;
+        if (nowSecond < 10)
+            nowSecond = '0' + nowSecond;
+        if (nowHour < 12)
+            greeting = 'Good Morning!';
+        else if (nowHour < 17)
+            greeting = 'Good Afternoon!';
+        else
+            greeting = 'Good Evening';
+        
+        document.write("<h4>" + `${greeting} And welcome to my website` + "</h4>");
+        document.write('According to your clock the time is: ');
+        document.write(`${nowHour}:${nowMinute}:${nowSecond}`);
+        
+    </script>
+</body>
+</html>

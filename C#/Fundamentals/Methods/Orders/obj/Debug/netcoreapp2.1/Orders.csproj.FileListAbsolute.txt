@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\obj\Debug\netcoreapp2.1\Orders.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Orders\obj\Debug\netcoreapp2.1\Orders.csprojAssemblyReference.cache

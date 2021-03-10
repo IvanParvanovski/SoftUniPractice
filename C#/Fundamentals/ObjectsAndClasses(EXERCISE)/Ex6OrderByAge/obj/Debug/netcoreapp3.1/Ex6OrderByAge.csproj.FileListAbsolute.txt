@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\bin\Debug\netcoreapp3.1\Ex6OrderByAge.exe
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\bin\Debug\netcoreapp3.1\Ex6OrderByAge.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\bin\Debug\netcoreapp3.1\Ex6OrderByAge.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\bin\Debug\netcoreapp3.1\Ex6OrderByAge.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\bin\Debug\netcoreapp3.1\Ex6OrderByAge.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\bin\Debug\netcoreapp3.1\Ex6OrderByAge.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex6OrderByAge\obj\Debug\netcoreapp3.1\Ex6OrderByAge.genruntimeconfig.cache

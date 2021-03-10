@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\bin\Debug\netcoreapp2.1\Ex3Elevator.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\bin\Debug\netcoreapp2.1\Ex3Elevator.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\bin\Debug\netcoreapp2.1\Ex3Elevator.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\bin\Debug\netcoreapp2.1\Ex3Elevator.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\bin\Debug\netcoreapp2.1\Ex3Elevator.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\obj\Debug\netcoreapp2.1\Ex3Elevator.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\obj\Debug\netcoreapp2.1\Ex3Elevator.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\obj\Debug\netcoreapp2.1\Ex3Elevator.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\obj\Debug\netcoreapp2.1\Ex3Elevator.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\obj\Debug\netcoreapp2.1\Ex3Elevator.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex3Elevator\obj\Debug\netcoreapp2.1\Ex3Elevator.pdb

@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.TextProcessing(EXERCISE).iml
+# Datasource local storage ignored files
+/../../../../../../../../:\SoftUni\C#\Fundamentals\TextProcessing(EXERCISE)\.idea\.idea.TextProcessing(EXERCISE)\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\bin\Debug\netcoreapp2.1\Ex9YardGreening.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\bin\Debug\netcoreapp2.1\Ex9YardGreening.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\bin\Debug\netcoreapp2.1\Ex9YardGreening.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\bin\Debug\netcoreapp2.1\Ex9YardGreening.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\bin\Debug\netcoreapp2.1\Ex9YardGreening.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\obj\Debug\netcoreapp2.1\Ex9YardGreening.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\obj\Debug\netcoreapp2.1\Ex9YardGreening.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\obj\Debug\netcoreapp2.1\Ex9YardGreening.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\obj\Debug\netcoreapp2.1\Ex9YardGreening.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\obj\Debug\netcoreapp2.1\Ex9YardGreening.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex9YardGreening\obj\Debug\netcoreapp2.1\Ex9YardGreening.genruntimeconfig.cache

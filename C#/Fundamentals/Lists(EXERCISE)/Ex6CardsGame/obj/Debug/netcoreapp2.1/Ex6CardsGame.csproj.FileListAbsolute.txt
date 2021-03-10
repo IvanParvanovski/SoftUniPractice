@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\obj\Debug\netcoreapp2.1\Ex6CardsGame.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\obj\Debug\netcoreapp2.1\Ex6CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\obj\Debug\netcoreapp2.1\Ex6CardsGame.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\obj\Debug\netcoreapp2.1\Ex6CardsGame.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\bin\Debug\netcoreapp2.1\Ex6CardsGame.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\bin\Debug\netcoreapp2.1\Ex6CardsGame.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\bin\Debug\netcoreapp2.1\Ex6CardsGame.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\bin\Debug\netcoreapp2.1\Ex6CardsGame.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\bin\Debug\netcoreapp2.1\Ex6CardsGame.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\obj\Debug\netcoreapp2.1\Ex6CardsGame.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex6CardsGame\obj\Debug\netcoreapp2.1\Ex6CardsGame.pdb

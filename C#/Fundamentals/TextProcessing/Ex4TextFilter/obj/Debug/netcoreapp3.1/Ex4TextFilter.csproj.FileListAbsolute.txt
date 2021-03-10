@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\bin\Debug\netcoreapp3.1\Ex4TextFilter.exe
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\bin\Debug\netcoreapp3.1\Ex4TextFilter.deps.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\bin\Debug\netcoreapp3.1\Ex4TextFilter.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\bin\Debug\netcoreapp3.1\Ex4TextFilter.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\bin\Debug\netcoreapp3.1\Ex4TextFilter.dll
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\bin\Debug\netcoreapp3.1\Ex4TextFilter.pdb
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.dll
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.pdb
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex4TextFilter\obj\Debug\netcoreapp3.1\Ex4TextFilter.genruntimeconfig.cache

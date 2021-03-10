@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\bin\Debug\netcoreapp2.1\Ex3RoundingNumbers.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\bin\Debug\netcoreapp2.1\Ex3RoundingNumbers.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\bin\Debug\netcoreapp2.1\Ex3RoundingNumbers.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\bin\Debug\netcoreapp2.1\Ex3RoundingNumbers.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\bin\Debug\netcoreapp2.1\Ex3RoundingNumbers.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\obj\Debug\netcoreapp2.1\Ex3RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\obj\Debug\netcoreapp2.1\Ex3RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\obj\Debug\netcoreapp2.1\Ex3RoundingNumbers.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\obj\Debug\netcoreapp2.1\Ex3RoundingNumbers.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex3RoundingNumbers\obj\Debug\netcoreapp2.1\Ex3RoundingNumbers.pdb

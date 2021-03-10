@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\bin\Debug\netcoreapp3.1\Ex4Students.exe
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\bin\Debug\netcoreapp3.1\Ex4Students.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\bin\Debug\netcoreapp3.1\Ex4Students.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\bin\Debug\netcoreapp3.1\Ex4Students.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\bin\Debug\netcoreapp3.1\Ex4Students.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\bin\Debug\netcoreapp3.1\Ex4Students.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex4Students\obj\Debug\netcoreapp3.1\Ex4Students.genruntimeconfig.cache

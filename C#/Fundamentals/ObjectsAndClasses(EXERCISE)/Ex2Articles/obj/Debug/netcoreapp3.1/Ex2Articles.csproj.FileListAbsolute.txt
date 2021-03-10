@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\bin\Debug\netcoreapp3.1\Ex2Articles.exe
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\bin\Debug\netcoreapp3.1\Ex2Articles.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\bin\Debug\netcoreapp3.1\Ex2Articles.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\bin\Debug\netcoreapp3.1\Ex2Articles.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\bin\Debug\netcoreapp3.1\Ex2Articles.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\bin\Debug\netcoreapp3.1\Ex2Articles.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex2Articles\obj\Debug\netcoreapp3.1\Ex2Articles.genruntimeconfig.cache

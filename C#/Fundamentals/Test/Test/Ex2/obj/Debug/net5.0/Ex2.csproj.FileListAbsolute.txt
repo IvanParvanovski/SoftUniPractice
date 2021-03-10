@@ -1,0 +1,16 @@
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\Ex2.exe
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\Ex2.deps.json
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\Ex2.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\Ex2.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\Ex2.dll
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\ref\Ex2.dll
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\bin\Debug\net5.0\Ex2.pdb
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.dll
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\ref\Ex2.dll
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.pdb
+D:\SoftUni\C#\Fundamentals\Test\Test\Ex2\obj\Debug\net5.0\Ex2.genruntimeconfig.cache

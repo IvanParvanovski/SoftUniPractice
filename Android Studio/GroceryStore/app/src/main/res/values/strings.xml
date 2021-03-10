@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">GroceryStore</string>
+    <string name="buttonText_Fruits">F R U I T S</string>
+    <string name="buttonText_Vegetables">V E G E T A B L E S</string>
+    <string name="testText">Hello! World!</string>
+
+    F R U I T S
+    <string name="textView_Apples">Apples</string>
+    <string name="textView_Bananas">Bananas</string>
+    <string name="textView_Pineapples">Pineapples</string>
+    <string name="textView_Strawberries">Strawberries</string>
+    <string name="textView_Watermelons">Watermelons</string>
+    <string name="textView_Limes">Limes</string>
+    <string name="textView_Lemons">Lemons</string>
+    <string name="textView_JavaPlums">Java-Plums</string>
+    <string name="textView_Mangos">Mangos</string>
+    <string name="textView_Nectarines">Nectarines</string>
+    <string name="textView_Oranges">Oranges</string>
+    <string name="textView_Pears">Pears</string>
+
+    F R U I T S ===> P R I C E
+    <string name="textView_ApplesPrice">price: 1.67 лв.</string>
+    <string name="textView_BananasPrice">price: 1.40 лв.</string>
+    <string name="textView_PineapplesPrice">price: 1.67 лв.</string>
+    <string name="textView_StrawberriesPrice">price: 2.47 лв.</string>
+    <string name="textView_WatermelonsPrice">price: 1.12 лв.</string>
+    <string name="textView_LimesPrice">price: 1.24 лв.</string>
+    <string name="textView_JavaPlumsPrice">price: 1.23 лв.</string>
+    <string name="textView_MangosPrice">price: 1.23 лв.</string>
+    <string name="textView_LemonsPrice">price: 0.56 лв.</string>
+    <string name="textView_NectarinesPrice">price: 1.43 лв.</string>
+    <string name="textView_OrangesPrice">price: 0.67 лв.</string>
+    <string name="textView_PearsPrice">price: 1.87 лв.</string>
+
+    V E G E T A B L E S
+    <string name="textView_Carrots">Carrots</string>
+    <string name="textView_Cauliflower">Cauliflowers</string>
+    <string name="textView_Cucumbers">Cucumbers</string>
+    <string name="textView_Broccoli">Broccoli</string>
+    <string name="textView_Potatoes">Potatoes</string>
+    <string name="textView_Spinach">Spinach</string>
+    <string name="textView_Tomatoes">Tomatoes</string>
+    <string name="textView_Onions">Onion</string>
+    <string name="textView_Pumpkins">Pumpkins</string>
+    <string name="textView_Peas">Peas</string>
+    <string name="textView_Garlic">Garlic</string>
+    <string name="textView_Mushrooms">Mushrooms</string>
+
+    V E G E T A B L E S ===> P R I C E
+    <string name="textView_CarrotsPrice">price: 0.97 лв.</string>
+    <string name="textView_CauliflowerPrice">price: 1.54 лв.</string>
+    <string name="textView_CucumbersPrice">price: 1.43 лв.</string>
+    <string name="textView_BroccoliPrice">price: 2.18 лв.</string>
+    <string name="textView_PotatoesPrice">price: 1.67 лв.</string>
+    <string name="textView_SpinachPrice">price: 1.20 лв.</string>
+    <string name="textView_TomatoesPrice">price: 2.18 лв.</string>
+    <string name="textView_OnionsPrice">price: 0.76 лв.</string>
+    <string name="textView_PumpkinsPrice">price: 1.13 лв.</string>
+    <string name="textView_PeasPrice">price: 2.18 лв.</string>
+    <string name="textView_GarlicPrice">price: 0.76 лв.</string>
+    <string name="textView_MushroomsPrice">price: 2.16 лв.</string>
+
+    O T H E R S
+    <string name="buttonText_previous"><![CDATA[<=== P R E V I O U S]]></string>
+    <string name="buttonText_NextStep"><![CDATA[N E X T  S T E P ===>]]></string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="one">1</string>
+    <string name="textView_SumText">Sum:</string>
+    <string name="sum">0 лв.</string>
+    <string name="button_Submit">S U B M I T</string>
+    <string name="kg">kg</string>
+    <string name="textView_Username">Username:</string>
+    <string name="textView_Password">Password:</string>
+    <string name="textView_Address">Address:</string>
+    <string name="textView_City_Town_Village">City/Town/Village:</string>
+    <string name="textView_Age">Age:</string>
+    <string name="textView_FirstName">First Name:</string>
+    <string name="textView_LastName">Last Name:</string>
+    <string name="textView_Registration">R E G I S T R A T I O N</string>
+    <string name="editText_Hint_TypeYourUsername">type your username</string>
+    <string name="editText_Hint_TypeYourPassword">type your password</string>
+    <string name="editText_Hint_TypeYourPopulatedPlace">type your city/town/village</string>
+    <string name="editText_Hint_TypeYourFirstName">type your first name</string>
+    <string name="editText_Hint_TypeYourAddress">type your address</string>
+    <string name="editText_Hint_TypeYourLastName">type your last name</string>
+    <string name="editText_Hint_TypeYourAge">type your age</string>
+    <string name="textView_Login">L O G I N</string>
+    <string name="button_Login">L O G I N</string>
+    <string name="button_Register">R E G I S T E R</string>
+    <string name="button_ViewData">V i e w D a t a</string>
+    <string name="button_Order">O R D E R</string>
+</resources>

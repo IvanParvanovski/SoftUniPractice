@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\bin\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\bin\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\bin\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\bin\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\bin\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\ObjectsAndClasses(EXERCISE)\obj\Debug\netcoreapp2.1\ObjectsAndClasses(EXERCISE).genruntimeconfig.cache

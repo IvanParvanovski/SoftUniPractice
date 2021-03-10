@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\bin\Debug\netcoreapp2.1\Lists.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\bin\Debug\netcoreapp2.1\Lists.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\bin\Debug\netcoreapp2.1\Lists.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\bin\Debug\netcoreapp2.1\Lists.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\obj\Debug\netcoreapp2.1\Lists.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\obj\Debug\netcoreapp2.1\Lists.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\obj\Debug\netcoreapp2.1\Lists.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\obj\Debug\netcoreapp2.1\Lists.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\bin\Debug\netcoreapp2.1\Lists.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\obj\Debug\netcoreapp2.1\Lists.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Lists\obj\Debug\netcoreapp2.1\Lists.pdb

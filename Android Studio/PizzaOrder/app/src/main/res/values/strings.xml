@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PizzaOrder</string>
+    <string name="pizza1">КОЛИЧЕСТВО</string>
+    <string name="pizzaNumber">number</string>
+    <string name="order">Поръчка</string>
+    <string name="pizzaSum">sum</string>
+    <string name="sum">Обша стойност:</string>
+    <string name="_1">1</string>
+    <string name="_00">$0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="adds">ДОБАВКИ</string>
+    <string name="PizzaWithAdds">Пица с Добавки</string>
+    <string name="OnlyPizza">Само Пица</string>
+    <string name="Cucumbers">Кисели краставички</string>
+    <string name="Corn">Царевица</string>
+    <string name="Mushrooms">Гъби</string>
+    <string name="names">Имена</string>
+
+</resources>

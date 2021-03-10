@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.DefiningClasses(EXERCISE).iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\.idea\.idea.DefiningClasses(EXERCISE)\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

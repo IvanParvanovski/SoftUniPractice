@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\obj\Debug\netcoreapp2.1\Ex2CommonElements.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\obj\Debug\netcoreapp2.1\Ex2CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\obj\Debug\netcoreapp2.1\Ex2CommonElements.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\obj\Debug\netcoreapp2.1\Ex2CommonElements.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\bin\Debug\netcoreapp2.1\Ex2CommonElements.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\bin\Debug\netcoreapp2.1\Ex2CommonElements.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\bin\Debug\netcoreapp2.1\Ex2CommonElements.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\bin\Debug\netcoreapp2.1\Ex2CommonElements.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\bin\Debug\netcoreapp2.1\Ex2CommonElements.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\obj\Debug\netcoreapp2.1\Ex2CommonElements.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2CommonElements\obj\Debug\netcoreapp2.1\Ex2CommonElements.pdb

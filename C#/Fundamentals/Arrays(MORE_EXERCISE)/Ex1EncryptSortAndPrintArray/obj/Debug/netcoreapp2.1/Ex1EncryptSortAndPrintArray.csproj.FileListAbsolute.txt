@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex1EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\Ex1EncryptSortAndPrintArray.csprojAssemblyReference.cache

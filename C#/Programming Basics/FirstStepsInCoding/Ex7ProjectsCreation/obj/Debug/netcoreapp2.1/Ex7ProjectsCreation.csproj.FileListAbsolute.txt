@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\bin\Debug\netcoreapp2.1\Ex7ProjectsCreation.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\bin\Debug\netcoreapp2.1\Ex7ProjectsCreation.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\bin\Debug\netcoreapp2.1\Ex7ProjectsCreation.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\bin\Debug\netcoreapp2.1\Ex7ProjectsCreation.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\bin\Debug\netcoreapp2.1\Ex7ProjectsCreation.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\obj\Debug\netcoreapp2.1\Ex7ProjectsCreation.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\obj\Debug\netcoreapp2.1\Ex7ProjectsCreation.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\obj\Debug\netcoreapp2.1\Ex7ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\obj\Debug\netcoreapp2.1\Ex7ProjectsCreation.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\obj\Debug\netcoreapp2.1\Ex7ProjectsCreation.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex7ProjectsCreation\obj\Debug\netcoreapp2.1\Ex7ProjectsCreation.genruntimeconfig.cache

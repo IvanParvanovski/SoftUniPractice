@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\bin\Debug\netcoreapp2.1\Ex3LegendaryFarming.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\bin\Debug\netcoreapp2.1\Ex3LegendaryFarming.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\bin\Debug\netcoreapp2.1\Ex3LegendaryFarming.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\bin\Debug\netcoreapp2.1\Ex3LegendaryFarming.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\bin\Debug\netcoreapp2.1\Ex3LegendaryFarming.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\obj\Debug\netcoreapp2.1\Ex3LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\obj\Debug\netcoreapp2.1\Ex3LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\obj\Debug\netcoreapp2.1\Ex3LegendaryFarming.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\obj\Debug\netcoreapp2.1\Ex3LegendaryFarming.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\obj\Debug\netcoreapp2.1\Ex3LegendaryFarming.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex3LegendaryFarming\obj\Debug\netcoreapp2.1\Ex3LegendaryFarming.csprojAssemblyReference.cache

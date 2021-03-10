@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\bin\Debug\netcoreapp2.1\Ex5SoftUniParking.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\bin\Debug\netcoreapp2.1\Ex5SoftUniParking.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\bin\Debug\netcoreapp2.1\Ex5SoftUniParking.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\bin\Debug\netcoreapp2.1\Ex5SoftUniParking.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\bin\Debug\netcoreapp2.1\Ex5SoftUniParking.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\obj\Debug\netcoreapp2.1\Ex5SoftUniParking.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\obj\Debug\netcoreapp2.1\Ex5SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\obj\Debug\netcoreapp2.1\Ex5SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\obj\Debug\netcoreapp2.1\Ex5SoftUniParking.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\obj\Debug\netcoreapp2.1\Ex5SoftUniParking.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex5SoftUniParking\obj\Debug\netcoreapp2.1\Ex5SoftUniParking.pdb

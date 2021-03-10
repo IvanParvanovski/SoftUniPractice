@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>    
+        function checkCharType(charToCheck)
+        {
+            var returnValue = 'O';
+            var charCode = charToCheck.charCodeAt(0);
+            if (charCode >= 'A'.charCodeAt(0) && charCode <= 'Z'.charCodeAt(0))
+                returnValue = 'U';
+            else if (charCode >= 'a'.charCodeAt(0) && charCode <= 'z'.charCodeAt(0))
+                returnValue = 'L';
+            else if (charCode >= '0'.charCodeAt(0) && charCode <= '9'.charCodeAt(0))
+                returnValue = 'N';
+            
+            return returnValue;
+        }
+
+        var myString = prompt('Enter some text', 'Hello World!');
+        var result;
+        switch (checkCharType(myString))
+        {
+            case 'U':
+                result = 'upper case';
+                break;
+            case 'L':
+                result = 'low case';
+                break;
+            case 'N':
+                result = 'a number';
+                break;
+            default:
+                result = 'not a character or a number';
+                break;
+        }
+        document.write(`First character was ${result}`);
+
+    </script>
+</body>
+</html>

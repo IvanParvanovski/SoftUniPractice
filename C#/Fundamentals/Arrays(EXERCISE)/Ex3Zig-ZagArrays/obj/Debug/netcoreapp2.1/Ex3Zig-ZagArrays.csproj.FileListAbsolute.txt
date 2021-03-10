@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\bin\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\bin\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\bin\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\bin\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\bin\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\obj\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\obj\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\obj\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\obj\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\obj\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3Zig-ZagArrays\obj\Debug\netcoreapp2.1\Ex3Zig-ZagArrays.pdb

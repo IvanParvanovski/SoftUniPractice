@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\bin\Debug\netcoreapp3.1\Ex2RepeatStrings.exe
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\bin\Debug\netcoreapp3.1\Ex2RepeatStrings.deps.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\bin\Debug\netcoreapp3.1\Ex2RepeatStrings.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\bin\Debug\netcoreapp3.1\Ex2RepeatStrings.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\bin\Debug\netcoreapp3.1\Ex2RepeatStrings.dll
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\bin\Debug\netcoreapp3.1\Ex2RepeatStrings.pdb
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.dll
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.pdb
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex2RepeatStrings\obj\Debug\netcoreapp3.1\Ex2RepeatStrings.genruntimeconfig.cache

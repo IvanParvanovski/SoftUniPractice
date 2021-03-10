@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Great-Vibes";
+    src: url('./fonts/GreatVibes-Regular.woff2'),
+         url('./fonts/GreatVibes-Regular.woff2');
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url('./fonts/Raleway-VariableFontwght.woff2'),
+         url('./fonts/Raleway-VariableFontwght.woff');
+}
+
+.raleway {
+    font-family: "Raleway";
+    line-height: 1.5;
+}
+
+.raleway p {
+    font-size: 16px;
+}
+
+.great-vibes {
+    font-family: "Great-Vibes";
+    font-weight: bold;
+}
+
+.great-vibes p {
+    line-height: 1.2;
+}

@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\bin\Debug\netcoreapp2.1\Ex4InchesToCentimeters.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\bin\Debug\netcoreapp2.1\Ex4InchesToCentimeters.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\bin\Debug\netcoreapp2.1\Ex4InchesToCentimeters.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\bin\Debug\netcoreapp2.1\Ex4InchesToCentimeters.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\bin\Debug\netcoreapp2.1\Ex4InchesToCentimeters.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.csprojAssemblyReference.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex4InchesToCentimeters\obj\Debug\netcoreapp2.1\Ex4InchesToCentimeters.genruntimeconfig.cache

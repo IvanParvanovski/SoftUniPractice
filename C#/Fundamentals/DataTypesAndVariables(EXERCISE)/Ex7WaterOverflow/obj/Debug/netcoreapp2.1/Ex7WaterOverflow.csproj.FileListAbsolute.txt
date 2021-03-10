@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\bin\Debug\netcoreapp2.1\Ex7WaterOverflow.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\bin\Debug\netcoreapp2.1\Ex7WaterOverflow.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\bin\Debug\netcoreapp2.1\Ex7WaterOverflow.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\bin\Debug\netcoreapp2.1\Ex7WaterOverflow.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\bin\Debug\netcoreapp2.1\Ex7WaterOverflow.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\obj\Debug\netcoreapp2.1\Ex7WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\obj\Debug\netcoreapp2.1\Ex7WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\obj\Debug\netcoreapp2.1\Ex7WaterOverflow.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\obj\Debug\netcoreapp2.1\Ex7WaterOverflow.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex7WaterOverflow\obj\Debug\netcoreapp2.1\Ex7WaterOverflow.pdb

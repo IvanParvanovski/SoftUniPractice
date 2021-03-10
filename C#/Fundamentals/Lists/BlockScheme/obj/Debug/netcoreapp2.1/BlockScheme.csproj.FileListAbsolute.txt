@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\bin\Debug\netcoreapp2.1\BlockScheme.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\bin\Debug\netcoreapp2.1\BlockScheme.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\bin\Debug\netcoreapp2.1\BlockScheme.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\bin\Debug\netcoreapp2.1\BlockScheme.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\bin\Debug\netcoreapp2.1\BlockScheme.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\obj\Debug\netcoreapp2.1\BlockScheme.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\obj\Debug\netcoreapp2.1\BlockScheme.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\obj\Debug\netcoreapp2.1\BlockScheme.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\obj\Debug\netcoreapp2.1\BlockScheme.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\BlockScheme\obj\Debug\netcoreapp2.1\BlockScheme.pdb

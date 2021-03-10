@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_db</string>
+    <string name="your_name">Your name</string>
+    <string name="insert_into_database">Insert into database</string>
+</resources>

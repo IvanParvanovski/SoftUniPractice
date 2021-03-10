@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

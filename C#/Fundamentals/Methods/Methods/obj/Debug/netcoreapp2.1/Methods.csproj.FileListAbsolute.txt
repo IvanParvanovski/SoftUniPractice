@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.pdb

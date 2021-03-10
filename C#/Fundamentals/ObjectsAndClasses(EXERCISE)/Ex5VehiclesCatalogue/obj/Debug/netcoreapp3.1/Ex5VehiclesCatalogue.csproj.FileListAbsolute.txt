@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\bin\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.exe
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\bin\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\bin\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\bin\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\bin\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\bin\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(EXERCISE)\Ex5VehiclesCatalogue\obj\Debug\netcoreapp3.1\Ex5VehiclesCatalogue.genruntimeconfig.cache

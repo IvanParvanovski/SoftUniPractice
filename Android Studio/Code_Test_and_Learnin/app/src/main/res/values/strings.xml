@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Code_Test_and_Learnin</string>
+    <string name="textView_grocerystore">Grocery Store</string>
+    <string name="type_product">Type product</string>
+    <string name="grocery_store">Grocery Store</string>
+    <string name="SearchProduct">     Search Product     </string>
+</resources>

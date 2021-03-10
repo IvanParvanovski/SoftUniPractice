@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Chapter 5, Exapmle 4 
+    </title>
+</head>
+<body>
+    <script>
+        var myNumber = prompt('Enter the number to be rounded', '');
+        document.write("<h3>" +
+                       `The numbert your entered was ${myNumber}` +
+                       "</h3>");
+
+        document.write("<p> The rounding result for this number are: </p>");
+        document.write("<table width='150' border='1'>");
+        document.write("<tr><th>Method</th><th>Result</th></tr>");
+        document.write("<tr><td>parseInt()</td><th>" + parseInt(myNumber) + "</td></tr>");
+        document.write("<tr><td>ceil()</td><th>" + Math.ceil(myNumber) + "</td></tr>");
+        document.write("<tr><td>floor()</td><th>" + Math.floor(myNumber) + "</td></tr>");
+        document.write("<tr><td>round()</td><th>" + Math.round(myNumber) + "</td></tr>");
+        document.write("</table>");
+
+    </script>
+</body>
+</html>

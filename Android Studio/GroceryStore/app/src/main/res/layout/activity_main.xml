@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/green_background"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView_Grocery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:text="G   R   O   C   E   R   Y"
+            android:textColor="@color/groceryText"
+            android:textSize="32sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView_Store"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_Grocery"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="10dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:text="S  T  O  R  E"
+            android:textColor="@color/groceryText"
+            android:textSize="32sp"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/button_ViewData"
+            android:text="@string/button_ViewData"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_button"
+            android:layout_below="@id/textView_Store"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            />
+
+
+        <Button
+            android:id="@+id/button_Vegetables"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button_ViewData"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_button"
+            android:padding="15dp"
+            android:text="@string/buttonText_Vegetables"
+            android:textColor="@color/main_buttons_color"
+            android:textSize="28sp" />
+
+        <Button
+            android:id="@+id/button_Fruits"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button_Vegetables"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_button"
+            android:padding="15dp"
+            android:text="@string/buttonText_Fruits"
+            android:textColor="@color/main_buttons_color"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_MixProducts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button_Fruits"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/rounded_button"
+            android:padding="15dp"
+            android:text="M I X  P R O D U C T S"
+            android:textColor="@color/main_buttons_color"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:src="@drawable/food"
+            android:id="@+id/imageView_Image"
+            android:layout_width="300dp"
+            android:padding="10dp"
+            android:layout_height="250dp"
+            android:layout_below="@id/button_MixProducts"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/grocery_border_style" />
+    </RelativeLayout>
+</ScrollView>

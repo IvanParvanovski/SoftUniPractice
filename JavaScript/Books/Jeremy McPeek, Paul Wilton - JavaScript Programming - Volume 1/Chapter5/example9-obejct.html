@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function createPerson(firstName, lastName)
+        {
+            return {
+                'firstName': firstName,
+                'lastName': lastName,
+                'getFullName': function() {
+                    return `${this.firstName} ${this.lastName}`;
+                },
+                'greet': function(person) {
+                    alert(`Hello ${person.getFullName()}. I'm ${this.getFullName()}`);
+                }
+            };
+        }
+        var johnDoe = createPerson('John', 'Doe');
+        var janeDoe = createPerson('Jane', 'Doe');
+        johnDoe.greet(janeDoe);
+
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\bin\Debug\netcoreapp2.1\Ex1IntegerOperations.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\bin\Debug\netcoreapp2.1\Ex1IntegerOperations.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\bin\Debug\netcoreapp2.1\Ex1IntegerOperations.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\bin\Debug\netcoreapp2.1\Ex1IntegerOperations.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\bin\Debug\netcoreapp2.1\Ex1IntegerOperations.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\obj\Debug\netcoreapp2.1\Ex1IntegerOperations.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\obj\Debug\netcoreapp2.1\Ex1IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\obj\Debug\netcoreapp2.1\Ex1IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\obj\Debug\netcoreapp2.1\Ex1IntegerOperations.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\obj\Debug\netcoreapp2.1\Ex1IntegerOperations.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex1IntegerOperations\obj\Debug\netcoreapp2.1\Ex1IntegerOperations.pdb

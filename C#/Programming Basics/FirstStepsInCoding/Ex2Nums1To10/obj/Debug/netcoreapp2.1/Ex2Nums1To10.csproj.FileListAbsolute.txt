@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\bin\Debug\netcoreapp2.1\Ex2Nums1To10.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\bin\Debug\netcoreapp2.1\Ex2Nums1To10.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\bin\Debug\netcoreapp2.1\Ex2Nums1To10.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\bin\Debug\netcoreapp2.1\Ex2Nums1To10.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\bin\Debug\netcoreapp2.1\Ex2Nums1To10.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.csprojAssemblyReference.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex2Nums1To10\obj\Debug\netcoreapp2.1\Ex2Nums1To10.genruntimeconfig.cache

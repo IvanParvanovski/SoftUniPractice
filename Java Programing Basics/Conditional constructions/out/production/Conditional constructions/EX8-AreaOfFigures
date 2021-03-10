@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class EX8AreaOfFigures {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        String shapeType = scanner.nextLine();
+
+        if(shapeType.equals("square")){
+            double a = Double.parseDouble(scanner.nextLine());
+            double area = (a * a);
+            System.out.printf("%.3f", area);
+        }else if(shapeType.equals("rectangle")){
+            double a = Double.parseDouble(scanner.nextLine());
+            double b = Double.parseDouble(scanner.nextLine());
+            double area = a * b;
+            System.out.printf("%.3f", area);
+        }else if (shapeType.equals("circle")){
+            double r = Double.parseDouble(scanner.nextLine());
+            double area = Math.PI * r * r;
+            System.out.printf("%.3f",area);
+        }else if (shapeType.equals("triangle")){
+            double a = Double.parseDouble(scanner.nextLine());
+            double h = Double.parseDouble(scanner.nextLine());
+            double area = a * h / 2;
+            System.out.printf("%.3f",area);
+        }
+    }
+}
+

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp2.1\AssociativeArrays.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp2.1\AssociativeArrays.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp2.1\AssociativeArrays.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp2.1\AssociativeArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\bin\Debug\netcoreapp2.1\AssociativeArrays.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp2.1\AssociativeArrays.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp2.1\AssociativeArrays.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp2.1\AssociativeArrays.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp2.1\AssociativeArrays.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp2.1\AssociativeArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays\AssociativeArrays\obj\Debug\netcoreapp2.1\AssociativeArrays.pdb

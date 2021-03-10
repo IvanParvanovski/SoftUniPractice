@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\bin\Debug\netcoreapp2.1\Ex8PetShop.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\bin\Debug\netcoreapp2.1\Ex8PetShop.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\bin\Debug\netcoreapp2.1\Ex8PetShop.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\bin\Debug\netcoreapp2.1\Ex8PetShop.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\bin\Debug\netcoreapp2.1\Ex8PetShop.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\obj\Debug\netcoreapp2.1\Ex8PetShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\obj\Debug\netcoreapp2.1\Ex8PetShop.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\obj\Debug\netcoreapp2.1\Ex8PetShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\obj\Debug\netcoreapp2.1\Ex8PetShop.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\obj\Debug\netcoreapp2.1\Ex8PetShop.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex8PetShop\obj\Debug\netcoreapp2.1\Ex8PetShop.genruntimeconfig.cache

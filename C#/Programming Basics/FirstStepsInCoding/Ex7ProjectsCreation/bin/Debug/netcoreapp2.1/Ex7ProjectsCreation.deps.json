@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Ex7ProjectsCreation/1.0.0": {
+        "runtime": {
+          "Ex7ProjectsCreation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex7ProjectsCreation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

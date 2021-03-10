@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex5LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\Ex5LongestIncreasingSubsequence.csprojAssemblyReference.cache

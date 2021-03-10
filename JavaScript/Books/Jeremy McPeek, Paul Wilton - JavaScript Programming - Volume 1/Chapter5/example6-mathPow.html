@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Not working !! -->
+    <script>
+        function fix(fixNumber, deciamlPlaces)
+        {
+            var div = Math.pow(10, deciamlPlaces);
+            fixNumber = Math.round(div * fixNumber) / div;
+            return fixNumber;
+        }
+        
+        var number = prompt('Enter the number you want to be fixed');
+        var decimalPlaces = prompt('Enter the decimal places the number should be fixed');
+        
+        document.write('Your result is: 5');
+        document.write(fix(number, decimalPlaces));
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\bin\Debug\netcoreapp2.1\solution.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\bin\Debug\netcoreapp2.1\solution.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\bin\Debug\netcoreapp2.1\solution.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\bin\Debug\netcoreapp2.1\solution.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\bin\Debug\netcoreapp2.1\solution.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\obj\Debug\netcoreapp2.1\solution.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\obj\Debug\netcoreapp2.1\solution.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\obj\Debug\netcoreapp2.1\solution.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\obj\Debug\netcoreapp2.1\solution.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\obj\Debug\netcoreapp2.1\solution.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\solution\obj\Debug\netcoreapp2.1\solution.pdb

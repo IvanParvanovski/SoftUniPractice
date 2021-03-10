@@ -1,0 +1,3 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\Ex4ArrayRotation\obj\Release\netcoreapp2.1\Ex4ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\Ex4ArrayRotation\obj\Release\netcoreapp2.1\Ex4ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(EXERCISE)\Ex4ArrayRotation\obj\Release\netcoreapp2.1\Ex4ArrayRotation.AssemblyInfo.cs

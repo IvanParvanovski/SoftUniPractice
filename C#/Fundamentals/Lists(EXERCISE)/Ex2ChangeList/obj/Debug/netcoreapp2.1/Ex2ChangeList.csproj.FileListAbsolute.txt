@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\bin\Debug\netcoreapp2.1\Ex2ChangeList.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\bin\Debug\netcoreapp2.1\Ex2ChangeList.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\bin\Debug\netcoreapp2.1\Ex2ChangeList.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\bin\Debug\netcoreapp2.1\Ex2ChangeList.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\bin\Debug\netcoreapp2.1\Ex2ChangeList.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\obj\Debug\netcoreapp2.1\Ex2ChangeList.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\obj\Debug\netcoreapp2.1\Ex2ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\obj\Debug\netcoreapp2.1\Ex2ChangeList.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\obj\Debug\netcoreapp2.1\Ex2ChangeList.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\obj\Debug\netcoreapp2.1\Ex2ChangeList.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex2ChangeList\obj\Debug\netcoreapp2.1\Ex2ChangeList.pdb

@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Test\obj\Debug\netcoreapp2.1\Test.pdb

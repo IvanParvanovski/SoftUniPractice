@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\bin\Debug\netcoreapp2.1\Ex8BeerKegs.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\bin\Debug\netcoreapp2.1\Ex8BeerKegs.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\bin\Debug\netcoreapp2.1\Ex8BeerKegs.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\bin\Debug\netcoreapp2.1\Ex8BeerKegs.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\bin\Debug\netcoreapp2.1\Ex8BeerKegs.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\obj\Debug\netcoreapp2.1\Ex8BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\obj\Debug\netcoreapp2.1\Ex8BeerKegs.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\obj\Debug\netcoreapp2.1\Ex8BeerKegs.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\obj\Debug\netcoreapp2.1\Ex8BeerKegs.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\obj\Debug\netcoreapp2.1\Ex8BeerKegs.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex8BeerKegs\obj\Debug\netcoreapp2.1\Ex8BeerKegs.csprojAssemblyReference.cache

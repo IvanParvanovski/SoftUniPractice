@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\Ex5RemoveNegativesAndReverse.pdb

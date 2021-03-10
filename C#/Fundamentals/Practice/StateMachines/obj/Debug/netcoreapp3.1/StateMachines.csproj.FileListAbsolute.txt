@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\bin\Debug\netcoreapp3.1\StateMachines.exe
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\bin\Debug\netcoreapp3.1\StateMachines.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\bin\Debug\netcoreapp3.1\StateMachines.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\bin\Debug\netcoreapp3.1\StateMachines.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\bin\Debug\netcoreapp3.1\StateMachines.dll
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\bin\Debug\netcoreapp3.1\StateMachines.pdb
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.dll
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.pdb
+D:\SoftUni\C#\Fundamentals\Practice\StateMachines\obj\Debug\netcoreapp3.1\StateMachines.genruntimeconfig.cache

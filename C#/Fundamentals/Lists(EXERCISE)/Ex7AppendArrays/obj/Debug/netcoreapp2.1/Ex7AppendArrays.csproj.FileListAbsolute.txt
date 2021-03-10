@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\bin\Debug\netcoreapp2.1\Ex7AppendArrays.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\bin\Debug\netcoreapp2.1\Ex7AppendArrays.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\bin\Debug\netcoreapp2.1\Ex7AppendArrays.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\bin\Debug\netcoreapp2.1\Ex7AppendArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\bin\Debug\netcoreapp2.1\Ex7AppendArrays.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\obj\Debug\netcoreapp2.1\Ex7AppendArrays.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\obj\Debug\netcoreapp2.1\Ex7AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\obj\Debug\netcoreapp2.1\Ex7AppendArrays.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\obj\Debug\netcoreapp2.1\Ex7AppendArrays.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\obj\Debug\netcoreapp2.1\Ex7AppendArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex7AppendArrays\obj\Debug\netcoreapp2.1\Ex7AppendArrays.pdb

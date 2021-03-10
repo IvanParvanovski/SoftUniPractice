@@ -1,0 +1,11 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\bin\Debug\netcoreapp2.1\Ex6ConcatenateData.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\bin\Debug\netcoreapp2.1\Ex6ConcatenateData.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\bin\Debug\netcoreapp2.1\Ex6ConcatenateData.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\bin\Debug\netcoreapp2.1\Ex6ConcatenateData.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\bin\Debug\netcoreapp2.1\Ex6ConcatenateData.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\obj\Debug\netcoreapp2.1\Ex6ConcatenateData.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\obj\Debug\netcoreapp2.1\Ex6ConcatenateData.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\obj\Debug\netcoreapp2.1\Ex6ConcatenateData.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\obj\Debug\netcoreapp2.1\Ex6ConcatenateData.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\obj\Debug\netcoreapp2.1\Ex6ConcatenateData.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex6ConcatenateData\obj\Debug\netcoreapp2.1\Ex6ConcatenateData.genruntimeconfig.cache

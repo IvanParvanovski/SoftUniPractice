@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\bin\Debug\netcoreapp2.1\Ex9SpiceMustFlow.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\bin\Debug\netcoreapp2.1\Ex9SpiceMustFlow.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\bin\Debug\netcoreapp2.1\Ex9SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\bin\Debug\netcoreapp2.1\Ex9SpiceMustFlow.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\bin\Debug\netcoreapp2.1\Ex9SpiceMustFlow.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\obj\Debug\netcoreapp2.1\Ex9SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\obj\Debug\netcoreapp2.1\Ex9SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\obj\Debug\netcoreapp2.1\Ex9SpiceMustFlow.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\obj\Debug\netcoreapp2.1\Ex9SpiceMustFlow.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex9SpiceMustFlow\obj\Debug\netcoreapp2.1\Ex9SpiceMustFlow.pdb

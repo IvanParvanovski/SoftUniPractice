@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.1\RegularExpressions.deps.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.1\RegularExpressions.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.1\RegularExpressions.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.1\RegularExpressions.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp2.1\RegularExpressions.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp2.1\RegularExpressions.genruntimeconfig.cache

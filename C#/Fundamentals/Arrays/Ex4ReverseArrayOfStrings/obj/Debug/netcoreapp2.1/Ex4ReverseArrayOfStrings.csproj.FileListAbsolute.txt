@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex4ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\Ex4ReverseArrayOfStrings.pdb

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\bin\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\bin\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\bin\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\bin\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\bin\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\obj\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\obj\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\obj\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\obj\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\obj\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Lists(MORE_EXERCISE)\obj\Debug\netcoreapp2.1\Lists(MORE_EXERCISE).pdb

@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\bin\Debug\netcoreapp2.1\Ex7StudentAcademy.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\bin\Debug\netcoreapp2.1\Ex7StudentAcademy.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\bin\Debug\netcoreapp2.1\Ex7StudentAcademy.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\bin\Debug\netcoreapp2.1\Ex7StudentAcademy.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\bin\Debug\netcoreapp2.1\Ex7StudentAcademy.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\obj\Debug\netcoreapp2.1\Ex7StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\obj\Debug\netcoreapp2.1\Ex7StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\obj\Debug\netcoreapp2.1\Ex7StudentAcademy.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\obj\Debug\netcoreapp2.1\Ex7StudentAcademy.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex7StudentAcademy\obj\Debug\netcoreapp2.1\Ex7StudentAcademy.pdb

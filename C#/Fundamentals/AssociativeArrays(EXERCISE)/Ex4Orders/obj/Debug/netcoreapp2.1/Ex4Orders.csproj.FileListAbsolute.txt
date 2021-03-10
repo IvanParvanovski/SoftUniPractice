@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\bin\Debug\netcoreapp2.1\Ex4Orders.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\bin\Debug\netcoreapp2.1\Ex4Orders.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\bin\Debug\netcoreapp2.1\Ex4Orders.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\bin\Debug\netcoreapp2.1\Ex4Orders.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\bin\Debug\netcoreapp2.1\Ex4Orders.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\obj\Debug\netcoreapp2.1\Ex4Orders.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\obj\Debug\netcoreapp2.1\Ex4Orders.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\obj\Debug\netcoreapp2.1\Ex4Orders.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\obj\Debug\netcoreapp2.1\Ex4Orders.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex4Orders\obj\Debug\netcoreapp2.1\Ex4Orders.pdb

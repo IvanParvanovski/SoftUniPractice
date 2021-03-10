@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function convertToCentigrades(degFahren)
+        {
+            var degCent = 5 / 9 * (degFahren - 32);
+            return degCent; 
+        }
+
+        var degFahren = [212, 32, -459.15];
+        var degCent = [];
+        for (var index in degFahren)
+            degCent[index] = convertToCentigrades(degFahren[index]);
+        for (var index in degCent)
+            document.write(`Value ${index} was ${degFahren[index]} degrees Fahrenheit ` + 
+                           `which is ${degCent[index]} degrees centigrades` + "<br/>");
+    </script>
+</body>
+</html>

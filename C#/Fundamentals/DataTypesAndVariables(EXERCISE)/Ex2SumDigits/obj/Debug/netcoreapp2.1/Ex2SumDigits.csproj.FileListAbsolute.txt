@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\bin\Debug\netcoreapp2.1\Ex2SumDigits.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\bin\Debug\netcoreapp2.1\Ex2SumDigits.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\bin\Debug\netcoreapp2.1\Ex2SumDigits.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\bin\Debug\netcoreapp2.1\Ex2SumDigits.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\bin\Debug\netcoreapp2.1\Ex2SumDigits.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\obj\Debug\netcoreapp2.1\Ex2SumDigits.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\obj\Debug\netcoreapp2.1\Ex2SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\obj\Debug\netcoreapp2.1\Ex2SumDigits.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\obj\Debug\netcoreapp2.1\Ex2SumDigits.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\obj\Debug\netcoreapp2.1\Ex2SumDigits.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex2SumDigits\obj\Debug\netcoreapp2.1\Ex2SumDigits.pdb

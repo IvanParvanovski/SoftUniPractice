@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\bin\Debug\netcoreapp2.1\ex2.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\bin\Debug\netcoreapp2.1\ex2.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\bin\Debug\netcoreapp2.1\ex2.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\bin\Debug\netcoreapp2.1\ex2.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\bin\Debug\netcoreapp2.1\ex2.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\obj\Debug\netcoreapp2.1\ex2.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\obj\Debug\netcoreapp2.1\ex2.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\obj\Debug\netcoreapp2.1\ex2.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\obj\Debug\netcoreapp2.1\ex2.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\ex2\obj\Debug\netcoreapp2.1\ex2.pdb

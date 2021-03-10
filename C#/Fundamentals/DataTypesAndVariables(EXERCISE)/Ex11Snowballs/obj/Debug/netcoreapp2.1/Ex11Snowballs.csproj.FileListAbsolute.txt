@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\bin\Debug\netcoreapp2.1\Ex11Snowballs.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\bin\Debug\netcoreapp2.1\Ex11Snowballs.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\bin\Debug\netcoreapp2.1\Ex11Snowballs.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\bin\Debug\netcoreapp2.1\Ex11Snowballs.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\bin\Debug\netcoreapp2.1\Ex11Snowballs.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\obj\Debug\netcoreapp2.1\Ex11Snowballs.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\obj\Debug\netcoreapp2.1\Ex11Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\obj\Debug\netcoreapp2.1\Ex11Snowballs.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\obj\Debug\netcoreapp2.1\Ex11Snowballs.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\obj\Debug\netcoreapp2.1\Ex11Snowballs.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex11Snowballs\obj\Debug\netcoreapp2.1\Ex11Snowballs.pdb

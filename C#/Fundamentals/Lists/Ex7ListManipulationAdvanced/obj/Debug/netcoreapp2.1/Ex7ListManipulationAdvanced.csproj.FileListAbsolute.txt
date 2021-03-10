@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\bin\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\bin\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\bin\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\bin\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\obj\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\obj\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\obj\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\bin\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\obj\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\obj\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7ListManipulationAdvanced\obj\Debug\netcoreapp2.1\Ex7ListManipulationAdvanced.pdb

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\bin\Debug\netcoreapp2.1\Ex2CarRace.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\bin\Debug\netcoreapp2.1\Ex2CarRace.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\bin\Debug\netcoreapp2.1\Ex2CarRace.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\bin\Debug\netcoreapp2.1\Ex2CarRace.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\bin\Debug\netcoreapp2.1\Ex2CarRace.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\obj\Debug\netcoreapp2.1\Ex2CarRace.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\obj\Debug\netcoreapp2.1\Ex2CarRace.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\obj\Debug\netcoreapp2.1\Ex2CarRace.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\obj\Debug\netcoreapp2.1\Ex2CarRace.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\obj\Debug\netcoreapp2.1\Ex2CarRace.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex2CarRace\obj\Debug\netcoreapp2.1\Ex2CarRace.pdb

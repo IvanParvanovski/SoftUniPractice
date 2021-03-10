@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deloper1</string>
+    <string name="BIM">B  I  M</string>
+    <string name="phone_number">089 765 4367</string>
+    <string name="Adress">бул. "България" и бул. "Фритьоф Нансен", ул. „проф. Фритьоф Нансен“, 1142 София</string>
+    <string name="workTime">08:00 - 18:00</string>
+    <string name="TworkTime">WorkTime</string>
+
+</resources>

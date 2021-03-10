@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\bin\Debug\netcoreapp2.1\Ex7EqalArrays.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\bin\Debug\netcoreapp2.1\Ex7EqalArrays.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\bin\Debug\netcoreapp2.1\Ex7EqalArrays.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\bin\Debug\netcoreapp2.1\Ex7EqalArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\bin\Debug\netcoreapp2.1\Ex7EqalArrays.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\obj\Debug\netcoreapp2.1\Ex7EqalArrays.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\obj\Debug\netcoreapp2.1\Ex7EqalArrays.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\obj\Debug\netcoreapp2.1\Ex7EqalArrays.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\obj\Debug\netcoreapp2.1\Ex7EqalArrays.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex7EqalArrays\obj\Debug\netcoreapp2.1\Ex7EqalArrays.pdb

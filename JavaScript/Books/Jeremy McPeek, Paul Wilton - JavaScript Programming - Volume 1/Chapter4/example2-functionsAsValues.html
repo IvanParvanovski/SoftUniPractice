@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function toCentigrades(degFahren)
+        {
+            var degCent = 5 / 9 * (degFahren - 32);
+            document.write(`${degCent} Celcius is ${degFahren} Fahrenheit.` + "<br/>")
+        }
+
+        function toFahrenheit(degCent)
+        {
+            var degFahren =  9 / 5 * degCent + 32;
+            document.write(`${degFahren} Fahrenheit is ${degCent} Celsius.` + "<br/>")
+        }
+
+        function convert(converter, temperature)
+        {
+            converter(temperature);
+        }
+        
+        convert(toFahrenheit, 23);
+        convert(toCentigrades, 75);
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <RadioGroup
+        android:id="@+id/RadioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+    <RadioButton
+        android:id="@+id/radioButton_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="One"
+        android:onClick="checkButton"
+        android:checked="true" />
+
+    <RadioButton
+        android:id="@+id/radioButton_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Two"
+        android:onClick="checkButton"/>
+
+    <RadioButton
+        android:id="@+id/radioButton_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Three"
+        android:onClick="checkButton"/>
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView_selected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/RadioGroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:text="Your selection: "
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/ResultButton"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView_selected"
+        android:layout_marginTop="41dp"
+        android:text="See Result!" />
+
+</RelativeLayout>

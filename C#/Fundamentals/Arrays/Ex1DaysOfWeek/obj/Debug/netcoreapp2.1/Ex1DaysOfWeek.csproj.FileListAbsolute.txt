@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\bin\Debug\netcoreapp2.1\Ex1DaysOfWeek.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\bin\Debug\netcoreapp2.1\Ex1DaysOfWeek.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\bin\Debug\netcoreapp2.1\Ex1DaysOfWeek.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\bin\Debug\netcoreapp2.1\Ex1DaysOfWeek.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\bin\Debug\netcoreapp2.1\Ex1DaysOfWeek.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\obj\Debug\netcoreapp2.1\Ex1DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\obj\Debug\netcoreapp2.1\Ex1DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\obj\Debug\netcoreapp2.1\Ex1DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\obj\Debug\netcoreapp2.1\Ex1DaysOfWeek.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\obj\Debug\netcoreapp2.1\Ex1DaysOfWeek.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex1DaysOfWeek\obj\Debug\netcoreapp2.1\Ex1DaysOfWeek.pdb

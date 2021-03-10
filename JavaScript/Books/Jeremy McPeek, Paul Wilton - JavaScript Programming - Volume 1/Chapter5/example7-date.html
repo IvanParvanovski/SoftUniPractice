@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Chapter 5, Example 7
+    </title>
+</head>
+<body>
+    <script>    
+        var months = [
+            'January',
+            'February',
+            'March',
+            'April',
+            'May',
+            'June',
+            'July',
+            'August',
+            'September',
+            'October',
+            'November',
+            'December',
+        ];
+
+        var dateNow = new Date();
+        var yearNow = dateNow.getFullYear();
+        var monthNow = months[dateNow.getMonth()];
+        var dayNow = dateNow.getDate();
+        var daySuffix;
+        switch(dayNow)
+        {
+            case 1:
+            case 21:
+            case 31:
+                daySuffix = 'st';
+                break;
+            case 2:
+            case 22:
+                daySuffix = 'nd';
+                break;
+            case 3:
+            case 23: 
+                daySuffix = 'rd';
+                break;
+            default:
+                daySuffix = 'th';
+                break;
+        }
+        document.write(`It is the ${dayNow}${daySuffix} day `  +
+                       `in the month of ${monthNow} monthNow ` +
+                       `in the year ${yearNow} yearNow`);
+    </script>
+</body>
+</html>

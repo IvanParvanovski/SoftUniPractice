@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\bin\Debug\netcoreapp2.1\Ex3HouseParty.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\bin\Debug\netcoreapp2.1\Ex3HouseParty.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\bin\Debug\netcoreapp2.1\Ex3HouseParty.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\bin\Debug\netcoreapp2.1\Ex3HouseParty.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\bin\Debug\netcoreapp2.1\Ex3HouseParty.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\obj\Debug\netcoreapp2.1\Ex3HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\obj\Debug\netcoreapp2.1\Ex3HouseParty.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\obj\Debug\netcoreapp2.1\Ex3HouseParty.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\obj\Debug\netcoreapp2.1\Ex3HouseParty.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\obj\Debug\netcoreapp2.1\Ex3HouseParty.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex3HouseParty\obj\Debug\netcoreapp2.1\Ex3HouseParty.csprojAssemblyReference.cache

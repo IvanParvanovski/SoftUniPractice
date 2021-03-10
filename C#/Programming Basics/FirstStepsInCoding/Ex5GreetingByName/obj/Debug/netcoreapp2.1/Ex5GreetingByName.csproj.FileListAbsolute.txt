@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\bin\Debug\netcoreapp2.1\Ex5GreetingByName.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\bin\Debug\netcoreapp2.1\Ex5GreetingByName.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\bin\Debug\netcoreapp2.1\Ex5GreetingByName.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\bin\Debug\netcoreapp2.1\Ex5GreetingByName.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\bin\Debug\netcoreapp2.1\Ex5GreetingByName.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.csprojAssemblyReference.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex5GreetingByName\obj\Debug\netcoreapp2.1\Ex5GreetingByName.genruntimeconfig.cache

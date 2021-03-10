@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\bin\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.exe
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\bin\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.deps.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\bin\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\bin\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\bin\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.dll
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\bin\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.pdb
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.dll
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.pdb
+D:\SoftUni\C#\Fundamentals\TextProcessing\Ex5DigitsLettersOthers\obj\Debug\netcoreapp3.1\Ex5DigitsLettersOthers.genruntimeconfig.cache

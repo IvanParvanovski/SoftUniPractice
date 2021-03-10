@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/red"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/Ivan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="8dp"
+        android:background="@color/blue"
+        android:padding="5dp"
+        android:text="@string/Ivan"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/Stefan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="8dp"
+        android:layout_toEndOf="@id/Ivan"
+        android:layout_toRightOf="@id/Ivan"
+        android:background="@color/blue"
+        android:text="@string/Stefan"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+
+    <TextView
+        android:id="@+id/Tanq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Stefan"
+        android:layout_centerInParent="true"
+        android:layout_margin="8dp"
+        android:layout_toEndOf="@id/Ivan"
+        android:layout_toRightOf="@id/Ivan"
+        android:background="@color/blue"
+        android:text="@string/Tanq"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/Petko"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Tanq"
+        android:layout_centerInParent="true"
+        android:layout_margin="8dp"
+        android:layout_toEndOf="@id/Ivan"
+        android:layout_toRightOf="@id/Ivan"
+        android:background="@color/blue"
+        android:text="@string/Petko"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/Mitko"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:background="@color/blue"
+        android:text="@string/Mitko"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/Lili"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/Mitko"
+        android:layout_margin="8dp"
+        android:background="@color/blue"
+        android:text="@string/Lili"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/Niki"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/Lili"
+        android:layout_margin="8dp"
+        android:background="@color/blue"
+        android:text="@string/Niki"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/Georgi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:background="@color/blue"
+        android:text="@string/Georgi"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        tools:ignore="RelativeOverlap" />
+
+    <TextView
+        android:id="@+id/Petq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/Georgi"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="8dp"
+        android:background="@color/blue"
+        android:text="@string/Petq"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+
+</>

@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\bin\Debug\netcoreapp2.1\Ex5SumEvenNumbers.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\bin\Debug\netcoreapp2.1\Ex5SumEvenNumbers.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\bin\Debug\netcoreapp2.1\Ex5SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\bin\Debug\netcoreapp2.1\Ex5SumEvenNumbers.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\bin\Debug\netcoreapp2.1\Ex5SumEvenNumbers.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\obj\Debug\netcoreapp2.1\Ex5SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\obj\Debug\netcoreapp2.1\Ex5SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\obj\Debug\netcoreapp2.1\Ex5SumEvenNumbers.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\obj\Debug\netcoreapp2.1\Ex5SumEvenNumbers.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists\Ex5SumEvenNumbers\obj\Debug\netcoreapp2.1\Ex5SumEvenNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\bin\Debug\netcoreapp2.1\Ex8AnonymousThreat.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\bin\Debug\netcoreapp2.1\Ex8AnonymousThreat.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\bin\Debug\netcoreapp2.1\Ex8AnonymousThreat.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\bin\Debug\netcoreapp2.1\Ex8AnonymousThreat.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\bin\Debug\netcoreapp2.1\Ex8AnonymousThreat.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\obj\Debug\netcoreapp2.1\Ex8AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\obj\Debug\netcoreapp2.1\Ex8AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\obj\Debug\netcoreapp2.1\Ex8AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\obj\Debug\netcoreapp2.1\Ex8AnonymousThreat.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\obj\Debug\netcoreapp2.1\Ex8AnonymousThreat.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex8AnonymousThreat\obj\Debug\netcoreapp2.1\Ex8AnonymousThreat.pdb

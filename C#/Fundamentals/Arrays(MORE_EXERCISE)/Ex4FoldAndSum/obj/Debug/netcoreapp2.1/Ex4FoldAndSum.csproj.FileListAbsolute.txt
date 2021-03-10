@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\bin\Debug\netcoreapp2.1\Ex4FoldAndSum.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\bin\Debug\netcoreapp2.1\Ex4FoldAndSum.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\bin\Debug\netcoreapp2.1\Ex4FoldAndSum.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\bin\Debug\netcoreapp2.1\Ex4FoldAndSum.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\bin\Debug\netcoreapp2.1\Ex4FoldAndSum.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\obj\Debug\netcoreapp2.1\Ex4FoldAndSum.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\obj\Debug\netcoreapp2.1\Ex4FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\obj\Debug\netcoreapp2.1\Ex4FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\obj\Debug\netcoreapp2.1\Ex4FoldAndSum.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\obj\Debug\netcoreapp2.1\Ex4FoldAndSum.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex4FoldAndSum\obj\Debug\netcoreapp2.1\Ex4FoldAndSum.pdb

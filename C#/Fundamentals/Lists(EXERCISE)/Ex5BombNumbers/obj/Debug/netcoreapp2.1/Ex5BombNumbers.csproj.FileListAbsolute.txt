@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\bin\Debug\netcoreapp2.1\Ex5BombNumbers.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\bin\Debug\netcoreapp2.1\Ex5BombNumbers.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\bin\Debug\netcoreapp2.1\Ex5BombNumbers.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\bin\Debug\netcoreapp2.1\Ex5BombNumbers.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\bin\Debug\netcoreapp2.1\Ex5BombNumbers.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\obj\Debug\netcoreapp2.1\Ex5BombNumbers.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\obj\Debug\netcoreapp2.1\Ex5BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\obj\Debug\netcoreapp2.1\Ex5BombNumbers.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\obj\Debug\netcoreapp2.1\Ex5BombNumbers.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\obj\Debug\netcoreapp2.1\Ex5BombNumbers.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex5BombNumbers\obj\Debug\netcoreapp2.1\Ex5BombNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\bin\Debug\netcoreapp2.1\Ex1Messaging.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\bin\Debug\netcoreapp2.1\Ex1Messaging.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\bin\Debug\netcoreapp2.1\Ex1Messaging.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\bin\Debug\netcoreapp2.1\Ex1Messaging.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\bin\Debug\netcoreapp2.1\Ex1Messaging.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\obj\Debug\netcoreapp2.1\Ex1Messaging.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\obj\Debug\netcoreapp2.1\Ex1Messaging.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\obj\Debug\netcoreapp2.1\Ex1Messaging.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\obj\Debug\netcoreapp2.1\Ex1Messaging.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(MORE_EXERCISE)\Ex1Messaging\obj\Debug\netcoreapp2.1\Ex1Messaging.pdb

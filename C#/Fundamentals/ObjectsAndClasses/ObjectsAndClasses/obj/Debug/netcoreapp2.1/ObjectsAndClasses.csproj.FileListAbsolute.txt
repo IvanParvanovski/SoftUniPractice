@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.genruntimeconfig.cache

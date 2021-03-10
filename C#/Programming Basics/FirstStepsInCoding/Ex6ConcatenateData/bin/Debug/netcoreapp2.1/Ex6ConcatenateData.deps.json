@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Ex6ConcatenateData/1.0.0": {
+        "runtime": {
+          "Ex6ConcatenateData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex6ConcatenateData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

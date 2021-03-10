@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\bin\Debug\netcoreapp2.1\Ex4SumOfChars.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\bin\Debug\netcoreapp2.1\Ex4SumOfChars.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\bin\Debug\netcoreapp2.1\Ex4SumOfChars.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\bin\Debug\netcoreapp2.1\Ex4SumOfChars.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\bin\Debug\netcoreapp2.1\Ex4SumOfChars.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\obj\Debug\netcoreapp2.1\Ex4SumOfChars.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\obj\Debug\netcoreapp2.1\Ex4SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\obj\Debug\netcoreapp2.1\Ex4SumOfChars.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\obj\Debug\netcoreapp2.1\Ex4SumOfChars.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\obj\Debug\netcoreapp2.1\Ex4SumOfChars.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\DataTypesAndVariables(EXERCISE)\Ex4SumOfChars\obj\Debug\netcoreapp2.1\Ex4SumOfChars.pdb

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\bin\Debug\netcoreapp2.1\Ex1COutCHarsInAString.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\bin\Debug\netcoreapp2.1\Ex1COutCHarsInAString.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\bin\Debug\netcoreapp2.1\Ex1COutCHarsInAString.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\bin\Debug\netcoreapp2.1\Ex1COutCHarsInAString.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\bin\Debug\netcoreapp2.1\Ex1COutCHarsInAString.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\obj\Debug\netcoreapp2.1\Ex1COutCHarsInAString.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\obj\Debug\netcoreapp2.1\Ex1COutCHarsInAString.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\obj\Debug\netcoreapp2.1\Ex1COutCHarsInAString.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\obj\Debug\netcoreapp2.1\Ex1COutCHarsInAString.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\obj\Debug\netcoreapp2.1\Ex1COutCHarsInAString.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\AssociativeArrays(EXERCISE)\Ex1COutCHarsInAString\obj\Debug\netcoreapp2.1\Ex1COutCHarsInAString.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\bin\Debug\netcoreapp2.1\Ex4ListOperations.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\bin\Debug\netcoreapp2.1\Ex4ListOperations.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\bin\Debug\netcoreapp2.1\Ex4ListOperations.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\bin\Debug\netcoreapp2.1\Ex4ListOperations.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\bin\Debug\netcoreapp2.1\Ex4ListOperations.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\obj\Debug\netcoreapp2.1\Ex4ListOperations.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\obj\Debug\netcoreapp2.1\Ex4ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\obj\Debug\netcoreapp2.1\Ex4ListOperations.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\obj\Debug\netcoreapp2.1\Ex4ListOperations.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\obj\Debug\netcoreapp2.1\Ex4ListOperations.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Lists(EXERCISE)\Ex4ListOperations\obj\Debug\netcoreapp2.1\Ex4ListOperations.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\bin\Debug\netcoreapp2.1\Ex1HelloSoftUni.deps.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\bin\Debug\netcoreapp2.1\Ex1HelloSoftUni.runtimeconfig.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\bin\Debug\netcoreapp2.1\Ex1HelloSoftUni.runtimeconfig.dev.json
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\bin\Debug\netcoreapp2.1\Ex1HelloSoftUni.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\bin\Debug\netcoreapp2.1\Ex1HelloSoftUni.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.csprojAssemblyReference.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.AssemblyInfo.cs
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.dll
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.pdb
+D:\SoftUni\C#\Programming Basics\FirstStepsInCoding\Ex1HelloSoftUni\obj\Debug\netcoreapp2.1\Ex1HelloSoftUni.genruntimeconfig.cache

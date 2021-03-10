@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="button_Menu">Menu</string>
+    <string name="textView_ProfileAvatar">Profile Avatar</string>
+    <string name="textView_Name">Name</string>
+    <string name="textView_Weight">W E I G H T</string>
+    <string name="textView_Height">H E I G H T</string>
+    <string name="textView_Age">A G E</string>
+    <string name="textView_Gender">G E N D E R</string>
+    <string name="editable_Number_65">65</string>
+</resources>

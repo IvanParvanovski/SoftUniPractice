@@ -1,0 +1,16 @@
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\DefiningClasses.exe
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\DefiningClasses.deps.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\DefiningClasses.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\DefiningClasses.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\DefiningClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\ref\DefiningClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\bin\Debug\net5.0\DefiningClasses.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\ref\DefiningClasses.dll
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.pdb
+D:\SoftUni\C#\Fundamentals\ObjectsAndClasses(MORE_EXERCISE)\DefiningClasses\obj\Debug\net5.0\DefiningClasses.genruntimeconfig.cache

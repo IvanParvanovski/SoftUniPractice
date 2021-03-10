@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Earthquake_app</string>
+    <string name="textView_Earthquake">Earthquake</string>
+</resources>

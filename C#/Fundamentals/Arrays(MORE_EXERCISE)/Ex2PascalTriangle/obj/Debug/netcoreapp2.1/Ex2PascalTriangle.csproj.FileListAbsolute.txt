@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\bin\Debug\netcoreapp2.1\Ex2PascalTriangle.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\bin\Debug\netcoreapp2.1\Ex2PascalTriangle.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\bin\Debug\netcoreapp2.1\Ex2PascalTriangle.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\bin\Debug\netcoreapp2.1\Ex2PascalTriangle.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\bin\Debug\netcoreapp2.1\Ex2PascalTriangle.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\obj\Debug\netcoreapp2.1\Ex2PascalTriangle.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\obj\Debug\netcoreapp2.1\Ex2PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\obj\Debug\netcoreapp2.1\Ex2PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\obj\Debug\netcoreapp2.1\Ex2PascalTriangle.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\obj\Debug\netcoreapp2.1\Ex2PascalTriangle.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Fundamentals\Arrays(MORE_EXERCISE)\Ex2PascalTriangle\obj\Debug\netcoreapp2.1\Ex2PascalTriangle.pdb

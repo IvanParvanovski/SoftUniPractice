@@ -1,0 +1,11 @@
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\bin\Debug\netcoreapp2.1\Demo1.deps.json
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\bin\Debug\netcoreapp2.1\Demo1.runtimeconfig.json
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\bin\Debug\netcoreapp2.1\Demo1.runtimeconfig.dev.json
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\bin\Debug\netcoreapp2.1\Demo1.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\bin\Debug\netcoreapp2.1\Demo1.pdb
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\obj\Debug\netcoreapp2.1\Demo1.csprojAssemblyReference.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\obj\Debug\netcoreapp2.1\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\obj\Debug\netcoreapp2.1\Demo1.AssemblyInfoInputs.cache
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\obj\Debug\netcoreapp2.1\Demo1.AssemblyInfo.cs
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\obj\Debug\netcoreapp2.1\Demo1.dll
+C:\Users\iparv\Desktop\SoftUni\C#\Programming Basics\Review\Review\Demo1\obj\Debug\netcoreapp2.1\Demo1.pdb

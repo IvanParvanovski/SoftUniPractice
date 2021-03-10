@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Chaper 5, Example 3
+    </title>
+</head>
+<body>
+    <script>
+        var myShoppping = ['Eggs', 'Milk', 'Potatoes', 'Cereal', 'Banana'];
+        var ord = prompt('Enter 1 for alphabetical order ' + 
+                         'and -1 for reverse order', 1);
+        
+        let result;
+        if (ord == 1)
+        {
+            myShoppping.sort();
+            result = myShoppping.join("<br/>");
+        }
+        else if (ord == -1)
+        {
+            myShoppping.sort();
+            myShoppping.reverse();
+            result = myShoppping.join("<br/>");
+        }
+        else 
+        {
+            result = 'That is not a valid input';
+        }
+        document.write(result);
+    </script>
+</body>
+</html>
