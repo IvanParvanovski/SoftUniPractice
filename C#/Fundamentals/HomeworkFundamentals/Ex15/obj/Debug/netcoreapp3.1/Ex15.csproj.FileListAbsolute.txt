@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\bin\Debug\netcoreapp3.1\Ex15.exe
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\bin\Debug\netcoreapp3.1\Ex15.deps.json
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\bin\Debug\netcoreapp3.1\Ex15.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\bin\Debug\netcoreapp3.1\Ex15.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\bin\Debug\netcoreapp3.1\Ex15.dll
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\bin\Debug\netcoreapp3.1\Ex15.pdb
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.dll
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.pdb
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex15\obj\Debug\netcoreapp3.1\Ex15.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\bin\Debug\netcoreapp3.1\Ex24.exe
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\bin\Debug\netcoreapp3.1\Ex24.deps.json
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\bin\Debug\netcoreapp3.1\Ex24.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\bin\Debug\netcoreapp3.1\Ex24.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\bin\Debug\netcoreapp3.1\Ex24.dll
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\bin\Debug\netcoreapp3.1\Ex24.pdb
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.dll
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.pdb
+D:\SoftUni\C#\Fundamentals\HomeworkFundamentals\Ex24\obj\Debug\netcoreapp3.1\Ex24.genruntimeconfig.cache
