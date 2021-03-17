@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\bin\Debug\netcoreapp3.1\Ex1MatchFullName.exe
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\bin\Debug\netcoreapp3.1\Ex1MatchFullName.deps.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\bin\Debug\netcoreapp3.1\Ex1MatchFullName.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\bin\Debug\netcoreapp3.1\Ex1MatchFullName.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\bin\Debug\netcoreapp3.1\Ex1MatchFullName.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\bin\Debug\netcoreapp3.1\Ex1MatchFullName.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex1MatchFullName\obj\Debug\netcoreapp3.1\Ex1MatchFullName.genruntimeconfig.cache

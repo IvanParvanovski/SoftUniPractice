@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\bin\Debug\netcoreapp3.1\Ex3MatchDates.exe
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\bin\Debug\netcoreapp3.1\Ex3MatchDates.deps.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\bin\Debug\netcoreapp3.1\Ex3MatchDates.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\bin\Debug\netcoreapp3.1\Ex3MatchDates.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\bin\Debug\netcoreapp3.1\Ex3MatchDates.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\bin\Debug\netcoreapp3.1\Ex3MatchDates.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex3MatchDates\obj\Debug\netcoreapp3.1\Ex3MatchDates.genruntimeconfig.cache

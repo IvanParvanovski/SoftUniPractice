@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\bin\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.exe
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\bin\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.deps.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\bin\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\bin\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\bin\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\bin\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions\Ex2MatchPhoneNumber\obj\Debug\netcoreapp3.1\Ex2MatchPhoneNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\bin\Debug\netcoreapp3.1\Ex1Furniture.exe
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\bin\Debug\netcoreapp3.1\Ex1Furniture.deps.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\bin\Debug\netcoreapp3.1\Ex1Furniture.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\bin\Debug\netcoreapp3.1\Ex1Furniture.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\bin\Debug\netcoreapp3.1\Ex1Furniture.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\bin\Debug\netcoreapp3.1\Ex1Furniture.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.dll
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.pdb
+D:\SoftUni\C#\Fundamentals\RegularExpressions(EXERCISE)\Ex1Furniture\obj\Debug\netcoreapp3.1\Ex1Furniture.genruntimeconfig.cache
