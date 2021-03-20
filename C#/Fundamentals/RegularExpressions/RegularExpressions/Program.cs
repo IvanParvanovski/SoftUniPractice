@@ -7,15 +7,14 @@ namespace RegularExpressions
     {
         static void Main(string[] args)
         {
-            string email = "parvanovski_ivan@abv.bg";
-            string regex = @"[a-zA-z]{3,}([0-9]+)?@([a-zA-z]+){3,}(\.[a-zA-Z]+)+";
-            Match m = Regex.Match(email, regex);
-            
-            if (m.Success)
-                Console.WriteLine("Valid email!");
-            else
-                Console.WriteLine("Invalid email!");
-            
+            string pattern = @"\b(?<day>\d{2})([-.\/])(?<month>[A-Z][a-z]{2})\1(?<year>\d{4})\b";
+            string input = Console.ReadLine();
+            RegexOptions options = RegexOptions.Multiline;
+        
+            foreach (Match m in Regex.Matches(input, pattern))
+            {
+                Console.WriteLine("'{0}' found at index {1}.", m.Value, m.Index);
+            }
         }
     }
 }

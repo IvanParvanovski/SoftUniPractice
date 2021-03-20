@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace Ex21
 {
@@ -7,13 +6,21 @@ namespace Ex21
     {
         static void Main(string[] args)
         {
+            // Input:
+            // My name is Esmeralda. Today is Christmas Eve and my dad and mam are next to me.
+            
+            // Read user's input
             string[] words = Console.ReadLine()?.Split();
+            
+            // Print if the word is the same as reversed
             foreach (string word in words)
-                if (word == ReverseString(word))
+                if (String.Equals(word, ReverseString(word), StringComparison.CurrentCultureIgnoreCase))
                     Console.WriteLine(word);
         }
         private static string ReverseString(string word)
         {
+            // Reverse the word
+            
             char[] reversedWord = word.ToCharArray();
             Array.Reverse(reversedWord);
             return new string(reversedWord);

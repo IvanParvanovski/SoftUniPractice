@@ -7,21 +7,23 @@ namespace Ex16
     {
         static void Main(string[] args)
         {
+            // Input:
+            // <p>Please visit <a href="https://softuni.bg">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>
+            
+            // Read user's input
             string text = Console.ReadLine();
+            
+            // Set up the regular expression
             string regexPattern = "<a href=\"(?<URL>.*?)\">(?<Text>.*?)<\\/a>";
             Regex regex = new Regex(regexPattern);
-            MatchCollection matches = regex.Matches(text);
 
-            string result = text;
-            foreach (Match link in matches)
-            {
-                string url = link.Groups["URL"].ToString();
-                string linkText = link.Groups["Text"].ToString();
-                string currentPattern = "<a href=\"" + url + "\">"+ linkText +"<\\/a>";
-                string newText = $"[URL={url}]{linkText}[/URL]";
-                result = Regex.Replace(result, currentPattern, newText);
-            }
+            // Replace each match with
+            // [URL=match-url]match-text[/URL]
+            string result = regex.Replace(text, 
+                                   match => $"[URL={match.Groups["URL"]}]" +
+                                                    $"{match.Groups["Text"]}[/URL]");
 
+            // Print the result
             Console.WriteLine(result);
         }
     }

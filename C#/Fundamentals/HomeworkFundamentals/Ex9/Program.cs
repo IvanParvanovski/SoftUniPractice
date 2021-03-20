@@ -7,12 +7,24 @@ namespace Ex9
     {
         static void Main(string[] args)
         {
+            // Input:
+            // Nakov
+            // ab
+            
+            // Read user's input and check if it is not empty or null.
             string text = Console.ReadLine();
-            string code = Console.ReadLine();
+            Debug.Assert(text != null, nameof(text) + " != null");
 
-            int codeIndex = 0;
+            string code = Console.ReadLine();
             Debug.Assert(code != null, nameof(code) + " != null");
+            
+            // Set up code's attributes
+            int codeIndex = 0;
             int codeLength = code.Length;
+            
+            // Loop threw the text and code each character with the XOR operation
+            // Between the TEXT character and CODE character
+            // Print it with following zeros.
             foreach (char symbol in text)
             {
                 if (codeLength <= codeIndex)

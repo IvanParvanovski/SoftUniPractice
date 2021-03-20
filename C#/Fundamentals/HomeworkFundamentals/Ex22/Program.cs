@@ -9,7 +9,7 @@ namespace Ex22
         static void Main(string[] args)
         {
             string text = Console.ReadLine();
-            string result = new string(text.OrderBy(x => x).ToArray());
+            string result = new string(text!.OrderBy(x => x).ToArray());
             Dictionary<char, int> resultDict = new Dictionary<char, int>();
             foreach (char symbol in result)
             {

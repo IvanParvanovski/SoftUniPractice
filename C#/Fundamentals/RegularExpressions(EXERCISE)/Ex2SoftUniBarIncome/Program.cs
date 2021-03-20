@@ -22,7 +22,7 @@ namespace Ex2SoftUniBarIncome
                     continue;
                 
                 double cost = double.Parse(match.Groups["price"].ToString()) * 
-                               double.Parse(match.Groups["quantity"].ToString());
+                              double.Parse(match.Groups["quantity"].ToString());
                 
                 Console.WriteLine($"{match.Groups["name"]}: " +
                                   $"{match.Groups["product"]} - " +

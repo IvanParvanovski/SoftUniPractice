@@ -10,7 +10,12 @@ namespace Ex7
         public string Result { get; set; }
         public BoundedString(string text)
         {
+            // Get input string
+            // If it is LESS than the max length -> add stars
+            // If it is MORE than the max length -> cut
+            
             this.InputString = text;
+            
             if (this.InputString.Length >= MaxLength)
                 this.InputString = this.InputString.Substring(0, MaxLength);
             
@@ -19,6 +24,9 @@ namespace Ex7
 
         private string AddStars(string text)
         {
+            // Get a string and calculate the (max length - the lenght of the input)
+            // Generate a string with '*' with the difference and return it.
+            
             int neededStars = MaxLength - text.Length;
             return text + new String('*', neededStars);
         }

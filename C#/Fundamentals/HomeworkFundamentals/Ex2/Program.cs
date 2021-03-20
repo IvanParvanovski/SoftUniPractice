@@ -7,8 +7,11 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
+            // Input: introduction
+
+            // Read string and reverse it.
             Console.WriteLine(string.Join("",
-                        Console.ReadLine().Reverse()));
+                         Console.ReadLine().Reverse()));
         }
     }
 }

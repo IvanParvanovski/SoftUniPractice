@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace Ex7
 {
@@ -7,7 +6,15 @@ namespace Ex7
     {
         static void Main(string[] args)
         {
+            // Input:
+            // Ivan
+            // Ivan123567890
+            // My name is Ivan Parvanovski
+            
+            // Add or cut user's input.
             BoundedString result = new BoundedString(Console.ReadLine());
+            
+            // Print the stdout
             Console.WriteLine(result.Result);
         }
     }

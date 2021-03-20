@@ -7,20 +7,22 @@ namespace Ex6
     {
         static void Main(string[] args)
         {
+            // Input:
+            // We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.
+            
+            // Read the user's input.
             string text = Console.ReadLine();
-            string regexPattern = @"(?<=<upcase>)(.*?)(?=<\/upcase>)";
             
+            // Set up the regular expression.
+            string regexPattern = @"<upcase>(?<insideText>.*?)<\/upcase>";
             Regex regex = new Regex(regexPattern);
-            MatchCollection matches = regex.Matches(text!);
             
-            string result = text;
-            foreach (Match match in matches)
-            {
-                string word = match.ToString();
-                string currentPattern = @"<upcase>" + word + @"<\/upcase>";
-                result = Regex.Replace(result, currentPattern, word.ToUpper());
-            }
-
+            // Replace all of the matches
+            // With the text inside of each match with capitalized letters.
+            string result = regex.Replace(text!,
+                                   match => match.Groups["insideText"].Value.ToUpper());
+            
+            // Print the stdout
             Console.WriteLine(result);
         }
     }
