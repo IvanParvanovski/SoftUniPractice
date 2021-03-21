@@ -8,10 +8,12 @@ namespace Ex2
         static void Main(string[] args)
         {
             // Input: introduction
+            
+            // Output: noitcudortni
 
             // Read string and reverse it.
             Console.WriteLine(string.Join("",
-                         Console.ReadLine().Reverse()));
+                         Console.ReadLine()!.Reverse()));
         }
     }
 }

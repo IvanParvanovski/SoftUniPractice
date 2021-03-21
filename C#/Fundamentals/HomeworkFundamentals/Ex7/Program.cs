@@ -10,6 +10,12 @@ namespace Ex7
             // Ivan
             // Ivan123567890
             // My name is Ivan Parvanovski
+
+            // Output:
+            // ********************
+            // Ivan****************
+            // Ivan123567890*******
+            // My name is Ivan Parv
             
             // Add or cut user's input.
             BoundedString result = new BoundedString(Console.ReadLine());

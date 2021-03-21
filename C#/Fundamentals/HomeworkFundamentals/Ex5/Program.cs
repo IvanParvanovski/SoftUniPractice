@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace Ex5
 {
@@ -11,6 +10,8 @@ namespace Ex5
             // We are living in a yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.
             // In
             
+            // Output: 9
+
             // Read user's input.
             string text = Console.ReadLine();
             

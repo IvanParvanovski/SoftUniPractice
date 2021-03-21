@@ -11,6 +11,9 @@ namespace Ex9
             // Nakov
             // ab
             
+            // Output:
+            // \u002f\u0003\u000a\u000d\u0017
+
             // Read user's input and check if it is not empty or null.
             string text = Console.ReadLine();
             Debug.Assert(text != null, nameof(text) + " != null");

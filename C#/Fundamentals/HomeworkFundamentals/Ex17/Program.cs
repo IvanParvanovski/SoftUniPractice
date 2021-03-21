@@ -12,6 +12,9 @@ namespace Ex17
             // Enter the first date: 27.02.2006
             // Enter the second date: 3.03.2004
             
+            // Output:
+            // Distance: 4 days
+            
             // Read user's input and 
             int[] firstDateData = Console.ReadLine()?.Trim()
                                                      .Split(": ", StringSplitOptions.RemoveEmptyEntries)[1]

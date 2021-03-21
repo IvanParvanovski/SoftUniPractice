@@ -17,6 +17,9 @@ namespace Ex15
             // namespace
             // End
             
+            // Output:
+            // hierarchical organization of classes
+
             // Set up a dictionary to keep the words + their description
             Dictionary<string, string> words = new Dictionary<string, string>();
 

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Globalization;
-using System.Text.RegularExpressions;
 
 namespace Ex26
 {
@@ -10,31 +7,90 @@ namespace Ex26
     {
         static void Main(string[] args)
         {
-            string text = Console.ReadLine();
+            // Input: 
+            // title
+            // body
+            // end
+            // <html>
+            //
+            //    <head><title>News</title></head>
+            //
+            //    <body><p><a href="https://softuni.bg">Telerik
+            //
+            //     Academy</a>aims to provide free real-world practical
+            //
+            //     training for young people who want to turn into
+            //
+            //     skillful .NET software engineers.</p></body>
+            //
+            // </html>
+            // end
             
-            string titlePattern = @"<(?<TagTitle>title)>(?<TagData>.*)<\/title>";
-            string bodyPattern = @"<(?<TagTitle>body)>(?<TagData>.*)<\/body>";
-            List<string> importantTags = new List<string> {titlePattern, bodyPattern};
+            // Output:
+            // 
+            // Title: News
+            // Body: Telerik Academy aims to provide free real-world practical training for young people who want to turn into skillful .NET software engineers.
 
-            string result = text;
-            foreach (string importantTagPattern in importantTags)
+
+            // Read important tags
+            PrintMessage("Type important tags:");
+            List<string> importantTags = ReadImportantTags();
+
+            // Read html
+            PrintMessage("Type html:");
+            string html = ReadHtml();
+
+            // Remove tags, reduce the number of spaces, and add new lines 
+            ClearHtml clearedHtml = new ClearHtml(html, importantTags);
+
+            // Print the result
+            Console.WriteLine(clearedHtml.Result);
+        }
+
+        private static void PrintMessage(string message)
+        {
+            // Print colored message
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(message);
+            Console.ForegroundColor = ConsoleColor.White;
+        }
+
+        private static List<string> ReadImportantTags()
+        {
+            // Reads important tags such as: <title> and <body>
+
+            List<string> importantTags = new List<string>();
+            while (true)
             {
-                Regex regex = new Regex(importantTagPattern);
-                Match tagText = regex.Match(text);
-   
-                string tagTitle = tagText.Groups["TagTitle"].ToString();
-                string tagData = tagText.Groups["TagData"].ToString();
+                string importantTag = Console.ReadLine();
 
-                Regex tagRegex = new Regex(@">(.*?)<");
-                MatchCollection insideInformation = tagRegex.Matches(tagData);
-                string insideInformationResult = "";
-                if (insideInformation.Count != 0)
-                    insideInformationResult = string.Join("", insideInformation).Replace("<", "").Replace(">", "");
-                else
-                    insideInformationResult = tagData;
-                
-                Console.WriteLine($"{char.ToUpper(tagTitle[0]) + tagTitle.Substring(1, tagTitle.Length - 1)}: {insideInformationResult}");
+                if (importantTag!.ToLower() == "end")
+                    break;
+
+                importantTags.Add($@"<(?<TagTitle>{importantTag})>(?<TagData>.*)<\/{importantTag}>");
             }
+
+            return importantTags;
+        }
+
+        private static string ReadHtml()
+        {
+            // Read the html and make it inline
+
+            string result = "";
+            while (true)
+            {
+                string text = Console.ReadLine();
+
+                if (text!.ToLower() == "end")
+                    break;
+
+                if (text != "")
+                    result += text;
+            }
+
+            return result;
         }
     }
 }

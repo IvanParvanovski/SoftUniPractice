@@ -8,9 +8,13 @@ namespace Ex8
         static void Main(string[] args)
         {
             // Input:
-            // Наков -> \u041d\u0430\u043a\u043e\u0432
-            // Nakov -> \u004e\u0061\u006b\u006f\u0076
-
+            // Наков
+            // Nakov -> 
+            
+            // Output:
+            // \u041d\u0430\u043a\u043e\u0432
+            // \u004e\u0061\u006b\u006f\u0076
+            
             // Set up the console so it can read Unicode characters.
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;

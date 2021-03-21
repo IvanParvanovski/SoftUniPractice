@@ -10,6 +10,10 @@ namespace Ex20
             // Input:
             // I was born at 14.06.1980. My sister was born at 3.7.1984. In 5/1999 I graduated my high school. The law says (see section 7.3.12) that we are allowed to do this (section 7.4.2.9).
             
+            // Output:
+            // 14.06.1980
+            // 3.7.1984
+            
             // Read user's input
             string text = Console.ReadLine();
 

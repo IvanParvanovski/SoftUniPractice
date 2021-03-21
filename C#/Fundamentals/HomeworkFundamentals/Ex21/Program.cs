@@ -9,6 +9,11 @@ namespace Ex21
             // Input:
             // My name is Esmeralda. Today is Christmas Eve and my dad and mam are next to me.
             
+            // Output:
+            // Eve
+            // dad
+            // mam
+            
             // Read user's input
             string[] words = Console.ReadLine()?.Split();
             

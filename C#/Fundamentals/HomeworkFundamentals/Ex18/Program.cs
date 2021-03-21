@@ -11,6 +11,11 @@ namespace Ex18
             // 20.3.2020 5.56.48
             // 20.3.2020 20.56.48
             // 20.3.2020 1.30.0
+            
+            // Output:
+            // 20.3.2020 12.26.48
+            // 21.3.2020 3.26.48
+            // 20.3.2020 8.0.0
 
             // Read user's date
             string[] fullData = Console.ReadLine()?.Split();

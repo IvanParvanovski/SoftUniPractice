@@ -10,6 +10,9 @@ namespace Ex6
             // Input:
             // We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.
             
+            // Output:
+            // We are living in a YELLOW SUBMARINE. We don't have ANYTHING else.
+            
             // Read the user's input.
             string text = Console.ReadLine();
             

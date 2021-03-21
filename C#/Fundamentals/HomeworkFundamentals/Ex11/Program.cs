@@ -12,6 +12,9 @@ namespace Ex11
             // C#,CLR,Microsoft
             // Microsoft announced its next generation C# compiler today. It uses advanced parser and special optimizer for the Microsoft CLR.
             
+            // Output:
+            // ********* announced its next generation ** compiler today. It uses advanced parser and special optimizer for the ********* ***.
+            
             // Read the banned words.
             string[] bannedWords = Console.ReadLine()?.Split(',');
             Debug.Assert(bannedWords != null, nameof(bannedWords) + " != null");

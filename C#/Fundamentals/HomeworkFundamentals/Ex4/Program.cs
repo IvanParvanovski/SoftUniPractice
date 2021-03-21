@@ -6,6 +6,10 @@ namespace Ex4
     {
         static void Main(string[] args)
         {
+            // Input: a\b\c
+            
+            // Output: a-b-c
+            
             Console.WriteLine(string.Join('-',@"a\b\c".Split("\\")));
         }
     }

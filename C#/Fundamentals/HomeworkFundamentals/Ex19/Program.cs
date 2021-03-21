@@ -10,6 +10,10 @@ namespace Ex19
             // Input:
             // Please contact us by phone (+359 222 222 222) or by email at example@abv.bg or at baj.ivan@yahoo.co.uk. This is not email: test@test. This also: @softuni.bg.com. Neither this: a@a.b.
             
+            // Output:
+            // example@abv.bg
+            // baj.ivan@yahoo.co.uk
+            
             // Read user's input
             string text = Console.ReadLine();
             

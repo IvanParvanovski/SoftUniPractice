@@ -10,6 +10,9 @@ namespace Ex14
             // Input:
             // C# is not C++ and PHP is not Delphi
             
+            // Output:
+            // Delphi not is PHP and C++ not is C#
+            
             // Reverse the words
             
             string[] words = Console.ReadLine()?.Split();

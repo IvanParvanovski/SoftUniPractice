@@ -7,8 +7,20 @@ namespace Ex25
     {
         static void Main(string[] args)
         {
+            // Input:
+            // Ivan,Microsoft,Apple,Juice
+            
+            // Output:
+            // Apple
+            // Ivan
+            // Juice
+            // Microsoft
+
+            // Read the words and split them by comma
             string[] words = Console.ReadLine()?.Split(',');
-            foreach (string word in words.OrderBy(x => x))
+            
+            // Print the words alphabetically
+            foreach (string word in words!.OrderBy(x => x))
                 Console.WriteLine(word);
         }
     }

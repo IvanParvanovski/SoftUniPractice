@@ -10,6 +10,9 @@ namespace Ex16
             // Input:
             // <p>Please visit <a href="https://softuni.bg">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>
             
+            // Output:
+            // <p>Please visit [URL=https://softuni.bg]our site[/URL] to choose a training course. Also visit [URL=www.devbg.org]our forum[/URL] to discuss the courses.</p>
+            
             // Read user's input
             string text = Console.ReadLine();
             
