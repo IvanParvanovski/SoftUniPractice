@@ -21,14 +21,14 @@ namespace Ex18
             string[] fullData = Console.ReadLine()?.Split();
             
             // Separate the attributes from the first part
-            int[] firstPart = fullData[0].Split('.')
-                                         .Select(int.Parse)
-                                         .ToArray();
-            
-            // Separate the attributes from the second part
-            int[] secondPart = fullData[1].Split('.')
+            int[] firstPart = fullData![0].Split('.')
                                           .Select(int.Parse)
                                           .ToArray();
+            
+            // Separate the attributes from the second part
+            int[] secondPart = fullData![1].Split('.')
+                                           .Select(int.Parse)
+                                           .ToArray();
             
             // Initialize DateTime variable
             DateTime time = new DateTime(

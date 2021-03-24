@@ -7,15 +7,16 @@ namespace Ex21
         static void Main(string[] args)
         {
             // Input:
-            // My name is Esmeralda. Today is Christmas Eve and my dad and mam are next to me.
+            // My name is UwU. Today is Christmas Eve and my dad and mam are next to me.
             
             // Output:
+            // UwU
             // Eve
             // dad
             // mam
             
             // Read user's input
-            string[] words = Console.ReadLine()?.Split();
+            string[] words = Console.ReadLine()?.Split(new char[] {' ', '.'}, StringSplitOptions.RemoveEmptyEntries);
             
             // Print if the word is the same as reversed
             foreach (string word in words)

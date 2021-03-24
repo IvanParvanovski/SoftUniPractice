@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\bin\Debug\netcoreapp3.1\ExTest.exe
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\bin\Debug\netcoreapp3.1\ExTest.deps.json
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\bin\Debug\netcoreapp3.1\ExTest.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\bin\Debug\netcoreapp3.1\ExTest.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\bin\Debug\netcoreapp3.1\ExTest.dll
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\bin\Debug\netcoreapp3.1\ExTest.pdb
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.dll
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.pdb
+D:\SoftUni\C#\Fundamentals\Test\Test\ExTest\obj\Debug\netcoreapp3.1\ExTest.genruntimeconfig.cache

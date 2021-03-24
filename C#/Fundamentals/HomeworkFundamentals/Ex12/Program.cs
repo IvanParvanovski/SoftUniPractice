@@ -15,7 +15,7 @@ namespace Ex12
             // Output:
             
             //          550.00
-            //            100%
+            //            550%
             //            0226
             //         $550.00
             //      5.5 * 10^2
@@ -67,8 +67,6 @@ namespace Ex12
             // Returns 100% if the number is more than or equal to 100
             // In other circumstances returns the number + '%'
             int numberInt = (int)number;
-            if (numberInt >= 100)
-                return "100%";
             return numberInt + "%";
         }
 

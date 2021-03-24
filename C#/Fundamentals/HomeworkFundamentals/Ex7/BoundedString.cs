@@ -17,9 +17,9 @@ namespace Ex7
             this.InputString = text;
             
             if (this.InputString.Length >= MaxLength)
-                this.InputString = this.InputString.Substring(0, MaxLength);
-            
-            this.Result = AddStars(this.InputString);
+                this.Result = this.InputString.Substring(0, MaxLength);
+            else
+                this.Result = AddStars(this.InputString);
         }
 
         private string AddStars(string text)

@@ -70,7 +70,7 @@ namespace Ex26
 
                 importantTags.Add($@"<(?<TagTitle>{importantTag})>(?<TagData>.*)<\/{importantTag}>");
             }
-
+            
             return importantTags;
         }
 

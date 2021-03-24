@@ -10,7 +10,7 @@ namespace Ex9
             // Input:
             // Nakov
             // ab
-            
+
             // Output:
             // \u002f\u0003\u000a\u000d\u0017
 
