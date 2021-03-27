@@ -1,0 +1,58 @@
+
+
+--- Cleaner Code 2 ---
+1. Assert statement
+2. Complex comma placement
+3. Context manager
+4. String formatting
+5. Threading
+6. Underscores
+
+
+--- Functions 3 ---
+1. First class object
+2. Lambda
+3. Decorators
+4. *args and **kwargs
+5. Packing and unpacking
+6. Return Null
+
+
+--- Classes 4 ---
+1. __repr__ and __str__
+2. @staticmethod,
+   @classmethod,
+   normal method
+3. abstract
+4. Custom exceptions
+5. Instance and class var
+6. copy
+
+
+--- Data Structures 5 ---
+1. Lists
+    * built-in list
+    * tuples
+    * array
+    * bytearray
+    * bytes
+
+2. Dict
+    * OrderedDict
+    * defaultdict
+    * ChainMap
+    * MappingProxyType
+
+3. Records
+    * dict
+    * class
+    * tuple
+    * namedtuple
+    * Namedtuple
+    * Struct
+    * SimpleNamespace
+
+4. Sets
+    * built-in sets
+    * frozen sets
+    * counter
