@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\bin\Debug\netcoreapp3.1\FindBiggestSequence.exe
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\bin\Debug\netcoreapp3.1\FindBiggestSequence.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\bin\Debug\netcoreapp3.1\FindBiggestSequence.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\bin\Debug\netcoreapp3.1\FindBiggestSequence.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\bin\Debug\netcoreapp3.1\FindBiggestSequence.dll
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\bin\Debug\netcoreapp3.1\FindBiggestSequence.pdb
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.dll
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.pdb
+D:\SoftUni\C#\Fundamentals\Practice\FindBiggestSequence\obj\Debug\netcoreapp3.1\FindBiggestSequence.genruntimeconfig.cache
