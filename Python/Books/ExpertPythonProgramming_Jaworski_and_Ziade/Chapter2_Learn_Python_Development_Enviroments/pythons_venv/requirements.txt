@@ -1,0 +1,14 @@
+# lines followed by hash (#) are treated as comments
+
+# strict version names are best for reproducibility
+eventlet==0.17.4
+graceful==0.1.1
+
+# for projects that are well tested with different
+# dependency versions the relative version specifiers
+# are acceptable too
+falcon>=0.3.0,<0.5.0
+
+# packages without versions should be avoided unless
+# latest release is always required/desired
+pytz
