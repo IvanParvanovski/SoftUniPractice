@@ -1,28 +1,25 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Ex9
 {
     class Program
     {
-        static void Insert(ref int mask, int el)
-        {
-            mask |= (1 << el);
-        }
-
         static void Main(string[] args)
         {
-            int num = 0;
-            
-            
-            for (int i = 0; i < 10; i++)
+            string text = Console.ReadLine();
+            Dictionary<char, int> result = new Dictionary<char, int>();
+            foreach (char symbol in text)
             {
-                string isStudentHere = Console.ReadLine();
-                
-                if (isStudentHere == "Yes")
-                    Console.WriteLine();
-                else
-                    Console.WriteLine();
+                if (!result.ContainsKey(symbol))
+                    result[symbol] = 0;
+                result[symbol] += 1;
             }
+
+            foreach (var r in result.OrderBy(x => x.Key))
+                Console.WriteLine($"{r.Key}: {r.Value} time/s");
+            
         }
     }
 }

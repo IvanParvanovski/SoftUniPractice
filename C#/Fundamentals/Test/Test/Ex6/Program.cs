@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Ex6
 {
@@ -6,7 +7,9 @@ namespace Ex6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] elements1 = Console.ReadLine()!.Split();
+            string[] elements2 = Console.ReadLine()!.Split();
+            Console.WriteLine(String.Join(' ', elements1.Intersect(elements2)));
         }
     }
 }

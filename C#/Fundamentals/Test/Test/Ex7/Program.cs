@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Ex7
 {
@@ -6,7 +7,17 @@ namespace Ex7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] elements = Console.ReadLine()!.Split("|")
+                                                   .Reverse()
+                                                   .ToArray();
+            
+            foreach (string element in elements)
+            {
+                string[] currentSequence = element.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                if (currentSequence.Length > 0)
+                    Console.Write(String.Join(' ', currentSequence) + ' ');
+            }
+            
         }
     }
 }

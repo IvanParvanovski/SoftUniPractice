@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\bin\Debug\netcoreapp3.1\Fractions.exe
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\bin\Debug\netcoreapp3.1\Fractions.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\bin\Debug\netcoreapp3.1\Fractions.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\bin\Debug\netcoreapp3.1\Fractions.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\bin\Debug\netcoreapp3.1\Fractions.dll
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\bin\Debug\netcoreapp3.1\Fractions.pdb
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.dll
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.pdb
+D:\SoftUni\C#\Fundamentals\Practice\Fractions\obj\Debug\netcoreapp3.1\Fractions.genruntimeconfig.cache

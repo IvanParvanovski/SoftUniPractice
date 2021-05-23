@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\bin\Debug\netcoreapp3.1\IBAN.exe
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\bin\Debug\netcoreapp3.1\IBAN.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\bin\Debug\netcoreapp3.1\IBAN.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\bin\Debug\netcoreapp3.1\IBAN.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\bin\Debug\netcoreapp3.1\IBAN.dll
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\bin\Debug\netcoreapp3.1\IBAN.pdb
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.dll
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.pdb
+D:\SoftUni\C#\Fundamentals\Practice\IBAN\obj\Debug\netcoreapp3.1\IBAN.genruntimeconfig.cache
