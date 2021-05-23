@@ -1,10 +1,10 @@
 from collections import deque
 from copy import copy
 
-from ex7.cities.city import City
-from ex7.cities.end_city import EndCity
-from ex7.cities.primary_city import PrimaryCity
-from ex7.cities.start_city import StartCity
+from ol_2020.ex7.cities.city import City
+from ol_2020.ex7.cities.end_city import EndCity
+from ol_2020.ex7.cities.primary_city import PrimaryCity
+from ol_2020.ex7.cities.start_city import StartCity
 
 
 def get_urban(searched_name: str, towns) -> City:
@@ -95,9 +95,7 @@ cities = deque(generate_cities(home_city_name,
 
 while len(cities) != 1:
     start_city = cities.popleft()
-
     start_city_destinations_copied = copy(start_city.destinations)
-    # print(start_city)
 
     while start_city.trucks > 0 \
             and start_city_destinations_copied:
@@ -109,8 +107,6 @@ while len(cities) != 1:
         if not end_destination:
             continue
 
-        # print(end_destination)
-
         counter = 0
         while start_city.trucks > 0 \
                 and counter < end_destination_road_max \
@@ -119,11 +115,6 @@ while len(cities) != 1:
             start_city.decrease_trucks(1)
             end_destination.increase_trucks(1)
             counter += 1
-
-        # print(end_destination)
-
-    # print(start_city)
-    # print()
 
     if does_another_city_has_a_course(start_city.name, cities):
         cities.insert(1, start_city)
