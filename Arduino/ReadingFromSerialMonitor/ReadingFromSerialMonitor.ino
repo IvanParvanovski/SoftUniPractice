@@ -25,8 +25,5 @@ void loop()
     delay(dt);
     digitalWrite(redPin, LOW);
     delay(dt);
-  }
-
-  
-  
+  } 
 }
