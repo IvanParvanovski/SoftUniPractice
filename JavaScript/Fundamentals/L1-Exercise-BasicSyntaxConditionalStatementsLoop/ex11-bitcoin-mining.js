@@ -33,5 +33,5 @@ function calculateBitcoin(gold) {
 }
 
 // calculateBitcoin([100, 200, 300]);
-calculateBitcoin([50, 100]);
-// calculateBitcoin([3124.15, 504.212, 2511.124]);
+// calculateBitcoin([50, 100]);
+calculateBitcoin([3124.15, 504.212, 2511.124]);
