@@ -8,7 +8,7 @@ namespace Fractions
     {
         static void Main(string[] args)
         {
-            string regexPattern = @"(?<firstFraction>\d+\/\d+)\s(?<operator>.+?)\s(?<secondFraction>\d+\/\d+)";
+            string regexPattern = @"(?<firstFraction>\d+\/\d+)\s(?<operator>.+?)\s(?<secondPart>(\d+\/\d+)|(\d+(\.\d+)?))";
             Regex regex = new Regex(regexPattern);
             
             while (true)
@@ -30,17 +30,26 @@ namespace Fractions
                                                                        .Split('/')
                                                                        .Select(int.Parse)
                                                                        .ToArray();
-                
-                int[] secondFractionData = match.Groups["secondFraction"].ToString()
-                                                                         .Split('/')
-                                                                         .Select(int.Parse)
-                                                                         .ToArray();
-               
-                string expressionOperator = match.Groups["operator"].ToString();
 
+                string expressionOperator = match.Groups["operator"].ToString();
                 Fraction firstFraction = new Fraction(firstFractionData[0], firstFractionData[1]);
-                Fraction secondFraction = new Fraction(secondFractionData[0], secondFractionData[1]);
+                Fraction secondFraction = new Fraction(1, 1);
+                double step = 0;
                 
+                if (expressionOperator != "^")
+                {
+                    int[] secondFractionData = match.Groups["secondPart"].ToString()
+                        .Split('/')
+                        .Select(int.Parse)
+                        .ToArray();
+                    
+                    secondFraction = new Fraction(secondFractionData[0], secondFractionData[1]);
+                }
+                else
+                {
+                    step = double.Parse(match.Groups["secondPart"].ToString());
+                }
+
                 switch (expressionOperator)
                 {
                     case "+":
@@ -54,6 +63,9 @@ namespace Fractions
                         break;
                     case "*":
                         Console.WriteLine(firstFraction * secondFraction);
+                        break;
+                    case "^":
+                        Console.WriteLine(firstFraction ^ step);
                         break;
                     case ">":
                         Console.WriteLine(firstFraction > secondFraction);

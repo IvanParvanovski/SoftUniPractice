@@ -30,7 +30,7 @@ namespace Fractions
             }
             return a;
         }
-
+        
         public static Fraction operator *(Fraction fr1, Fraction fr2)
         {
             int newNumerator = fr1.Numerator * fr2.Numerator;
@@ -83,6 +83,10 @@ namespace Fractions
             return new Fraction(newNumerator, newDenominator);
         }
 
+        public static string operator ^(Fraction fr1, double step)
+        {
+            return $"{Math.Pow((double) fr1.Numerator / fr1.Denominator, step):f2}";
+        }
         public static bool operator >(Fraction fr1, Fraction fr2)
         {
             int newNumeratorFr1 = fr1.Numerator * fr2.Denominator;

@@ -9,24 +9,7 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            int applesAmount = 0;
-            
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-            CountApples(ref applesAmount);
-
-            Console.WriteLine("Outside: " + applesAmount);
+            Console.WriteLine(Math.Pow(5, 0.5));
         }
-        private static void CountApples(ref int applesAmount)
-        {
-            applesAmount++;
-            Console.WriteLine("Inside: " + applesAmount);
-        }
-   
     }
 }

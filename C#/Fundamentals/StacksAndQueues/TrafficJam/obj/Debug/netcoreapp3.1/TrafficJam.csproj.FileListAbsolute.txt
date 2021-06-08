@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.genruntimeconfig.cache
