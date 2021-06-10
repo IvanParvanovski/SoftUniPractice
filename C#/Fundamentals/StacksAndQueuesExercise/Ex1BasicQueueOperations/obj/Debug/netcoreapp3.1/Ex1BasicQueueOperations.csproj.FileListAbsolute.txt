@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\bin\Debug\netcoreapp3.1\Ex1BasicQueueOperations.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\bin\Debug\netcoreapp3.1\Ex1BasicQueueOperations.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\bin\Debug\netcoreapp3.1\Ex1BasicQueueOperations.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\bin\Debug\netcoreapp3.1\Ex1BasicQueueOperations.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\bin\Debug\netcoreapp3.1\Ex1BasicQueueOperations.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\bin\Debug\netcoreapp3.1\Ex1BasicQueueOperations.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex1BasicQueueOperations\obj\Debug\netcoreapp3.1\Ex1BasicQueueOperations.genruntimeconfig.cache

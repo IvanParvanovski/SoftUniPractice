@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\bin\Debug\netcoreapp3.1\Ex3FashionBoutique.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\bin\Debug\netcoreapp3.1\Ex3FashionBoutique.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\bin\Debug\netcoreapp3.1\Ex3FashionBoutique.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\bin\Debug\netcoreapp3.1\Ex3FashionBoutique.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\bin\Debug\netcoreapp3.1\Ex3FashionBoutique.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\bin\Debug\netcoreapp3.1\Ex3FashionBoutique.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex3FashionBoutique\obj\Debug\netcoreapp3.1\Ex3FashionBoutique.genruntimeconfig.cache

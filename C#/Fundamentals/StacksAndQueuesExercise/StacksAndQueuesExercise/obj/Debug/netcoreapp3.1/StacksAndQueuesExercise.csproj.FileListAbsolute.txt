@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\StacksAndQueuesExercise.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\StacksAndQueuesExercise.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\StacksAndQueuesExercise.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\StacksAndQueuesExercise.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\StacksAndQueuesExercise.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\bin\Debug\netcoreapp3.1\StacksAndQueuesExercise.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\StacksAndQueuesExercise\obj\Debug\netcoreapp3.1\StacksAndQueuesExercise.genruntimeconfig.cache

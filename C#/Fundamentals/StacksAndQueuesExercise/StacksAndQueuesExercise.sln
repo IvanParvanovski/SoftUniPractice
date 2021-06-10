@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksAndQueuesExercise", "StacksAndQueuesExercise\StacksAndQueuesExercise.csproj", "{DB5E6B98-E3E9-4455-B96E-15151A422C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1BasicQueueOperations", "Ex1BasicQueueOperations\Ex1BasicQueueOperations.csproj", "{AA72A446-AB7D-40DD-9AC2-FAD0B82B0FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2MaximumAndMinimumElement", "Ex2MaximumAndMinimumElement\Ex2MaximumAndMinimumElement.csproj", "{BCFDB388-43D7-4EA5-8E9A-C12E0F5380E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3FashionBoutique", "Ex3FashionBoutique\Ex3FashionBoutique.csproj", "{05DC8B24-0E7F-42A9-BBAD-16D76361A9BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5E6B98-E3E9-4455-B96E-15151A422C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5E6B98-E3E9-4455-B96E-15151A422C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5E6B98-E3E9-4455-B96E-15151A422C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5E6B98-E3E9-4455-B96E-15151A422C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA72A446-AB7D-40DD-9AC2-FAD0B82B0FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA72A446-AB7D-40DD-9AC2-FAD0B82B0FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA72A446-AB7D-40DD-9AC2-FAD0B82B0FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA72A446-AB7D-40DD-9AC2-FAD0B82B0FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFDB388-43D7-4EA5-8E9A-C12E0F5380E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFDB388-43D7-4EA5-8E9A-C12E0F5380E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFDB388-43D7-4EA5-8E9A-C12E0F5380E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFDB388-43D7-4EA5-8E9A-C12E0F5380E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DC8B24-0E7F-42A9-BBAD-16D76361A9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DC8B24-0E7F-42A9-BBAD-16D76361A9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DC8B24-0E7F-42A9-BBAD-16D76361A9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DC8B24-0E7F-42A9-BBAD-16D76361A9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

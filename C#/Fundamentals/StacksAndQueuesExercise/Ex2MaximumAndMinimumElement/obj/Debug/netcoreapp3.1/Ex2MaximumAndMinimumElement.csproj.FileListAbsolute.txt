@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex2MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\Ex2MaximumAndMinimumElement.genruntimeconfig.cache
