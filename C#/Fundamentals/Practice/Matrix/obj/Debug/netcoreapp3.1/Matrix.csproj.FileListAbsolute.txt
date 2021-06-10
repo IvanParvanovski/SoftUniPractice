@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+D:\SoftUni\C#\Fundamentals\Practice\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

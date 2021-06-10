@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\bin\Debug\netcoreapp3.1\CalculateExpressions.exe
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\bin\Debug\netcoreapp3.1\CalculateExpressions.deps.json
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\bin\Debug\netcoreapp3.1\CalculateExpressions.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\bin\Debug\netcoreapp3.1\CalculateExpressions.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\bin\Debug\netcoreapp3.1\CalculateExpressions.dll
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\bin\Debug\netcoreapp3.1\CalculateExpressions.pdb
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.dll
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.pdb
+D:\SoftUni\C#\Fundamentals\Practice\CalculateExpressions\obj\Debug\netcoreapp3.1\CalculateExpressions.genruntimeconfig.cache

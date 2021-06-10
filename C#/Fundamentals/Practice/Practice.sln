@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInCircle", "PointInCir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions", "Fractions\Fractions.csproj", "{0C5AD082-C4D1-4674-B32C-F0E8D5472855}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateExpressions", "CalculateExpressions\CalculateExpressions.csproj", "{2AC9420F-8A46-4E6A-9633-E29880993938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{67B9FCDF-C658-4769-9026-2551842FA8C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{0C5AD082-C4D1-4674-B32C-F0E8D5472855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5AD082-C4D1-4674-B32C-F0E8D5472855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5AD082-C4D1-4674-B32C-F0E8D5472855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC9420F-8A46-4E6A-9633-E29880993938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC9420F-8A46-4E6A-9633-E29880993938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC9420F-8A46-4E6A-9633-E29880993938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC9420F-8A46-4E6A-9633-E29880993938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B9FCDF-C658-4769-9026-2551842FA8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B9FCDF-C658-4769-9026-2551842FA8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B9FCDF-C658-4769-9026-2551842FA8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B9FCDF-C658-4769-9026-2551842FA8C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
