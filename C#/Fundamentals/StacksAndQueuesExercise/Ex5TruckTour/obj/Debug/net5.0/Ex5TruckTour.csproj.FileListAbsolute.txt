@@ -1,0 +1,16 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\Ex5TruckTour.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\Ex5TruckTour.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\Ex5TruckTour.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\Ex5TruckTour.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\Ex5TruckTour.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\ref\Ex5TruckTour.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\bin\Debug\net5.0\Ex5TruckTour.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\ref\Ex5TruckTour.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex5TruckTour\obj\Debug\net5.0\Ex5TruckTour.genruntimeconfig.cache

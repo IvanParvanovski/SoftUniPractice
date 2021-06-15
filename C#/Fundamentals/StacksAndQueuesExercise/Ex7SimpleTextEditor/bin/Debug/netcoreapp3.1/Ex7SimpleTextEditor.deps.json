@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex7SimpleTextEditor/1.0.0": {
+        "runtime": {
+          "Ex7SimpleTextEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex7SimpleTextEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

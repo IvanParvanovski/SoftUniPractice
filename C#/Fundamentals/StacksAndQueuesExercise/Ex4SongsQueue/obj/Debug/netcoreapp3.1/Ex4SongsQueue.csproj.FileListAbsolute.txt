@@ -1,0 +1,13 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\bin\Debug\netcoreapp3.1\Ex4SongsQueue.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\bin\Debug\netcoreapp3.1\Ex4SongsQueue.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\bin\Debug\netcoreapp3.1\Ex4SongsQueue.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\bin\Debug\netcoreapp3.1\Ex4SongsQueue.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\bin\Debug\netcoreapp3.1\Ex4SongsQueue.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\bin\Debug\netcoreapp3.1\Ex4SongsQueue.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex4SongsQueue\obj\Debug\netcoreapp3.1\Ex4SongsQueue.genruntimeconfig.cache

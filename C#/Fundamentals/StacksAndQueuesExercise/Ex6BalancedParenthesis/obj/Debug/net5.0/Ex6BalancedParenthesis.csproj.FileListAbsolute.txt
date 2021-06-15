@@ -1,0 +1,16 @@
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\Ex6BalancedParenthesis.exe
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\Ex6BalancedParenthesis.deps.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\Ex6BalancedParenthesis.runtimeconfig.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\Ex6BalancedParenthesis.runtimeconfig.dev.json
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\Ex6BalancedParenthesis.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\ref\Ex6BalancedParenthesis.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\bin\Debug\net5.0\Ex6BalancedParenthesis.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.csprojAssemblyReference.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.AssemblyInfoInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.AssemblyInfo.cs
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\ref\Ex6BalancedParenthesis.dll
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.pdb
+D:\SoftUni\C#\Fundamentals\StacksAndQueuesExercise\Ex6BalancedParenthesis\obj\Debug\net5.0\Ex6BalancedParenthesis.genruntimeconfig.cache
