@@ -1,17 +1,20 @@
- # This is a sample Python script.
+from collections import defaultdict
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+matrix = [
+    [1, 2, 3],
+    [4, 5, 1],
+    [5, 5, 3],
+]
 
+col_dict = defaultdict(int)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+for row in matrix:
+    for index, col in enumerate(row):
+        col_dict[index] += col
 
+sorted_col_dict = sorted(col_dict.items(), key=lambda x: x[1])
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
+for row in matrix:
+    for result in sorted_col_dict:
+        print(row[result[0]], end=" ")
+    print()
