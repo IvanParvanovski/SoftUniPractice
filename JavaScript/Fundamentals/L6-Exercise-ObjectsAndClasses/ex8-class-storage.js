@@ -1,0 +1,9 @@
+class Storage {
+    addProduct() {
+
+    }
+    
+    getProcuts() {
+
+    }
+}
