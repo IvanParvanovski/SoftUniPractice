@@ -6,5 +6,6 @@ encoded_name_utf32 = my_name.encode('utf-32', 'strict')
 
 print(my_name.encode('utf-8'))
 print(encoded_name_utf8)
+print(encoded_name_utf16)
 print(encoded_name_utf32)
 print(bytes(my_name, 'utf-8', 'strict'))
