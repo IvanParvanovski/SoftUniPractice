@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Modak';
+    src: url('./fonts/Modak-Regular.woff'),
+         url('./fonts/Modak-Regular.woff2');
+}
+html {
+    font-size: 25px;
+}
+
+.font-modak {
+    font-family: 'Modak', 'Arial';
+    font-style: italic;
+}
+
+.font-times-new {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.content {
+    font-size: 15px;
+    background-color: lavender;
+    width: 500px;
+    box-shadow: 6px 6px 16px 0px rgba(0, 195, 230, 0.47);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.content p {
+    line-height: 50px;
+    letter-spacing: 1px;
+    text-indent: 25px;
+    text-overflow: clip;
+    word-break: break-all;
+}
+
+#main-heading {
+    color: rgb(174, 0, 255);
+    font-size: 4rem;
+    letter-spacing: 15px;
+    text-transform: capitalize;
+}
+
+#secondary-heading {
+    font-size: 4em;
+}
+
+button {
+    font-size: 50px;
+    background-color: maroon;
+    border-radius: 50px;
+    color: white;
+    padding: 20px;
+    outline: blue 5px solid;
+    /* outline: none; */
+}
