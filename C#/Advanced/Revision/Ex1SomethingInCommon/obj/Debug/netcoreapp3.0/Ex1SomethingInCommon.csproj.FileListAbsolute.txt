@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\bin\Debug\netcoreapp3.0\Ex1SomethingInCommon.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\bin\Debug\netcoreapp3.0\Ex1SomethingInCommon.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\bin\Debug\netcoreapp3.0\Ex1SomethingInCommon.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\bin\Debug\netcoreapp3.0\Ex1SomethingInCommon.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\bin\Debug\netcoreapp3.0\Ex1SomethingInCommon.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\bin\Debug\netcoreapp3.0\Ex1SomethingInCommon.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\obj\Debug\netcoreapp3.0\Ex1SomethingInCommon.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\obj\Debug\netcoreapp3.0\Ex1SomethingInCommon.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\obj\Debug\netcoreapp3.0\Ex1SomethingInCommon.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\obj\Debug\netcoreapp3.0\Ex1SomethingInCommon.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1SomethingInCommon\obj\Debug\netcoreapp3.0\Ex1SomethingInCommon.pdb

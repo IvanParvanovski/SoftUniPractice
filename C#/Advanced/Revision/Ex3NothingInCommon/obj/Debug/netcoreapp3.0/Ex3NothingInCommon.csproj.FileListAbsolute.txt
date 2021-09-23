@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\bin\Debug\netcoreapp3.0\Ex3NothingInCommon.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\bin\Debug\netcoreapp3.0\Ex3NothingInCommon.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\bin\Debug\netcoreapp3.0\Ex3NothingInCommon.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\bin\Debug\netcoreapp3.0\Ex3NothingInCommon.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\bin\Debug\netcoreapp3.0\Ex3NothingInCommon.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\bin\Debug\netcoreapp3.0\Ex3NothingInCommon.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\obj\Debug\netcoreapp3.0\Ex3NothingInCommon.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\obj\Debug\netcoreapp3.0\Ex3NothingInCommon.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\obj\Debug\netcoreapp3.0\Ex3NothingInCommon.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\obj\Debug\netcoreapp3.0\Ex3NothingInCommon.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3NothingInCommon\obj\Debug\netcoreapp3.0\Ex3NothingInCommon.pdb

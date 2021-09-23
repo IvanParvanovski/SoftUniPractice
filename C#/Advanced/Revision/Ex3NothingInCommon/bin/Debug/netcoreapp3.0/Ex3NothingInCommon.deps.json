@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ex3NothingInCommon/1.0.0": {
+        "runtime": {
+          "Ex3NothingInCommon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex3NothingInCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
