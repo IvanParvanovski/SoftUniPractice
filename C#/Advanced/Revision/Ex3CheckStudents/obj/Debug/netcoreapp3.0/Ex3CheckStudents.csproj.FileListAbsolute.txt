@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\bin\Debug\netcoreapp3.0\Ex3CheckStudents.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\bin\Debug\netcoreapp3.0\Ex3CheckStudents.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\bin\Debug\netcoreapp3.0\Ex3CheckStudents.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\bin\Debug\netcoreapp3.0\Ex3CheckStudents.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\bin\Debug\netcoreapp3.0\Ex3CheckStudents.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\bin\Debug\netcoreapp3.0\Ex3CheckStudents.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\obj\Debug\netcoreapp3.0\Ex3CheckStudents.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\obj\Debug\netcoreapp3.0\Ex3CheckStudents.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\obj\Debug\netcoreapp3.0\Ex3CheckStudents.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\obj\Debug\netcoreapp3.0\Ex3CheckStudents.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3CheckStudents\obj\Debug\netcoreapp3.0\Ex3CheckStudents.pdb

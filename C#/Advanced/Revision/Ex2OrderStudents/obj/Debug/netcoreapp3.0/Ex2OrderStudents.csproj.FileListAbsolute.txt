@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\bin\Debug\netcoreapp3.0\Ex2OrderStudents.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\bin\Debug\netcoreapp3.0\Ex2OrderStudents.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\bin\Debug\netcoreapp3.0\Ex2OrderStudents.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\bin\Debug\netcoreapp3.0\Ex2OrderStudents.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\bin\Debug\netcoreapp3.0\Ex2OrderStudents.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\bin\Debug\netcoreapp3.0\Ex2OrderStudents.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\obj\Debug\netcoreapp3.0\Ex2OrderStudents.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\obj\Debug\netcoreapp3.0\Ex2OrderStudents.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\obj\Debug\netcoreapp3.0\Ex2OrderStudents.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\obj\Debug\netcoreapp3.0\Ex2OrderStudents.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2OrderStudents\obj\Debug\netcoreapp3.0\Ex2OrderStudents.pdb

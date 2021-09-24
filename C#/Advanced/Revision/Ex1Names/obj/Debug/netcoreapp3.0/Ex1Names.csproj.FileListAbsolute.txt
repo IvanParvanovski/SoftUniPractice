@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\bin\Debug\netcoreapp3.0\Ex1Names.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\bin\Debug\netcoreapp3.0\Ex1Names.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\bin\Debug\netcoreapp3.0\Ex1Names.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\bin\Debug\netcoreapp3.0\Ex1Names.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\bin\Debug\netcoreapp3.0\Ex1Names.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\bin\Debug\netcoreapp3.0\Ex1Names.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\obj\Debug\netcoreapp3.0\Ex1Names.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\obj\Debug\netcoreapp3.0\Ex1Names.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\obj\Debug\netcoreapp3.0\Ex1Names.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\obj\Debug\netcoreapp3.0\Ex1Names.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex1Names\obj\Debug\netcoreapp3.0\Ex1Names.pdb
