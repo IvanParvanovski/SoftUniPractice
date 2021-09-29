@@ -1,0 +1,61 @@
+th, tbody, td {
+    border: 1px solid black;
+}
+
+#tbl1 {
+    border: 5px solid black;
+}
+
+.head-row {
+    background-color: red;
+}
+
+.data-row:nth-child(2n - 1) {
+    background-color: orange;
+}
+
+.data-row:nth-child(2n) {
+    background-color: rgb(77, 199, 240);
+}
+
+.data-row:hover {
+    background-color: rgb(53, 49, 49);
+    color: white;
+}
+
+.data-item:hover {
+    border: 2px dashed white;
+    color: greenyellow;
+    background-color: indianred;
+}
+
+.tblclass {
+    border: 1px solid black;
+}
+
+
+/* table thead {
+    color: red;
+} */
+
+/* table tbody {
+    color: lightblue;
+}
+
+table tbody tr:nth-child(2n - 1) {
+    background-color: blue;
+}
+
+table tbody tr:nth-child(2n) {
+    background-color: orange;
+}
+
+table tbody tr:hover {
+    background-color: yellow;
+}
+
+table tbody tr td:hover {
+    color: black;
+    border: 2px dashed white;
+    background-color: lightgreen;
+} */
