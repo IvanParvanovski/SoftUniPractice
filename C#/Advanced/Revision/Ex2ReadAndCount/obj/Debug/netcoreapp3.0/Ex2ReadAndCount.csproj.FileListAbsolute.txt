@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\bin\Debug\netcoreapp3.0\Ex2ReadAndCount.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\bin\Debug\netcoreapp3.0\Ex2ReadAndCount.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\bin\Debug\netcoreapp3.0\Ex2ReadAndCount.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\bin\Debug\netcoreapp3.0\Ex2ReadAndCount.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\bin\Debug\netcoreapp3.0\Ex2ReadAndCount.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\bin\Debug\netcoreapp3.0\Ex2ReadAndCount.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\obj\Debug\netcoreapp3.0\Ex2ReadAndCount.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\obj\Debug\netcoreapp3.0\Ex2ReadAndCount.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\obj\Debug\netcoreapp3.0\Ex2ReadAndCount.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\obj\Debug\netcoreapp3.0\Ex2ReadAndCount.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2ReadAndCount\obj\Debug\netcoreapp3.0\Ex2ReadAndCount.pdb

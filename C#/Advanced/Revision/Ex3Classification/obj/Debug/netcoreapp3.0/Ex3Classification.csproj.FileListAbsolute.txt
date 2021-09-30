@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\bin\Debug\netcoreapp3.0\Ex3Classification.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\bin\Debug\netcoreapp3.0\Ex3Classification.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\bin\Debug\netcoreapp3.0\Ex3Classification.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\bin\Debug\netcoreapp3.0\Ex3Classification.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\bin\Debug\netcoreapp3.0\Ex3Classification.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\bin\Debug\netcoreapp3.0\Ex3Classification.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\obj\Debug\netcoreapp3.0\Ex3Classification.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\obj\Debug\netcoreapp3.0\Ex3Classification.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\obj\Debug\netcoreapp3.0\Ex3Classification.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\obj\Debug\netcoreapp3.0\Ex3Classification.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex3Classification\obj\Debug\netcoreapp3.0\Ex3Classification.pdb
