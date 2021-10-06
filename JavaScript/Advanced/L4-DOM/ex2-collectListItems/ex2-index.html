@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex2 Collect List Items</title>
+</head>
+<body>
+    <h1>Collect List Items</h1>
+    <ul>
+        <li class="item">
+            First Item
+        </li>
+        <li class="item">
+            Second Item
+        </li>
+        <li class="item">
+            Third Item
+        </li>
+    </ul>
+    <textarea name="" id="my-textarea" cols="30" rows="10"></textarea>
+    <button onclick="collectListItems(
+        document.getElementsByClassName('item'),
+        document.getElementById('my-textarea')
+    )">Extract Text</button>
+    <script src="ex2-script.js"></script>
+</body>
+</html>
