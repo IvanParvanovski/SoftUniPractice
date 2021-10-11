@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\bin\Debug\netcoreapp3.0\Ex2Test.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\bin\Debug\netcoreapp3.0\Ex2Test.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\bin\Debug\netcoreapp3.0\Ex2Test.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\bin\Debug\netcoreapp3.0\Ex2Test.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\bin\Debug\netcoreapp3.0\Ex2Test.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\bin\Debug\netcoreapp3.0\Ex2Test.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\obj\Debug\netcoreapp3.0\Ex2Test.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\obj\Debug\netcoreapp3.0\Ex2Test.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\obj\Debug\netcoreapp3.0\Ex2Test.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\obj\Debug\netcoreapp3.0\Ex2Test.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Revision\Ex2Test\obj\Debug\netcoreapp3.0\Ex2Test.pdb
