@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+
+body {
+    color: #A7A1AE;
+    background-color: #1F2739;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: fit-content;
+    margin: 0px auto;
+}
+
+.container td {
+    padding: 0.8rem;
+}
+
+.container th {
+    background-color: #1F2739;
+}
+
+.container td:first-child {
+    color: #FB667A;
+}
+
+.container tr:nth-child(odd) {
+    background-color: #323C50;
+}
+
+.container tr:nth-child(even) {
+    background-color: #2C3446;
+}
+
+.container tbody tr:hover {
+    background-color: #FFF842 !important;
+    color: #403E10;
+    font-weight: bold;
+    box-shadow: #7F7C21 -1px 1px, #7F7C21 -2px 2px, #7F7C21 -3px 3px, #7F7C21 -4px 4px, #7F7C21 -5px 5px, #7F7C21 -6px 6px;
+    transform: translate3d(6px, -6px, 0);
+    transition-delay: 0s;
+    transition-duration: 0.4s;
+    transition-property: all;
+}
+
+.container thead tr:hover {
+    color: white;
+}
+
+.container #searchBtn {
+    padding: 7px 22px;
+    margin: 0px 15px;
+    background: transparent;
+    border: 2px solid darkgray;
+    text-transform: uppercase;
+    color: darkgray;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.container input {
+    padding: 8px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+}
