@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: "Lato";
+    color: rgb(9, 30, 100);
+}
+
+input {
+    border-radius: 5px;
+    outline: none;
+    padding: 3px;
+    border: 2px solid black;
+}
+
+.container {
+    padding: 1em;
+    margin: 0px auto;
+    width: fit-content;
+}
+
+.info-label {
+    display: block;
+    text-align: center;
+    margin-bottom: 4px;
+    font-size: 1.3em;
+}
+
+#save-button {
+    padding: 5px 10px;  
+    text-transform: uppercase;     
+    letter-spacing: 1.3px;  
+    font-weight: bold;     
+    border: 3px solid white;
+    background: rgb(12, 38, 126);
+    color: white;
+    cursor: pointer;
+    border-radius: 0.3em;
+    font-size: 1.4em;
+}
+
+#save-button:hover {
+    color: rgb(12, 38, 126);
+    background: white;
+    border-color: rgb(12, 38, 126);
+}

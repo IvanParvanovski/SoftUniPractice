@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ex1 Person Information</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="ex1-inputData.css">
+        <link rel="stylesheet" href="ex1-result.css">
+        <script src="ex1-personalnformation.js"></script>
+
+    </head>
+
+    <body>
+        <form>
+            <div class="container">
+                <label class="info-label" for="firstName">First Name</label>
+                <input type="text" id="firstName" name="firstName">
+            </div>
+            <div class="container">
+                <label class="info-label" for="secondName">Second Name</label>
+                <input type="text" id="secondName" name="secondName">
+            </div>
+            <div class="container">
+                <label class="info-label" for="lastName">Last Name</label>
+                <input type="text" id="lastName" name="lastName">
+            </div>
+            <div class="container">
+                <label class="info-label" for="phoneNumber">Phone Number</label>
+                <input type="tel" id="phoneNumber" name="phoneNumber">
+            </div>
+        </form>
+        <div class="container">
+            <button id="save-button" onclick="displayData()">Save</button>
+        </div>
+
+        <div id="result" class="container">
+            <h1>Personal Information</h2>
+            <div class="result-container">
+                <h3>Name</h3>
+                <span id="resultFullName"></span>
+            </div>
+            <div class="result-container">
+                <h3>Phone Number</h3>
+                <span id="resultPhoneNumber"></span>
+            </div>
+        </div>
+        
+
+    </body>
+</html>
