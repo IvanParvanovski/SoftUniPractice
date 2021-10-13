@@ -10,7 +10,7 @@
     </head>
 
     <body>
-        <form>
+        <form target="_blank" method="POST">
             <div class="container">
                 <label class="info-label" for="firstName">First Name</label>
                 <input type="text" id="firstName" name="firstName">
@@ -27,10 +27,11 @@
                 <label class="info-label" for="phoneNumber">Phone Number</label>
                 <input type="tel" id="phoneNumber" name="phoneNumber">
             </div>
+            <div class="container">
+                <button id="save-button" type="submit" onclick="displayData()">Save</button>
+            </div>
         </form>
-        <div class="container">
-            <button id="save-button" onclick="displayData()">Save</button>
-        </div>
+        
 
         <div id="result" class="container">
             <h1>Personal Information</h2>
