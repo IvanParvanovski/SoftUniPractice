@@ -44,7 +44,30 @@ function solve() {
       const sortedRestaurantByAverageSalary = Object.entries(restaurants).sort((a, b) => average(Object.values(a[1])) - average(Object.values(b[1])));
       const bestRestaurant = sortedRestaurantByAverageSalary[0];
 
-      document.getElementById('bestRestaurant').textContent = bestRestaurant[0];
-      // document.getElementById('workers') = Object.keys(bestRestaurant[1]).join(' ');
+      const sortedEmployees = Object.entries(bestRestaurant[1]).sort((a, b) => b[1] - a[1]);
+      
+      let averageSalary = 0;
+      let bestSalary = Number.MIN_SAFE_INTEGER;
+      let workers = [];
+
+      for (let [employee, salary] of sortedEmployees) {
+         averageSalary += salary;
+         
+         if (salary > bestSalary) {
+            bestSalary = salary;
+         }
+
+         workers.push(`Name ${employee} With Salary: ${salary}`);
+      }
+      
+      averageSalary /= sortedEmployees.length;
+
+      document.querySelector('#bestRestaurant p').textContent = (
+       `Name: ${bestRestaurant[0]} ` +
+       `Average Salary: ${averageSalary.toFixed(2)} ` +
+       `Best Salary: ${bestSalary.toFixed(2)}`
+      );
+
+      document.querySelector('#workers p').textContent = workers.join(' ');
    }
 }
