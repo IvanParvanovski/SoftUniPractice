@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{BF8858FA-7EF3-4774-A4AD-B4863DA93C54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1DayOfWeek", "Ex1DayOfWeek\Ex1DayOfWeek.csproj", "{A4826B2E-DC19-4EA9-8F9C-36CD5F59CDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4RectangleClass", "Ex4RectangleClass\Ex4RectangleClass.csproj", "{1CF77900-5659-4D73-B2B8-48D6F62B9F99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BF8858FA-7EF3-4774-A4AD-B4863DA93C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8858FA-7EF3-4774-A4AD-B4863DA93C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8858FA-7EF3-4774-A4AD-B4863DA93C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4826B2E-DC19-4EA9-8F9C-36CD5F59CDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4826B2E-DC19-4EA9-8F9C-36CD5F59CDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4826B2E-DC19-4EA9-8F9C-36CD5F59CDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4826B2E-DC19-4EA9-8F9C-36CD5F59CDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF77900-5659-4D73-B2B8-48D6F62B9F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF77900-5659-4D73-B2B8-48D6F62B9F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF77900-5659-4D73-B2B8-48D6F62B9F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF77900-5659-4D73-B2B8-48D6F62B9F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

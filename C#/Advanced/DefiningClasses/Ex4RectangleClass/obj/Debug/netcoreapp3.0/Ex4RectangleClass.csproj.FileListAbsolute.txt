@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\bin\Debug\netcoreapp3.0\Ex4RectangleClass.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\bin\Debug\netcoreapp3.0\Ex4RectangleClass.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\bin\Debug\netcoreapp3.0\Ex4RectangleClass.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\bin\Debug\netcoreapp3.0\Ex4RectangleClass.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\bin\Debug\netcoreapp3.0\Ex4RectangleClass.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\bin\Debug\netcoreapp3.0\Ex4RectangleClass.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\obj\Debug\netcoreapp3.0\Ex4RectangleClass.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\obj\Debug\netcoreapp3.0\Ex4RectangleClass.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\obj\Debug\netcoreapp3.0\Ex4RectangleClass.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\obj\Debug\netcoreapp3.0\Ex4RectangleClass.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex4RectangleClass\obj\Debug\netcoreapp3.0\Ex4RectangleClass.pdb

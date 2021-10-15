@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\bin\Debug\netcoreapp3.0\Ex1DayOfWeek.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\bin\Debug\netcoreapp3.0\Ex1DayOfWeek.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\bin\Debug\netcoreapp3.0\Ex1DayOfWeek.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\bin\Debug\netcoreapp3.0\Ex1DayOfWeek.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\bin\Debug\netcoreapp3.0\Ex1DayOfWeek.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\bin\Debug\netcoreapp3.0\Ex1DayOfWeek.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\obj\Debug\netcoreapp3.0\Ex1DayOfWeek.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\obj\Debug\netcoreapp3.0\Ex1DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\obj\Debug\netcoreapp3.0\Ex1DayOfWeek.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\obj\Debug\netcoreapp3.0\Ex1DayOfWeek.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex1DayOfWeek\obj\Debug\netcoreapp3.0\Ex1DayOfWeek.pdb
