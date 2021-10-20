@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\bin\Debug\netcoreapp3.0\Ex3ClassCard.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\bin\Debug\netcoreapp3.0\Ex3ClassCard.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\bin\Debug\netcoreapp3.0\Ex3ClassCard.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\bin\Debug\netcoreapp3.0\Ex3ClassCard.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\bin\Debug\netcoreapp3.0\Ex3ClassCard.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\bin\Debug\netcoreapp3.0\Ex3ClassCard.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\obj\Debug\netcoreapp3.0\Ex3ClassCard.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\obj\Debug\netcoreapp3.0\Ex3ClassCard.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\obj\Debug\netcoreapp3.0\Ex3ClassCard.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\obj\Debug\netcoreapp3.0\Ex3ClassCard.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3ClassCard\obj\Debug\netcoreapp3.0\Ex3ClassCard.pdb

@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\bin\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\bin\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\bin\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\bin\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\bin\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\bin\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\obj\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\obj\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\obj\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\obj\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5ClassDeckOfCards\obj\Debug\netcoreapp3.0\Ex5ClassDeckOfCards.pdb

@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\bin\Debug\netcoreapp3.0\Ex6AdvertisementMessage.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\bin\Debug\netcoreapp3.0\Ex6AdvertisementMessage.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\bin\Debug\netcoreapp3.0\Ex6AdvertisementMessage.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\bin\Debug\netcoreapp3.0\Ex6AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\bin\Debug\netcoreapp3.0\Ex6AdvertisementMessage.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\bin\Debug\netcoreapp3.0\Ex6AdvertisementMessage.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\obj\Debug\netcoreapp3.0\Ex6AdvertisementMessage.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\obj\Debug\netcoreapp3.0\Ex6AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\obj\Debug\netcoreapp3.0\Ex6AdvertisementMessage.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\obj\Debug\netcoreapp3.0\Ex6AdvertisementMessage.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6AdvertisementMessage\obj\Debug\netcoreapp3.0\Ex6AdvertisementMessage.pdb

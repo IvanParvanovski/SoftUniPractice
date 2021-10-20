@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\bin\Debug\netcoreapp3.0\Ex1Dates.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\bin\Debug\netcoreapp3.0\Ex1Dates.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\bin\Debug\netcoreapp3.0\Ex1Dates.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\bin\Debug\netcoreapp3.0\Ex1Dates.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\bin\Debug\netcoreapp3.0\Ex1Dates.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\bin\Debug\netcoreapp3.0\Ex1Dates.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\obj\Debug\netcoreapp3.0\Ex1Dates.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\obj\Debug\netcoreapp3.0\Ex1Dates.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\obj\Debug\netcoreapp3.0\Ex1Dates.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\obj\Debug\netcoreapp3.0\Ex1Dates.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex1Dates\obj\Debug\netcoreapp3.0\Ex1Dates.pdb

@@ -1,0 +1,13 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Ex2CalculationWithFractions.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Ex2CalculationWithFractions.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Ex2CalculationWithFractions.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Ex2CalculationWithFractions.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Ex2CalculationWithFractions.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Ex2CalculationWithFractions.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\obj\Debug\netcoreapp3.0\Ex2CalculationWithFractions.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\obj\Debug\netcoreapp3.0\Ex2CalculationWithFractions.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\obj\Debug\netcoreapp3.0\Ex2CalculationWithFractions.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\obj\Debug\netcoreapp3.0\Ex2CalculationWithFractions.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\obj\Debug\netcoreapp3.0\Ex2CalculationWithFractions.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\bin\Debug\netcoreapp3.0\Fractions.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex2CalculationWithFractions\obj\Debug\netcoreapp3.0\Ex2CalculationWithFractions.csproj.CopyComplete

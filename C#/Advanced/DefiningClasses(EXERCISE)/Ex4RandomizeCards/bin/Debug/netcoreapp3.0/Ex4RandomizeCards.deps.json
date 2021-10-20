@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ex4RandomizeCards/1.0.0": {
+        "runtime": {
+          "Ex4RandomizeCards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex4RandomizeCards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
