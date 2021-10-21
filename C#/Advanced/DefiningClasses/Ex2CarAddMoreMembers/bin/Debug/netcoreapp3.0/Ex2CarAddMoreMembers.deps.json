@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ex2CarAddMoreMembers/1.0.0": {
+        "runtime": {
+          "Ex2CarAddMoreMembers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex2CarAddMoreMembers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

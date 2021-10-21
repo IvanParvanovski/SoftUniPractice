@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\bin\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\bin\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\bin\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\bin\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\bin\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\bin\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\obj\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\obj\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\obj\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\obj\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\Ex2CarAddMoreMembers\obj\Debug\netcoreapp3.0\Ex2CarAddMoreMembers.pdb

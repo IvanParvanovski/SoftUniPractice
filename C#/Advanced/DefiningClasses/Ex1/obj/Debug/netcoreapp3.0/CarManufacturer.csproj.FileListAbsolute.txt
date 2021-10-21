@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.pdb
