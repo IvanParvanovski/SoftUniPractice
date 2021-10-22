@@ -1,5 +1,3 @@
-using Ex4CarEngineAndTires;
-
 namespace CarManufacturer
 {
     public class StartUp

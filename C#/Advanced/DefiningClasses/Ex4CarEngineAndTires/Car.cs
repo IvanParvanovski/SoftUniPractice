@@ -1,6 +1,6 @@
 using System;
 
-namespace Ex4CarEngineAndTires
+namespace CarManufacturer
 {
     public class Car
     {
