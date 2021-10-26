@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\bin\Debug\netcoreapp3.0\Ex3OldestFamilyMember.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\bin\Debug\netcoreapp3.0\Ex3OldestFamilyMember.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\bin\Debug\netcoreapp3.0\Ex3OldestFamilyMember.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\bin\Debug\netcoreapp3.0\Ex3OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\bin\Debug\netcoreapp3.0\Ex3OldestFamilyMember.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\bin\Debug\netcoreapp3.0\Ex3OldestFamilyMember.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\obj\Debug\netcoreapp3.0\Ex3OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\obj\Debug\netcoreapp3.0\Ex3OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\obj\Debug\netcoreapp3.0\Ex3OldestFamilyMember.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\obj\Debug\netcoreapp3.0\Ex3OldestFamilyMember.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex3OldestFamilyMember\obj\Debug\netcoreapp3.0\Ex3OldestFamilyMember.pdb

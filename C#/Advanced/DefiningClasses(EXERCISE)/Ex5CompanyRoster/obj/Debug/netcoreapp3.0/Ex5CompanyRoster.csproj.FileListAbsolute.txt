@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\bin\Debug\netcoreapp3.0\Ex5CompanyRoster.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\bin\Debug\netcoreapp3.0\Ex5CompanyRoster.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\bin\Debug\netcoreapp3.0\Ex5CompanyRoster.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\bin\Debug\netcoreapp3.0\Ex5CompanyRoster.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\bin\Debug\netcoreapp3.0\Ex5CompanyRoster.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\bin\Debug\netcoreapp3.0\Ex5CompanyRoster.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\obj\Debug\netcoreapp3.0\Ex5CompanyRoster.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\obj\Debug\netcoreapp3.0\Ex5CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\obj\Debug\netcoreapp3.0\Ex5CompanyRoster.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\obj\Debug\netcoreapp3.0\Ex5CompanyRoster.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex5CompanyRoster\obj\Debug\netcoreapp3.0\Ex5CompanyRoster.pdb

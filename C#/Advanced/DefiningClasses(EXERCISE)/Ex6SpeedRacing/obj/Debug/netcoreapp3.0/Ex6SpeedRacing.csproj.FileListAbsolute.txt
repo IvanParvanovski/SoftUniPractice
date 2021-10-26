@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\bin\Debug\netcoreapp3.0\Ex6SpeedRacing.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\bin\Debug\netcoreapp3.0\Ex6SpeedRacing.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\bin\Debug\netcoreapp3.0\Ex6SpeedRacing.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\bin\Debug\netcoreapp3.0\Ex6SpeedRacing.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\bin\Debug\netcoreapp3.0\Ex6SpeedRacing.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\bin\Debug\netcoreapp3.0\Ex6SpeedRacing.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\obj\Debug\netcoreapp3.0\Ex6SpeedRacing.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\obj\Debug\netcoreapp3.0\Ex6SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\obj\Debug\netcoreapp3.0\Ex6SpeedRacing.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\obj\Debug\netcoreapp3.0\Ex6SpeedRacing.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DefiningClasses(EXERCISE)\Ex6SpeedRacing\obj\Debug\netcoreapp3.0\Ex6SpeedRacing.pdb
