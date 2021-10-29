@@ -1,0 +1,11 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\bin\Debug\netcoreapp3.0\Еx3.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\bin\Debug\netcoreapp3.0\Еx3.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\bin\Debug\netcoreapp3.0\Еx3.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\bin\Debug\netcoreapp3.0\Еx3.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\bin\Debug\netcoreapp3.0\Еx3.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\bin\Debug\netcoreapp3.0\Еx3.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\obj\Debug\netcoreapp3.0\Еx3.csprojAssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\obj\Debug\netcoreapp3.0\Еx3.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\obj\Debug\netcoreapp3.0\Еx3.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\obj\Debug\netcoreapp3.0\Еx3.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam1\Еx3\obj\Debug\netcoreapp3.0\Еx3.pdb
