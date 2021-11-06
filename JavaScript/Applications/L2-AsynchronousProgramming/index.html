@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Asynhronous Programming</title>
+</head>
+
+<body>
+    <button>Click me</button>
+
+    <script>
+        document.querySelector('button').addEventListener('click', makeRequest);
+
+        function makeRequest() {
+            fetch('https://swapi.dev/api/planets/1/')
+                .then(response => response.json())
+                .then(data => console.log(data));
+        }
+    </script>
+</body>
+
+</html>
