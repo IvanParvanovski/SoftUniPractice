@@ -9,7 +9,20 @@
 </head>
 
 <body onload="cookbook()">
-    <header><h1>My Cookbook</h1></header>
+    <header>
+        <h1>My Cookbook</h1>
+        <nav>
+            <a class="active">Catalog</a>
+            <div id="user">
+                <a href="./create.html">Create Recipe</a>
+                <a id="logoutBtn" href="javascript:void(0)">Logout</a>
+            </div>
+            <div id="guest">
+                <a href="./auth/login.html">Login</a>
+                <a href="./auth/register.html">Register</a>
+            </div>
+        </nav>
+    </header>
     <main>
     </main>
 </body>

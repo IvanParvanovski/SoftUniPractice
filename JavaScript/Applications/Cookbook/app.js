@@ -1,12 +1,31 @@
 function cookbook() {    
     const mainElement = document.getElementsByTagName('main')[0];
+    
+    const userBtns = document.getElementById('user');
+    const guestBtns = document.getElementById('guest');
+    const logoutBtn = document.getElementById('logoutBtn');
+    logoutBtn.addEventListener('click', onLogout);
+
+    if (sessionStorage.token != null) {
+        userBtns.style.display = 'inline';
+        guestBtns.style.display = 'none';
+    } else {
+        userBtns.style.display = 'none';
+        guestBtns.style.display = 'inline';
+    }
     displayArticles();
 
-    async function displayRecipe(event) {
-        const recipeId = this.id;
-        removePreviousRecipe();
+    async function onLogout(event) {
+        sessionStorage.removeItem('token');
+        location.reload();
+    }
 
-        const articleData = await getRequest(`http://localhost:3030/jsonstore/cookbook/details/${recipeId}`);
+    async function displayRecipe(event) {
+        removePreviousRecipe();
+        const id = this.id;
+        const url = 'http://localhost:3030/data/recipes/' + id;
+        const articleData = await getRequest(url);
+
         const newArticleDiv = document.createElement('article');
     
         const title = document.createElement('h2');
@@ -27,7 +46,8 @@ function cookbook() {
         ingredientsDiv.innerHTML = '<h3>Ingredients:</h3>';
 
         const ingredientsUl = document.createElement('ul'); 
-        for (let ingredient of articleData.ingredients) {
+        
+        for (const ingredient of articleData.ingredients) {
             const li = document.createElement('li');
             li.textContent = ingredient;
 
@@ -69,9 +89,9 @@ function cookbook() {
     }
 
     async function displayArticles() {
-        const articles = await getRequest('http://localhost:3030/jsonstore/cookbook/recipes');
+        const articles = await getRequest('http://localhost:3030/data/recipes?select=_id%2Cname%2Cimg');
 
-        for (const [id, article] of Object.entries(articles)) {
+        for (const article of articles) {
             const newArticle = document.createElement('article');
             newArticle.className = 'preview';
     
@@ -84,7 +104,10 @@ function cookbook() {
                 '</div>'
             ].join('');
 
-            newArticle.addEventListener('click', displayRecipe.bind({id}));
+            newArticle.addEventListener('click', displayRecipe.bind({
+                id: article._id
+            }));
+
             mainElement.appendChild(newArticle);
         }
     }
@@ -99,6 +122,4 @@ function cookbook() {
         const data = await response.json();
         return data;
     }
-
-
 }
