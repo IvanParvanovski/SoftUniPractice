@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        input {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h2>Register</h2>
+    <form>
+        <label for="email">Email:</label>
+        <input id="email" type="text" name="email">
+
+        <label for="password">Password:</label>
+        <input id="password" type="text" name="password">
+
+        <label for="repeatPassword">Repeat:</label>
+        <input id="repeatPassword" type="text" name="repeatPassword">
+        
+        <button type="submit">Register</button>
+    </form>
+
+    <h2>Login</h2>
+    <form>
+        <label for="email">Email:</label>
+        <input id="email" type="text" name="email">
+
+        <label for="password">Password:</label>
+        <input id="password" type="text" name="password">
+
+        <button type="submit">Login</button>
+    </form>
+
+    <script>
+        const forms = document.getElementsByTagName('form');
+
+        const registerForm = forms[0];
+        const loginForm = forms[1];
+
+        registerForm.addEventListener('submit', onRegister);
+        loginForm.addEventListener('submit', onLogin);
+
+        async function onRegister(event) {
+            event.preventDefault();
+
+            const url = 'http://localhost:3030/users/register';
+            const formData = new FormData(registerForm);
+
+            const email = formData.get('email').trim();
+            const password = formData.get('password').trim();
+            const repeatPassword = formData.get('repeatPassword').trim();
+        
+            const res = await fetch(url, {
+                method: 'post',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({email, password})
+            });
+
+            const result = await res.json();
+            const token = result.accessToken;
+            sessionStorage.setItem('token', token);
+        }
+
+        async function onLogin(event) {
+            event.preventDefault();
+
+            const url = 'http://localhost:3030/users/login';
+            const formData = new FormData(loginForm)
+
+            const email = formData.get('email');
+            const password = formData.get('password');
+            
+            const response = await fetch(url, {
+                method: 'post',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({email, password})
+            });
+
+            const result = response.json();
+            const token = result.accessToken;
+            sessionStorage.setItem('token', token)
+        }
+    </script>
+</body>
+</html>
