@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPA Demo</title>
+    <script src="./src/app.js" type="module"></script>
+    <style>
+        input {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html" id="homeBtn">Home</a>
+        <a href="index.html" id="catalogBtn">Catalog</a>
+        <a href="index.html" id="aboutBtn">About Us</a>
+        <div id="guest">
+            <a href="index.html" id="loginBtn">Login</a>
+            <a href="index.html" id="registerBtn">Register</a>
+        </div>
+        <div id="user">
+            <a href="javascript:void(0)" id="logoutBtn">Logout</a>
+        </div>
+        <style>
+            #sections {
+                display: none;
+            }
+        </style>
+    </nav>
+    <main>
+        <h1>SPA Demo</h1>
+    </main>
+
+    <div id="sections">
+        <section id="homeSection">
+            <h1>Home Page</h1><p>Home page element!</p>
+        </section>
+
+        <section id="catalogSection">
+            <h1>Catalog</h1>
+            <ul></ul>
+        </section>
+
+        <section id="loginSection">
+            <h1>Login</h1>
+
+            <form>
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email" placeholder="Enter your email addresss">
+                
+                <label for="password">Password</label>
+                <input type="text" id="password" name="password" placeholder="Enter your password">
+
+                <button type="submit">Login</button>
+            </form>
+        </section>
+
+        <section id="registerSection">
+            <h1>Register</h1>
+            <form>
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email" placeholder="Enter your email addresss">
+                
+                <label for="password">Password</label>
+                <input type="text" id="password" name="password" placeholder="Enter your password">
+    
+                <label for="rePass">Repeat</label>
+                <input type="text" id="rePass" name="rePass" placeholder="Repeat your password">
+                
+                <button type="submit">Register</button>
+            </form>
+        </section>
+
+        <section id="aboutSection">
+            <h1>About Us</h1>
+            <p>Contact information</p>
+            <p>Phone: +1-951-2343</p>
+        </section>
+
+    </div>
+</body>
+</html>
