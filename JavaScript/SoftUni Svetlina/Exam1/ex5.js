@@ -10,9 +10,12 @@ function capToFront(text) {
         }
     }
 
-    console.log(upperCase.join('') + lowerCase.join(''));
+    return upperCase.join('') + lowerCase.join('');
 }
 
-capToFront('hApPy');
-capToFront('moveMENT');
-capToFront('shOrtCAKE');
+
+console.log(capToFront('hApPy'));
+
+console.log(capToFront('moveMENT'));
+
+console.log(capToFront('shOrtCAKE'));
