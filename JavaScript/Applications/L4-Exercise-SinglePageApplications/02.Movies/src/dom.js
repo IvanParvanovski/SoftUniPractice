@@ -21,7 +21,22 @@ function navigate(event) {
     if (typeof view != 'function') { return; }
 
     event.preventDefault();
-    view();
+    view(event);
+}
+
+function updateNav() {
+    const userData = sessionStorage.getItem('userData');
+    const userLinks = navSection.querySelectorAll('.user');
+    const guestLinks = navSection.querySelectorAll('.guest');
+
+    if (userData != null) {
+        userLinks.forEach(e => e.style.display = 'block');
+        guestLinks.forEach(e => e.style.display = 'none');
+        navSection.querySelector('#welcomeMsg').textContent = `Welcome, ${JSON.parse(userData).email}`;
+    } else {
+        userLinks.forEach(e => e.style.display = 'none');
+        guestLinks.forEach(e => e.style.display = 'block');
+    }
 }
 
 
@@ -29,6 +44,8 @@ export function showView(section) {
     mainContainer.replaceChildren();
 
     mainContainer.appendChild(navSection);
+    updateNav();
+
     mainContainer.appendChild(section);
     mainContainer.appendChild(footerSection);
 }
@@ -58,6 +75,19 @@ export function e(type, attributes, ...content) {
     return result;
 }
 
-function logoutUser() {
-    // sessionStorage
+async function logoutUser(event) {
+    event.preventDefault();
+    event.stopImmediatePropagation();
+
+    const {_token} = JSON.parse(sessionStorage.getItem('userData'));
+
+    await fetch('http://localhost:3030/users/logout', {
+        headers: {
+            'X-Authorization': _token,
+        },
+    });
+
+    sessionStorage.removeItem('userData');
+
+    showLogin();
 }

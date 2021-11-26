@@ -43,3 +43,7 @@
 #views {
     display: none;
 }
+
+.guest, .user {
+    display: none;
+}
