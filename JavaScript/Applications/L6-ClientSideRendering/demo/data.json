@@ -1,0 +1,19 @@
+[
+    {
+        "title": "First Article",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi sapiente repudiandae eius? Obcaecati, officia blanditiis iste facilis alias saepe asperiores odio unde",
+        "author": "John Smith"
+    },
+
+    {
+        "title": "Second Article",
+        "content": "Sunt consectetur, repellat dicta aspernatur maxime iusto incidunt eum eius ratione nisi maiores labore ea quaerat. Laborum nemo eveniet perspiciatis sunt atque enim, ad reprehenderit id placeat odio quis doloribus optio perferendis rem necessitatibus",
+        "author": "Tedodor Draizer"
+    },
+
+    {
+        "title": "Third Article",
+        "content": "Vitae vero. Voluptas vero laboriosam a quos nemo rerum at ipsam in blanditiis ratione natus unde exercitationem illum et dolorum sit fugit tempore fuga ad libero, harum delectus optio",
+        "author": "Dan Bader"
+    }
+]
