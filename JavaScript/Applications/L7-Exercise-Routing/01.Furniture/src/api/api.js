@@ -6,10 +6,10 @@ async function request(url, options) {
 
         if (response.ok == false) {
             if (response.status == 403) {
-                sessionStorage.removeItem('userData');
+                clearUserData();
             }
 
-            const err = response.json();
+            const err = await response.json();
             throw new Error(err.message);
         }
     
@@ -35,9 +35,9 @@ function createOptions(method='get', data) {
         options.body = JSON.stringify(data);
     }
     
-    const userData = sessionStorage.getItem('userData');
+    const userData = getUserData();
     if (userData != null) {
-        options.headers['X-Authorization'] = JSON.parse(userData).token;
+        options.headers['X-Authorization'] = userData.token;
     }
 
     return options;
