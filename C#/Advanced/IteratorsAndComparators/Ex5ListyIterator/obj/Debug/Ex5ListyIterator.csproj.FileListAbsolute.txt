@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\bin\Debug\Ex5ListyIterator.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\bin\Debug\Ex5ListyIterator.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\obj\Debug\Ex5ListyIterator.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\obj\Debug\Ex5ListyIterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\obj\Debug\Ex5ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\obj\Debug\Ex5ListyIterator.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\IteratorsAndComparators\Ex5ListyIterator\obj\Debug\Ex5ListyIterator.pdb

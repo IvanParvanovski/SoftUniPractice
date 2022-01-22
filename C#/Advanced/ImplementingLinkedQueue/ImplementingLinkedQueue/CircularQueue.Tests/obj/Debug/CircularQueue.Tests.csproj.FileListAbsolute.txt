@@ -1,0 +1,10 @@
+D:\delete\skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+D:\delete\skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+D:\delete\skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+D:\delete\skeleton\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\delete\skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+D:\delete\skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojAssemblyReference.cache
+D:\delete\skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CoreCompileInputs.cache
+D:\delete\skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CopyComplete
+D:\delete\skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+D:\delete\skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

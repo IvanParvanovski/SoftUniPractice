@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iparv\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {}
+    "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iparv\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {
+    "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iparv\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
+        "projectUniqueName": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
         "projectName": "IteratorsAndComparators",
-        "projectPath": "C:\\Users\\iparv\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
+        "projectPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
         "packagesPath": "C:\\Users\\iparv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iparv\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\obj\\",
+        "outputPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\IteratorsAndComparators\\IteratorsAndComparators\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\iparv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,18 +38,26 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

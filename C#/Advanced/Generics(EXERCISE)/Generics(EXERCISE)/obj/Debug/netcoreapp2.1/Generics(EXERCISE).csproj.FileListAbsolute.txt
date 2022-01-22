@@ -1,0 +1,13 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\bin\Debug\netcoreapp2.1\Generics(EXERCISE).deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\bin\Debug\netcoreapp2.1\Generics(EXERCISE).runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\bin\Debug\netcoreapp2.1\Generics(EXERCISE).runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\bin\Debug\netcoreapp2.1\Generics(EXERCISE).dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\bin\Debug\netcoreapp2.1\Generics(EXERCISE).pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Generics(EXERCISE)\Generics(EXERCISE)\obj\Debug\netcoreapp2.1\Generics(EXERCISE).genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\delete\skeleton\CircularQueue\bin\Debug\CircularQueue.exe
+D:\delete\skeleton\CircularQueue\bin\Debug\CircularQueue.pdb
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.csprojAssemblyReference.cache
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.exe
+D:\delete\skeleton\CircularQueue\obj\Debug\CircularQueue.pdb

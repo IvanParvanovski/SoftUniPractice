@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\bin\Debug\netcoreapp3.0\Exam2.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\bin\Debug\netcoreapp3.0\Exam2.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\bin\Debug\netcoreapp3.0\Exam2.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\bin\Debug\netcoreapp3.0\Exam2.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\bin\Debug\netcoreapp3.0\Exam2.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\bin\Debug\netcoreapp3.0\Exam2.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Exam2\Exam2\obj\Debug\netcoreapp3.0\Exam2.genruntimeconfig.cache

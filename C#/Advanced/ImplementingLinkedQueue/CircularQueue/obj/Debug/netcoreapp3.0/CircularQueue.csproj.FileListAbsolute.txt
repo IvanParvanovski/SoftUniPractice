@@ -1,0 +1,5 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\ImplementingLinkedQueue\CircularQueue\obj\Debug\netcoreapp3.0\CircularQueue.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\ImplementingLinkedQueue\CircularQueue\obj\Debug\netcoreapp3.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\ImplementingLinkedQueue\CircularQueue\obj\Debug\netcoreapp3.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\ImplementingLinkedQueue\CircularQueue\obj\Debug\netcoreapp3.0\CircularQueue.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\ImplementingLinkedQueue\CircularQueue\obj\Debug\netcoreapp3.0\CircularQueue.csproj.CoreCompileInputs.cache
