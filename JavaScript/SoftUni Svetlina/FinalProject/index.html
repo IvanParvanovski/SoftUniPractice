@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./assets/style/style.css">
+    <title>Document</title>
+
+</head>
+
+<body data-spy="scroll" data-target="#myNavbar">
+
+    <!-- Sticky Nav -->
+    <nav id="myNavbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+        <img src="./assets/img/logo.png" width="30" height="30" alt="">
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link " href="#aboutMe">About Me</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#achivements">Achivements</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#skills">Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Carousel -->
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./assets/img/pic1.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/img/pic2.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/img/pic3.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <!-- Cards -->
+    <div class="container">
+        <div class="row row-cols-3">
+            <div class="card col" style="width: 40rem;">
+                <img class="card-img-top" src="./assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">This is my amazing logo!</p>
+                </div>
+
+                <button type="button" class="btn btn-primary myBtn" data-bs-toggle="modal" data-bs-target="#myModal">
+                    Save
+                </button>
+            </div>
+
+            <div class="card col" style="width: 40rem;">
+                <img class="card-img-top" src="./assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">This is my amazing logo!</p>
+                </div>
+
+                <button type="button" class="btn btn-primary myBtn" data-bs-toggle="modal" data-bs-target="#myModal">
+                    Save
+                </button>
+            </div>
+
+            <div class="card col" style="width: 40rem;">
+                <img class="card-img-top" src="./assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">This is my amazing logo!</p>
+                </div>
+
+                <button type="button" class="btn btn-primary myBtn" data-bs-toggle="modal" data-bs-target="#myModal">
+                    Save
+                </button>
+            </div>
+
+            <div class="card col" style="width: 40rem;">
+                <img class="card-img-top" src="./assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">This is my amazing logo!</p>
+                </div>
+
+                <button type="button" class="btn btn-primary myBtn" data-bs-toggle="modal" data-bs-target="#myModal">
+                    Save
+                </button>
+            </div>
+
+            <div class="card col" style="width: 40rem;">
+                <img class="card-img-top" src="./assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">This is my amazing logo!</p>
+                </div>
+
+                <button type="button" class="btn btn-primary myBtn" data-bs-toggle="modal" data-bs-target="#myModal">
+                    Save
+                </button>
+            </div>
+
+            <div class="card col" style="width: 40rem;">
+                <img class="card-img-top" src="./assets/img/logo.png" alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">This is my amazing logo!</p>
+                </div>
+
+                <button type="button" class="btn btn-primary myBtn" data-bs-toggle="modal" data-bs-target="#myModal">
+                    Save
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    Are you sure you want to save this picture?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ScrollSpy -->
+    <div class="container">
+        <div class="row">
+            <div data-spy="scroll" data-target="#myNavbar" data-offset="0">
+                <h4 id="aboutMe">About me</h4>
+                <p>
+                    My name is Ivan Parvanovski!
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde vitae exercitationem impedit. Impedit
+                    consequuntur similique veritatis sapiente aperiam temporibus ipsum?
+                </p>
+
+                <br>
+
+                <h4 id="achivements">Achivements</h4>
+                <p>
+                    I have some certificats.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde vitae exercitationem impedit. Impedit
+                    consequuntur similique veritatis sapiente aperiam temporibus ipsum?
+                </p>
+
+                <br>
+
+                <h4 id="skills">Skills</h4>
+                <p>
+                    I can code on JS, Python and C#
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde vitae exercitationem impedit. Impedit
+                    consequuntur similique veritatis sapiente aperiam temporibus ipsum?
+                </p>
+
+                <h4 id="contact">Email</h4>
+                <p>
+                    invalid@invalid.com
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde vitae exercitationem impedit. Impedit
+                    consequuntur similique veritatis sapiente aperiam temporibus ipsum?
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popover -->
+    <div class="container">
+        <div class="row">
+            <button type="button" class="btn btn-lg btn-danger myBtn" data-toggle="popover" title="Ivan Parvanovski :P"
+                data-content="Some very epic content">Display Name</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <button class="btn btn-success myBtn" onclick="Toasty()">Toast Me Up</button>
+
+                <div class="toast" id="EpicToast" role="alert" aria-live="assertive" aria-atomic="true">
+                    <div class="toast-header">
+                        <h5 class="mr-auto">Skills</strong>
+                            <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                    </div>
+
+                    <div class="toast-body">
+                        <h6>Hello, world! I am amazing.</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./bootstrap-5.1.3-dist/js/bootstrap.bundle.js"></script>
+
+
+    <script>
+        window.addEventListener('resize', ResizeWindow);
+
+        function ResizeWindow() {
+            const dataSpyList = [].slice.call(document.querySelectorAll('[data-spy="scroll"]'));
+            dataSpyList.forEach(function (dataSpyElement) {
+                bootstrap.ScrollSpy.getInstance(dataSpyElement).refresh();
+            });
+        }
+    </script>
+
+    <script>
+        const popoverTriggerList = [].slice.call(document.querySelectorAll('[data-toggle="popover"]'));
+        const popoverList = popoverTriggerList.map(function (popoverTrigger) {
+            return new bootstrap.Popover(popoverTrigger);
+        });
+    </script>
+
+    <script>
+        const option = {
+            animation: true,
+            delay: 4000,
+        }
+
+        function Toasty() {
+            const toastHTMLElement = document.getElementById('EpicToast');
+            const toastElement = new bootstrap.Toast(toastHTMLElement, option);
+            toastElement.show();
+        }
+    </script>
+</body>
+
+</html>

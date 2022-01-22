@@ -1,0 +1,40 @@
+body {
+    font-size: 5rem;
+    position: relative;
+}
+
+h5 {
+    font-size: 8rem;
+}
+
+h6 {
+    font-size: 5rem;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+@media (min-width: 10px) {
+    .container{
+        max-width: 140rem;
+    }
+}
+
+.card {
+    margin-left: 6rem;
+    margin-bottom: 6rem;
+}
+
+.myBtn {
+    font-size: 5rem;
+}
+
+h4 {
+    font-size: 20rem;
+}
+
+nav img {
+    width: 5%;
+    height: 5%;
+}
