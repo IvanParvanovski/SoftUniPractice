@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\bin\Debug\RecursionExam.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\bin\Debug\RecursionExam.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\obj\Debug\RecursionExam.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\obj\Debug\RecursionExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\obj\Debug\RecursionExam.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\obj\Debug\RecursionExam.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\RecursionExam\RecursionExam\obj\Debug\RecursionExam.pdb
