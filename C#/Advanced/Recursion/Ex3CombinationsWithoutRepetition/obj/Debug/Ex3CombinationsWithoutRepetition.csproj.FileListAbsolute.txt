@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\bin\Debug\Ex3CombinationsWithoutRepetition.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\bin\Debug\Ex3CombinationsWithoutRepetition.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\obj\Debug\Ex3CombinationsWithoutRepetition.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\obj\Debug\Ex3CombinationsWithoutRepetition.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\obj\Debug\Ex3CombinationsWithoutRepetition.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\obj\Debug\Ex3CombinationsWithoutRepetition.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex3CombinationsWithoutRepetition\obj\Debug\Ex3CombinationsWithoutRepetition.pdb

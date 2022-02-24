@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\bin\Debug\Ex5EightQueens.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\bin\Debug\Ex5EightQueens.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\obj\Debug\Ex5EightQueens.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\obj\Debug\Ex5EightQueens.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\obj\Debug\Ex5EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\obj\Debug\Ex5EightQueens.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5EightQueens\obj\Debug\Ex5EightQueens.pdb

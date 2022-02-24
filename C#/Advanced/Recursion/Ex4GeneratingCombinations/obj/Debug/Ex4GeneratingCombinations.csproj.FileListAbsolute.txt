@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\bin\Debug\Ex4GeneratingCombinations.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\bin\Debug\Ex4GeneratingCombinations.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\obj\Debug\Ex4GeneratingCombinations.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\obj\Debug\Ex4GeneratingCombinations.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\obj\Debug\Ex4GeneratingCombinations.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\obj\Debug\Ex4GeneratingCombinations.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4GeneratingCombinations\obj\Debug\Ex4GeneratingCombinations.pdb
