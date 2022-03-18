@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\bin\Debug\Ex2ReverseArray.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\bin\Debug\Ex2ReverseArray.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\obj\Debug\Ex2ReverseArray.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\obj\Debug\Ex2ReverseArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\obj\Debug\Ex2ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\obj\Debug\Ex2ReverseArray.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex2ReverseArray\obj\Debug\Ex2ReverseArray.pdb

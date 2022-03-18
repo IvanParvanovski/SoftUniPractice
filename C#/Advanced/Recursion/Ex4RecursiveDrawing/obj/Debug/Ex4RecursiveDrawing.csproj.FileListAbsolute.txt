@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\bin\Debug\Ex4RecursiveDrawing.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\bin\Debug\Ex4RecursiveDrawing.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\obj\Debug\Ex4RecursiveDrawing.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\obj\Debug\Ex4RecursiveDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\obj\Debug\Ex4RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\obj\Debug\Ex4RecursiveDrawing.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex4RecursiveDrawing\obj\Debug\Ex4RecursiveDrawing.pdb

@@ -1,0 +1,7 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\bin\Debug\Ex5NestedLoopsToRecursion.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\bin\Debug\Ex5NestedLoopsToRecursion.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\obj\Debug\Ex5NestedLoopsToRecursion.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\obj\Debug\Ex5NestedLoopsToRecursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\obj\Debug\Ex5NestedLoopsToRecursion.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\obj\Debug\Ex5NestedLoopsToRecursion.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\Recursion\Ex5NestedLoopsToRecursion\obj\Debug\Ex5NestedLoopsToRecursion.pdb
