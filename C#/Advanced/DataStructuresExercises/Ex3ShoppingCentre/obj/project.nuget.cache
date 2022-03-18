@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADG2SXstpCsWcgrKBCdYmL002iYwvyDn6C5RP1EpmFNb34vIlqZYcyDBIq+VHrOLU7qBjmzQmSFd+VYiyqp1Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\DataStructuresExercises\\Ex3ShoppingCentre\\Ex3ShoppingCentre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512",
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

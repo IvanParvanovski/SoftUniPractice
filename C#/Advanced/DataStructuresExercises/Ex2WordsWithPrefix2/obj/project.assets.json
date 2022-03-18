@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "rm.Trie/1.3.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/rm.Trie.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/rm.Trie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rm.Trie/1.3.5": {
+      "sha512": "bJJ9xVDd3ZM4+M2Arp5s+lhZxfLYSrHWs0RTBHFAFS73HlqbHEa6btfi1hrOMDGoCfQVoxGZSLG8fnF8X0mRkg==",
+      "type": "package",
+      "path": "rm.trie/1.3.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/rm.Trie.dll",
+        "lib/netstandard2.0/rm.Trie.pdb",
+        "lib/netstandard2.0/rm.Trie.xml",
+        "lib/netstandard2.1/rm.Trie.dll",
+        "lib/netstandard2.1/rm.Trie.pdb",
+        "lib/netstandard2.1/rm.Trie.xml",
+        "rm.trie.1.3.5.nupkg.sha512",
+        "rm.trie.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "rm.Trie >= 1.3.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\iparv\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\DataStructuresExercises\\Ex2WordsWithPrefix2\\Ex2WordsWithPrefix2.csproj",
+      "projectName": "Ex2WordsWithPrefix2",
+      "projectPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\DataStructuresExercises\\Ex2WordsWithPrefix2\\Ex2WordsWithPrefix2.csproj",
+      "packagesPath": "C:\\Users\\iparv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\DataStructuresExercises\\Ex2WordsWithPrefix2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\iparv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "rm.Trie": {
+            "target": "Package",
+            "version": "[1.3.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.21, 3.1.21]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

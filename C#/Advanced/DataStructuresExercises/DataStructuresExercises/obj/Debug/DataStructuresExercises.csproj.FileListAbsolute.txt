@@ -1,0 +1,12 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\bin\Debug\DataStructuresExercises.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\bin\Debug\DataStructuresExercises.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\bin\Debug\Wintellect.PowerCollections.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\obj\Debug\DataStructuresExercises.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\obj\Debug\DataStructuresExercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\obj\Debug\DataStructuresExercises.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\obj\Debug\DataStructuresExercises.csproj.CopyComplete
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\obj\Debug\DataStructuresExercises.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\obj\Debug\DataStructuresExercises.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\bin\Debug\rm.Trie.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\bin\Debug\rm.Trie.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\DataStructuresExercises\bin\Debug\rm.Trie.xml

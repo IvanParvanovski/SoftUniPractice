@@ -1,0 +1,16 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\bin\Debug\netcoreapp3.1\rm.Trie.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.csproj.CopyComplete
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex2WordsWithPrefix2\obj\Debug\netcoreapp3.1\Ex2WordsWithPrefix2.genruntimeconfig.cache

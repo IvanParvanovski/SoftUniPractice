@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex1EventInGivenDateRange/1.0.0": {
+        "dependencies": {
+          "SoftUni.Wintellect.PowerCollections": "2.0.0"
+        },
+        "runtime": {
+          "Ex1EventInGivenDateRange.dll": {}
+        }
+      },
+      "SoftUni.Wintellect.PowerCollections/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Wintellect.PowerCollections.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex1EventInGivenDateRange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUni.Wintellect.PowerCollections/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmx9igyEyHA+/0uVYrq6iT6rqgw7CbbLKDd9PD5MuTabBGmpdo+PLqw9LORWSfkEF+C3O4viB2GJxYyd3YYGEA==",
+      "path": "softuni.wintellect.powercollections/2.0.0",
+      "hashPath": "softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+    }
+  }
+}

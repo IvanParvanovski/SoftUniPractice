@@ -1,0 +1,16 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Ex3ShoppingCentre.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Ex3ShoppingCentre.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Ex3ShoppingCentre.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Ex3ShoppingCentre.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Ex3ShoppingCentre.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Ex3ShoppingCentre.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.csproj.CopyComplete
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DataStructuresExercises\Ex3ShoppingCentre\obj\Debug\netcoreapp3.1\Ex3ShoppingCentre.genruntimeconfig.cache

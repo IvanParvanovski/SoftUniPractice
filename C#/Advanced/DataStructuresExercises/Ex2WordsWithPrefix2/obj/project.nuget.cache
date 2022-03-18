@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NOpYTadDfzV6MtkliYp6zOJC/P6kGF/423JwwFMD/w0X2zlE2rldD6ibZI4ZupeFWi3tfofq9vb78XIsfyVdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\DataStructuresExercises\\Ex2WordsWithPrefix2\\Ex2WordsWithPrefix2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\rm.trie\\1.3.5\\rm.trie.1.3.5.nupkg.sha512",
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

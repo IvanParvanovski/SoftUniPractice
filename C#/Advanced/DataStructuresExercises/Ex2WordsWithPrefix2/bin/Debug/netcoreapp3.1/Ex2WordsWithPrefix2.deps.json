@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex2WordsWithPrefix2/1.0.0": {
+        "dependencies": {
+          "rm.Trie": "1.3.5"
+        },
+        "runtime": {
+          "Ex2WordsWithPrefix2.dll": {}
+        }
+      },
+      "rm.Trie/1.3.5": {
+        "runtime": {
+          "lib/netstandard2.1/rm.Trie.dll": {
+            "assemblyVersion": "1.3.5.0",
+            "fileVersion": "1.3.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex2WordsWithPrefix2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "rm.Trie/1.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bJJ9xVDd3ZM4+M2Arp5s+lhZxfLYSrHWs0RTBHFAFS73HlqbHEa6btfi1hrOMDGoCfQVoxGZSLG8fnF8X0mRkg==",
+      "path": "rm.trie/1.3.5",
+      "hashPath": "rm.trie.1.3.5.nupkg.sha512"
+    }
+  }
+}

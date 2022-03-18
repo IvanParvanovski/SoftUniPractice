@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>rm.Trie</name>
+    </assembly>
+    <members>
+        <member name="T:rm.Trie.ITrie">
+            <summary>
+            Interface for Trie data structure.
+            </summary>
+            <remarks>
+            ITrie does not inherit from ITrieMap{TValue} for flexibility.
+            </remarks>
+        </member>
+        <member name="M:rm.Trie.ITrie.AddWord(System.String)">
+            <summary>
+            Adds a word to the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.RemoveWord(System.String)">
+            <summary>
+            Removes word from the Trie.
+            </summary>
+            <returns>Count of words removed.</returns>
+        </member>
+        <member name="M:rm.Trie.ITrie.RemovePrefix(System.String)">
+            <summary>
+            Removes words by prefix from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.GetWords">
+            <summary>
+            Gets all words in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.GetWords(System.String)">
+            <summary>
+            Gets words for given prefix.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.HasWord(System.String)">
+            <summary>
+            Returns true if the word is present in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.HasPrefix(System.String)">
+            <summary>
+            Returns true if the prefix is present in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.GetTrieNode(System.String)">
+            <summary>
+            Gets the equivalent TrieNode in the Trie for given prefix. 
+            If prefix not present, then returns null.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.WordCount(System.String)">
+            <summary>
+            Returns the count for the word in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.GetLongestWords">
+            <summary>
+            Gets longest words from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.GetShortestWords">
+            <summary>
+            Gets shortest words from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.Clear">
+            <summary>
+            Clears all words from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.Count">
+            <summary>
+            Gets total word count in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.UniqueCount">
+            <summary>
+            Gets unique word count in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrie.GetRootTrieNode">
+            <summary>
+            Gets the root TrieNode of the Trie.
+            </summary>
+        </member>
+        <member name="T:rm.Trie.ITrieMap`1">
+            <summary>
+            Interface for TrieMap data structure.
+            </summary>
+            <typeparam name="TValue">Type of Value at each TrieNode.</typeparam>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.ValueBy(System.String)">
+            <summary>
+            Gets TValue item for key from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.ValuesBy(System.String)">
+            <summary>
+            Gets TValue items by key prefix from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.Values">
+            <summary>
+            Gets all TValue items from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.KeysBy(System.String)">
+            <summary>
+            Gets keys by key prefix from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.Keys">
+            <summary>
+            Gets all keys from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.KeyValuePairsBy(System.String)">
+            <summary>
+            Gets string->TValue pairs by key prefix from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.KeyValuePairs">
+            <summary>
+            Gets all string->TValue pairs from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.Add(System.String,`0)">
+            <summary>
+            Adds TValue item for key to TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.HasKey(System.String)">
+            <summary>
+            Returns true if key present in TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.HasKeyPrefix(System.String)">
+            <summary>
+            Returns true if key prefix present in TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.GetTrieNode(System.String)">
+            <summary>
+            Gets the equivalent TrieNode in the TrieMap for given key prefix.
+            If prefix not present, then returns null.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.Remove(System.String)">
+            <summary>
+            Removes key from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.RemoveKeyPrefix(System.String)">
+            <summary>
+            Removes key prefix from TrieMap and return true else false.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.Clear">
+            <summary>
+            Clears all values from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.ITrieMap`1.GetRootTrieNode">
+            <summary>
+            Gets the root TrieNode of the TrieMap.
+            </summary>
+        </member>
+        <member name="T:rm.Trie.Trie">
+            <summary>
+            Trie data structure.
+            </summary>
+        </member>
+        <member name="F:rm.Trie.Trie.rootTrieNode">
+            <summary>
+            Root TrieNode.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.#ctor">
+            <summary>
+            Creates a new Trie instance.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.AddWord(System.String)">
+            <summary>
+            Adds a word to the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.RemoveWord(System.String)">
+            <summary>
+            Removes word from the Trie.
+            </summary>
+            <returns>Count of words removed.</returns>
+        </member>
+        <member name="M:rm.Trie.Trie.RemovePrefix(System.String)">
+            <summary>
+            Removes words by prefix from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetWords">
+            <summary>
+            Gets all words in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetWords(System.String)">
+            <summary>
+            Gets words for given prefix.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.HasWord(System.String)">
+            <summary>
+            Returns true if the word is present in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.HasPrefix(System.String)">
+            <summary>
+            Returns true if the prefix is present in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetTrieNode(System.String)">
+            <summary>
+            Gets the equivalent TrieNode in the Trie for given prefix. 
+            If prefix not present, then returns null.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.WordCount(System.String)">
+            <summary>
+            Returns the count for the word in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetLongestWords">
+            <summary>
+            Gets longest words from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetShortestWords">
+            <summary>
+            Gets shortest words from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.Clear">
+            <summary>
+            Clears all words from the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.Count">
+            <summary>
+            Gets total word count in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.UniqueCount">
+            <summary>
+            Gets unique word count in the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetRootTrieNode">
+            <summary>
+            Gets the root TrieNode of the Trie.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.AddWord(rm.Trie.TrieNode,System.Char[])">
+            <summary>
+            Adds words recursively.
+            <para>
+            Gets the first char of the word, creates the child TrieNode if null, 
+            and recurses with the first char removed from the word. If the word
+            length is 0, return.
+            </para>
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.Traverse(rm.Trie.TrieNode,System.Text.StringBuilder)">
+            <summary>
+            Gets all the words recursively starting from given TrieNode.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetLongestWords(rm.Trie.TrieNode,System.Collections.Generic.ICollection{System.String},System.Text.StringBuilder,rm.Trie.Wrapped{System.Int32})">
+            <summary>
+            Gets longest words recursively starting from given TrieNode.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetShortestWords(rm.Trie.TrieNode,System.Collections.Generic.ICollection{System.String},System.Text.StringBuilder,rm.Trie.Wrapped{System.Int32})">
+            <summary>
+            Gets shortest words recursively starting from given TrieNode.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.GetTrieNodesStack(System.String,System.Boolean)">
+            <summary>
+            Gets stack of trieNodes for given string.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.RemoveWord(System.Collections.Generic.Stack{rm.Trie.TrieNode})">
+            <summary>
+            Removes word and trims.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.RemovePrefix(System.Collections.Generic.Stack{rm.Trie.TrieNode})">
+            <summary>
+            Removes prefix and trims.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.Trie.Trim(System.Collections.Generic.Stack{rm.Trie.TrieNode})">
+            <summary>
+            Removes unneeded trieNodes going up from a trieNode to root.
+            </summary>
+            <remarks>
+            TrieNode, except root, that is not a word or has no children can be removed.
+            </remarks>
+        </member>
+        <member name="M:rm.Trie.Trie.GetCount(rm.Trie.TrieNode,rm.Trie.Wrapped{System.Int32},System.Boolean)">
+            <summary>
+            Gets word count in the Trie.
+            </summary>
+        </member>
+        <member name="T:rm.Trie.TrieMap`1">
+            <summary>
+            TrieMap data structure.
+            </summary>
+            <typeparam name="TValue">Type of Value at each TrieNode.</typeparam>
+        </member>
+        <member name="F:rm.Trie.TrieMap`1.rootTrieNode">
+            <summary>
+            Root TrieNode.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.#ctor">
+            <summary>
+            Create a new TrieMap instance.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.ValueBy(System.String)">
+            <summary>
+            Gets TValue item for key from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.ValuesBy(System.String)">
+            <summary>
+            Gets TValue items by key prefix from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.Values">
+            <summary>
+            Gets all TValue items from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.KeysBy(System.String)">
+            <summary>
+            Gets keys by key prefix from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.Keys">
+            <summary>
+            Gets all keys from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.KeyValuePairsBy(System.String)">
+            <summary>
+            Gets string->TValue pairs by key prefix from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.KeyValuePairs">
+            <summary>
+            Gets all string->TValue pairs from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.Add(System.String,`0)">
+            <summary>
+            Adds TValue item for key to TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.HasKey(System.String)">
+            <summary>
+            Returns true if key present in TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.HasKeyPrefix(System.String)">
+            <summary>
+            Returns true if key prefix present in TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.GetTrieNode(System.String)">
+            <summary>
+            Gets the equivalent TrieNode in the TrieMap for given key prefix.
+            If prefix not present, then returns null.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.Remove(System.String)">
+            <summary>
+            Removes key from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.RemoveKeyPrefix(System.String)">
+            <summary>
+            Removes key prefix from TrieMap and return true else false.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.Clear">
+            <summary>
+            Clears all values from TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.GetRootTrieNode">
+            <summary>
+            Gets the root TrieNode of the TrieMap.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieMap`1.Traverse``1(rm.Trie.TrieNode{`0},System.Text.StringBuilder,System.Func{System.Text.StringBuilder,`0,``0})">
+            <summary>
+            DFS traversal starting from given TrieNode and yield.
+            </summary>
+        </member>
+        <member name="T:rm.Trie.TrieNode">
+            <summary>
+            TrieNode node to save WordCount information.
+            </summary>
+            <remarks>
+            TrieNode could inherit from TrieNode{int} and expose a WordCount property
+            but TrieNode{int}.Value is exposed as public and the design is not
+            intuitive.
+            </remarks>
+        </member>
+        <member name="P:rm.Trie.TrieNode.IsWord">
+            <summary>
+            Boolean to indicate whether the root to this node forms a word.
+            </summary>
+        </member>
+        <member name="P:rm.Trie.TrieNode.WordCount">
+            <summary>
+            The count of words for the TrieNode.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieNode.#ctor(System.Char)">
+            <summary>
+            Creates a new TrieNode instance.
+            </summary>
+            <param name="character">The character for the TrieNode.</param>
+        </member>
+        <member name="T:rm.Trie.TrieNode`1">
+            <summary>
+            TrieNode[TValue] node to save TValue item.
+            </summary>
+            <typeparam name="TValue">Type of Value at each TrieNode.</typeparam>
+        </member>
+        <member name="P:rm.Trie.TrieNode`1.Value">
+            <summary>
+            TValue item.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieNode`1.#ctor(System.Char)">
+            <summary>
+            Creates a new TrieNode instance.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieNode`1.HasValue">
+            <summary>
+            Returns true if contains value.
+            </summary>
+        </member>
+        <member name="T:rm.Trie.TrieNodeBase">
+            <summary>
+            TrieNodeBase is an internal abstract class to encapsulate recursive, helper etc. methods.
+            </summary>
+        </member>
+        <member name="P:rm.Trie.TrieNodeBase.Character">
+            <summary>
+            The character for the TrieNode.
+            </summary>
+        </member>
+        <member name="F:rm.Trie.TrieNodeBase.children">
+            <summary>
+            Children Character->TrieNode map.
+            </summary>
+        </member>
+        <member name="M:rm.Trie.TrieNodeBase.#ctor(System.Char)">
+            <summary>
+            Creates a new TrieNode instance.
+            </summary>
+            <param name="character">The character for the TrieNode.</param>
+        </member>
+        <member name="T:rm.Trie.TrieNodeBaseEqualityComparer">
+            <summary>
+            EqualityComparer for TrieNodeBase implementations.
+            </summary>
+        </member>
+        <member name="T:rm.Trie.Wrapped`1">
+            <summary>
+            Wrapped type.
+            </summary>
+            <remarks>Useful to avoid pass by reference parameters.</remarks>
+        </member>
+    </members>
+</doc>
