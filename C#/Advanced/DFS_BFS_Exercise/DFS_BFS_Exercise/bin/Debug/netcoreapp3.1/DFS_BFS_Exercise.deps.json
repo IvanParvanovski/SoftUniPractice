@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DFS_BFS_Exercise/1.0.0": {
+        "runtime": {
+          "DFS_BFS_Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DFS_BFS_Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

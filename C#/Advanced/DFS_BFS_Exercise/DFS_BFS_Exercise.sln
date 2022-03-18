@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS_BFS_Exercise", "DFS_BFS_Exercise\DFS_BFS_Exercise.csproj", "{249DD9BE-FDD5-4DC5-B841-F4FE4F6F7AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2Maze", "Ex2Maze\Ex2Maze.csproj", "{B4893BE7-0595-4B04-94FE-065859DF66A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249DD9BE-FDD5-4DC5-B841-F4FE4F6F7AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249DD9BE-FDD5-4DC5-B841-F4FE4F6F7AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249DD9BE-FDD5-4DC5-B841-F4FE4F6F7AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249DD9BE-FDD5-4DC5-B841-F4FE4F6F7AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4893BE7-0595-4B04-94FE-065859DF66A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4893BE7-0595-4B04-94FE-065859DF66A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4893BE7-0595-4B04-94FE-065859DF66A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4893BE7-0595-4B04-94FE-065859DF66A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

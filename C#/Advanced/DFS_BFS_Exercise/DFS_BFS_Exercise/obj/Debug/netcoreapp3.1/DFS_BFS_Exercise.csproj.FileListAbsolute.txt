@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\bin\Debug\netcoreapp3.1\DFS_BFS_Exercise.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\bin\Debug\netcoreapp3.1\DFS_BFS_Exercise.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\bin\Debug\netcoreapp3.1\DFS_BFS_Exercise.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\bin\Debug\netcoreapp3.1\DFS_BFS_Exercise.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\bin\Debug\netcoreapp3.1\DFS_BFS_Exercise.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\bin\Debug\netcoreapp3.1\DFS_BFS_Exercise.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\DFS_BFS_Exercise\obj\Debug\netcoreapp3.1\DFS_BFS_Exercise.genruntimeconfig.cache

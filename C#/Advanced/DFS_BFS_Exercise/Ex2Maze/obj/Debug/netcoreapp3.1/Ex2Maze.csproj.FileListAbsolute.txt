@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\bin\Debug\netcoreapp3.1\Ex2Maze.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\bin\Debug\netcoreapp3.1\Ex2Maze.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\bin\Debug\netcoreapp3.1\Ex2Maze.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\bin\Debug\netcoreapp3.1\Ex2Maze.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\bin\Debug\netcoreapp3.1\Ex2Maze.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\bin\Debug\netcoreapp3.1\Ex2Maze.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex2Maze\obj\Debug\netcoreapp3.1\Ex2Maze.genruntimeconfig.cache
