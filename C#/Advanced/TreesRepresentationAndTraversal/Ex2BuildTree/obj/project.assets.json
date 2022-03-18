@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleTreeNode/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SimpleTreeNode.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleTreeNode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleTreeNode/1.0.0": {
+      "sha512": "L81tUZhh8NZ5ehN13bX2CbbIFZ1eqfdbMmnYCKXyImvwMkdD65V+5jc6fuhsRemksM+V5yqdar5uqw8FqR5Eiw==",
+      "type": "package",
+      "path": "simpletreenode/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "SimpleTreeNode-icon.png",
+        "lib/net20/SimpleTreeNode.dll",
+        "lib/netstandard2.0/SimpleTreeNode.dll",
+        "simpletreenode.1.0.0.nupkg.sha512",
+        "simpletreenode.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SimpleTreeNode >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\iparv\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\TreesRepresentationAndTraversal\\Ex2BuildTree\\Ex2BuildTree.csproj",
+      "projectName": "Ex2BuildTree",
+      "projectPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\TreesRepresentationAndTraversal\\Ex2BuildTree\\Ex2BuildTree.csproj",
+      "packagesPath": "C:\\Users\\iparv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\TreesRepresentationAndTraversal\\Ex2BuildTree\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\iparv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "SimpleTreeNode": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.21, 3.1.21]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

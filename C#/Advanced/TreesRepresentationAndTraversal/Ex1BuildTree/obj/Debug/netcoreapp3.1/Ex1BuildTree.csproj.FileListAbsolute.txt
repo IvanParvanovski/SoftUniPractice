@@ -1,0 +1,16 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\Ex1BuildTree.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\Ex1BuildTree.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\Ex1BuildTree.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\Ex1BuildTree.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\Ex1BuildTree.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\Ex1BuildTree.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\bin\Debug\netcoreapp3.1\SimpleTreeNode.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.csproj.CopyComplete
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex1BuildTree\obj\Debug\netcoreapp3.1\Ex1BuildTree.genruntimeconfig.cache

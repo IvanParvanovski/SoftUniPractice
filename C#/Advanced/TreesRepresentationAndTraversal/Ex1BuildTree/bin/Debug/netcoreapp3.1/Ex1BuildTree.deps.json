@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex1BuildTree/1.0.0": {
+        "dependencies": {
+          "SimpleTreeNode": "1.0.0"
+        },
+        "runtime": {
+          "Ex1BuildTree.dll": {}
+        }
+      },
+      "SimpleTreeNode/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SimpleTreeNode.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex1BuildTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleTreeNode/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L81tUZhh8NZ5ehN13bX2CbbIFZ1eqfdbMmnYCKXyImvwMkdD65V+5jc6fuhsRemksM+V5yqdar5uqw8FqR5Eiw==",
+      "path": "simpletreenode/1.0.0",
+      "hashPath": "simpletreenode.1.0.0.nupkg.sha512"
+    }
+  }
+}

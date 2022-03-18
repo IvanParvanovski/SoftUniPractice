@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7U3vQ1uFXQzOI/Qbn6Zz9D0coyMPKHkZC5f+Aw/2CXxxFHE7RPykumMV0JLY42W9y78WfPR8Q9NKcu2L7EMqMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\TreesRepresentationAndTraversal\\Ex2BuildTree\\Ex2BuildTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\simpletreenode\\1.0.0\\simpletreenode.1.0.0.nupkg.sha512",
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

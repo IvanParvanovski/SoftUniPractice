@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\bin\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\bin\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\bin\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\bin\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\bin\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\bin\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex2_BFS_TraverseFolders\obj\Debug\netcoreapp3.1\Ex2_BFS_TraverseFolders.genruntimeconfig.cache

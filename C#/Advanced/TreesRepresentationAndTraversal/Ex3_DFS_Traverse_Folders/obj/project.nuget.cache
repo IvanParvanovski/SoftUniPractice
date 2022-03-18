@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYv5y6qpJhDa80UR8oUJE3YR1jC513sNbHmKamDVvCah250azyOTIX5DXtuPinqQfFmFXH8xDTf5JnVU0/tcSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\TreesRepresentationAndTraversal\\Ex3_DFS_Traverse_Folders\\Ex3_DFS_Traverse_Folders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

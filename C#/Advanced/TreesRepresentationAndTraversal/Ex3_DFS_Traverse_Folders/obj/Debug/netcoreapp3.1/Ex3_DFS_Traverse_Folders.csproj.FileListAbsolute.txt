@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\bin\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\bin\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\bin\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\bin\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\bin\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\bin\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\TreesRepresentationAndTraversal\Ex3_DFS_Traverse_Folders\obj\Debug\netcoreapp3.1\Ex3_DFS_Traverse_Folders.genruntimeconfig.cache

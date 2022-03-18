@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WsZLN2TB6krBPZFNP4Pb+0VA5qo55HMwJQvtu3P7fYPf7b14hnSsVZrk7nkid4uibSwYYzAmJUZQ2DfkBcmIrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\TreesRepresentationAndTraversal\\Ex2_BFS_TraverseFolders\\Ex2_BFS_TraverseFolders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
