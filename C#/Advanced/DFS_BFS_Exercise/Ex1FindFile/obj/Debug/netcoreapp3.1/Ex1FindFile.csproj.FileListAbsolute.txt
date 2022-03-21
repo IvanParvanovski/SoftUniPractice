@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\bin\Debug\netcoreapp3.1\Ex1FindFile.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\bin\Debug\netcoreapp3.1\Ex1FindFile.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\bin\Debug\netcoreapp3.1\Ex1FindFile.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\bin\Debug\netcoreapp3.1\Ex1FindFile.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\bin\Debug\netcoreapp3.1\Ex1FindFile.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\bin\Debug\netcoreapp3.1\Ex1FindFile.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Ex1FindFile\obj\Debug\netcoreapp3.1\Ex1FindFile.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\DFS_BFS_Exercise\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

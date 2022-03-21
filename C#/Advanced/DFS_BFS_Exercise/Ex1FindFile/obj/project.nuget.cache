@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQ6zlOadfaasT2LiC4dGd3DqzWreD9kutzvNHr3SrMY5rRBxWiC86l+cnEhENrFDVfJRSN1WdSs//5+IDSgvsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\DFS_BFS_Exercise\\Ex1FindFile\\Ex1FindFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

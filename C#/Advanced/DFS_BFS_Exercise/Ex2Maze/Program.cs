@@ -41,7 +41,7 @@ namespace Ex2Maze
             {
                 string currentRow = Console.ReadLine()!;
                 for (int col = 0; col < width; col++)
-                {//mn qk method
+                {
                     labyrinth[row, col] = currentRow[col];
 
                     if (currentRow[col] == 's')

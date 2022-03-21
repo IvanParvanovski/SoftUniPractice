@@ -24,7 +24,5 @@ namespace Ex3_DFS_Traverse_Folders
                 DirectoryTraverserDFS(child, spaces + " ");
             }
         }
-        
-        
     }
 }
