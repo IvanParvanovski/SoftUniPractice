@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\bin\Debug\GraphSkeleton.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\bin\Debug\GraphSkeleton.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\bin\Debug\GraphSkeleton.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\bin\Debug\GraphSkeleton.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphSkeleton\GraphSkeleton\obj\Debug\GraphSkeleton.pdb
