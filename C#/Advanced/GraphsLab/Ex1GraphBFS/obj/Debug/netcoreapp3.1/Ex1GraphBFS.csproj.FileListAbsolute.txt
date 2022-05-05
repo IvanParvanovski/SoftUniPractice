@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\bin\Debug\netcoreapp3.1\Ex1GraphBFS.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\bin\Debug\netcoreapp3.1\Ex1GraphBFS.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\bin\Debug\netcoreapp3.1\Ex1GraphBFS.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\bin\Debug\netcoreapp3.1\Ex1GraphBFS.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\bin\Debug\netcoreapp3.1\Ex1GraphBFS.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\bin\Debug\netcoreapp3.1\Ex1GraphBFS.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\Ex1GraphBFS\obj\Debug\netcoreapp3.1\Ex1GraphBFS.genruntimeconfig.cache

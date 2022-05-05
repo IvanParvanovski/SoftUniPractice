@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\bin\Debug\netcoreapp3.1\GraphsLab.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\bin\Debug\netcoreapp3.1\GraphsLab.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\bin\Debug\netcoreapp3.1\GraphsLab.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\bin\Debug\netcoreapp3.1\GraphsLab.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\bin\Debug\netcoreapp3.1\GraphsLab.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\bin\Debug\netcoreapp3.1\GraphsLab.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\GraphsLab\GraphsLab\obj\Debug\netcoreapp3.1\GraphsLab.genruntimeconfig.cache
