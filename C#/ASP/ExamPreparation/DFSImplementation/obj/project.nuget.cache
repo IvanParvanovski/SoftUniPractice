@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngKnSIv56BY6BKkiZx3gRAhoeC5O6n2hatDAy1EQXzI2GFPgiph+L/FLoRkGk5xsiOeFqbH6nZ1i+s+rVPFOCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\ExamPreparation\\DFSImplementation\\DFSImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

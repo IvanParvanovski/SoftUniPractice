@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.genruntimeconfig.cache

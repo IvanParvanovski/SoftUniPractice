@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZJthmkmD8uxkMRP2ambs9q0+WQwj4oXUD34Azgs3TOcu6ZoNV8cT7Z70977ggTz8/XkB4bavwYFyTPcOU4oBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\ExamPreparation\\FindPathBFS\\FindPathBFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

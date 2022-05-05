@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkItVcbarmtpsi4SMnjx5x/JtdwLYV8eikmGtmT2iEVPwiKQGkdEIgPgEbMzuFqn+w3txfDy8wxev7eoSdwk7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SortingAlgorithms\\QuickSort\\QuickSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

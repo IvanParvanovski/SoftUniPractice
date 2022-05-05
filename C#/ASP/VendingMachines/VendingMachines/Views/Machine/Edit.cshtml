@@ -1,0 +1,48 @@
+@model VendingMachines.Models.Machine
+       
+@{
+   ViewData["Title"] = "Edit";
+   Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit Machine</h1>
+
+<hr />
+<div class="row">
+   <div class="col-md-4">
+       <form asp-action="Edit">
+           <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           <input type="hidden" asp-for="Id" />
+           <div class="form-group">
+               <label asp-for="Lat" class="control-label"></label>
+               <input asp-for="Lat" class="form-control" />
+               <span asp-validation-for="Lat" class="text-danger"></span>
+           </div>
+           <div class="form-group">
+               <label asp-for="Lon" class="control-label"></label>
+               <input asp-for="Lon" class="form-control" />
+               <span asp-validation-for="Lon" class="text-danger"></span>
+           </div>
+           <div class="form-group">
+               <label asp-for="PlacedAt" class="control-label"></label>
+               <input asp-for="PlacedAt" class="form-control" />
+               <span asp-validation-for="PlacedAt" class="text-danger"></span>
+           </div>
+            <div class="form-group">
+              <label asp-for="Type" class="control-label"></label>
+              <input asp-for="Type" class="form-control" />
+              <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+           <br>
+           
+           <div class="form-group">
+               <input type="submit" value="Edit" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-action="MachineIndex">Back to List</a>
+           </div>
+       </form>
+   </div>
+</div>
+
+@section Scripts {
+   @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

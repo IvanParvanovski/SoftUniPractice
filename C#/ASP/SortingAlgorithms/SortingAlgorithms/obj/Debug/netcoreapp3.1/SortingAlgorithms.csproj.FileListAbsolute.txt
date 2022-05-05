@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.genruntimeconfig.cache

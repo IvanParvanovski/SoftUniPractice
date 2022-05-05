@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\bin\Debug\netcoreapp3.1\DFSImplementation.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\bin\Debug\netcoreapp3.1\DFSImplementation.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\bin\Debug\netcoreapp3.1\DFSImplementation.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\bin\Debug\netcoreapp3.1\DFSImplementation.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\bin\Debug\netcoreapp3.1\DFSImplementation.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\bin\Debug\netcoreapp3.1\DFSImplementation.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\DFSImplementation\obj\Debug\netcoreapp3.1\DFSImplementation.genruntimeconfig.cache

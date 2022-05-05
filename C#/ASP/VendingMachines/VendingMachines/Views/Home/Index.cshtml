@@ -1,0 +1,43 @@
+﻿@model IEnumerable<VendingMachines.Models.Machine>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Map</p>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+      integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+      crossorigin=""/>
+
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+crossorigin=""></script>
+
+
+<style>
+    #map { height: 500px; }
+</style>
+
+<div id="map"></div>
+
+<script>
+    var map = L.map('map').setView([42.698334, 23.319941], 13)
+        
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright%22%3EOpenStreetMap"</a> contributors'
+    }).addTo(map);
+</script>
+
+@foreach (var machine in Model)
+{
+    <script>
+        var marker = L.marker(
+            [@double.Parse(machine.Lat), @double.Parse(machine.Lon)], 
+        ).addTo(map);
+        marker.bindPopup("<b>M: @machine.Type.ToUpper()</b><br>@machine.PlacedAt").openPopup();
+    </script>
+}

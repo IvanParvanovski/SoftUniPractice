@@ -1,8 +1,30 @@
-@model TModel
-
 @{
-    ViewBag.Title = "title";
+    ViewBag.Title = "Library";
     Layout = "_Layout";
 }
 
-<h2>title</h2>
+<h1>@ViewBag.Title</h1>
+<a asp-controller="Books" asp-action="Create">Create New</a>
+
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Author</th>
+        <th></th>
+    </tr>
+    @foreach (var book in ViewBag.BookList)
+    {
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.Description</td>
+            <td>@book.Author</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@book.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@book.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@book.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    
+</table>

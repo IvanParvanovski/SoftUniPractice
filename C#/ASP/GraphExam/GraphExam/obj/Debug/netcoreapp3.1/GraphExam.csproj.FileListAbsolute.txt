@@ -1,0 +1,16 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\GraphExam.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\GraphExam.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\GraphExam.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\GraphExam.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\GraphExam.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\GraphExam.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.genruntimeconfig.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\GraphExam\GraphExam\obj\Debug\netcoreapp3.1\GraphExam.csproj.CopyComplete

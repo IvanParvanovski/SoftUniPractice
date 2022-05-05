@@ -1,0 +1,40 @@
+@{
+    ViewBag.Title = "Machines";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<br>
+<a class="btn btn-success" asp-controller="Machine" asp-action="Create">Create New</a>
+<br>
+<br>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Lat</th>
+            <th scope="col">Lon</th>
+            <th scope="col">PlacedAt</th>
+            <th scope="col">Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var machine in ViewBag.MachinesList)
+        {
+            <tr>
+                <th scope="row">@machine.Id</th>
+                <td>@machine.Lat</td>
+                <td>@machine.Lon</td>
+                <td>@machine.PlacedAt</td>
+                <td>@machine.Type</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@machine.Id">Edit</a>
+                    <a class="btn btn-info" asp-action="Details" asp-route-id="@machine.Id">Details</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@machine.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

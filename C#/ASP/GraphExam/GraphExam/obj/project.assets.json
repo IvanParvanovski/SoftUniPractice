@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SoftUni.Wintellect.PowerCollections/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Wintellect.PowerCollections.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Wintellect.PowerCollections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUni.Wintellect.PowerCollections/2.0.0": {
+      "sha512": "jmx9igyEyHA+/0uVYrq6iT6rqgw7CbbLKDd9PD5MuTabBGmpdo+PLqw9LORWSfkEF+C3O4viB2GJxYyd3YYGEA==",
+      "type": "package",
+      "path": "softuni.wintellect.powercollections/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "SoftUni.Wintellect.PowerCollections-logo.png",
+        "lib/net20/Wintellect.PowerCollections.dll",
+        "lib/netstandard2.0/Wintellect.PowerCollections.dll",
+        "softuni.wintellect.powercollections.2.0.0.nupkg.sha512",
+        "softuni.wintellect.powercollections.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SoftUni.Wintellect.PowerCollections >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\iparv\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\GraphExam\\GraphExam\\GraphExam.csproj",
+      "projectName": "GraphExam",
+      "projectPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\GraphExam\\GraphExam\\GraphExam.csproj",
+      "packagesPath": "C:\\Users\\iparv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\GraphExam\\GraphExam\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\iparv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "SoftUni.Wintellect.PowerCollections": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.21, 3.1.21]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

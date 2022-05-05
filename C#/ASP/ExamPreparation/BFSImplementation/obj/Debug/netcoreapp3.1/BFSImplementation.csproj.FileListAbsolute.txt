@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\bin\Debug\netcoreapp3.1\BFSImplementation.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\bin\Debug\netcoreapp3.1\BFSImplementation.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\bin\Debug\netcoreapp3.1\BFSImplementation.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\bin\Debug\netcoreapp3.1\BFSImplementation.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\bin\Debug\netcoreapp3.1\BFSImplementation.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\bin\Debug\netcoreapp3.1\BFSImplementation.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\BFSImplementation\obj\Debug\netcoreapp3.1\BFSImplementation.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2uwDshRw9lRE9BH2PtW1Dj6RN/acggc0ORQMfkvjOTAEdmUWUoA0X6feEkvxb0FJDrgpht/3ECj/jLIPSNDvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SortingAlgorithms\\InversionCount\\InversionCount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

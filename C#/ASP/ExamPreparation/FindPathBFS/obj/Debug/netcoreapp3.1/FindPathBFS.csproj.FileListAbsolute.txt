@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\bin\Debug\netcoreapp3.1\FindPathBFS.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\bin\Debug\netcoreapp3.1\FindPathBFS.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\bin\Debug\netcoreapp3.1\FindPathBFS.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\bin\Debug\netcoreapp3.1\FindPathBFS.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\bin\Debug\netcoreapp3.1\FindPathBFS.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\bin\Debug\netcoreapp3.1\FindPathBFS.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\FindPathBFS\obj\Debug\netcoreapp3.1\FindPathBFS.genruntimeconfig.cache

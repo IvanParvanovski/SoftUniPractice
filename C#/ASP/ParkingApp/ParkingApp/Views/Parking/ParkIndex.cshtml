@@ -1,0 +1,62 @@
+@{
+    ViewBag.Title = "Cars";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<br>
+<a class="btn btn-success" asp-controller="Parking" asp-action="Create">Create New</a>
+<br>
+<br>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">PlateNumber</th>
+            <th scope="col">ArrivedAt</th>
+            <th scope="col">PayedUntil</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in ViewBag.CarList)
+        {
+            @if (car.PayedUntil - DateTime.Now < new TimeSpan(0, 5, 0))
+            {
+                <tr>
+                    <th class="text-danger" scope="row">@car.Id</th>
+                    <td class="text-danger">@car.PlateNumber</td>
+                    <td class="text-danger">@car.ArrivedAt</td>
+                    <td class="text-danger">@car.PayedUntil</td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@car.Id">Edit</a> 
+                        <a class="btn btn-info" asp-action="Details" asp-route-id="@car.Id">Details</a> 
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@car.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <th scope="row">@car.Id</th>
+                    <td>@car.PlateNumber</td>
+                    <td>@car.ArrivedAt</td>
+                    <td>@car.PayedUntil</td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@car.Id">Edit</a> 
+                        <a class="btn btn-info" asp-action="Details" asp-route-id="@car.Id">Details</a> 
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@car.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+
+@* <a asp-action="Edit" asp-route-id="@ViewBag.CarList">Edit</a> | *@
+@* <a asp-action="Details" asp-route-id="@book.Id">Details</a> | *@
+@* <a asp-action="Delete" asp-route-id="@book.Id">Delete</a> *@
+

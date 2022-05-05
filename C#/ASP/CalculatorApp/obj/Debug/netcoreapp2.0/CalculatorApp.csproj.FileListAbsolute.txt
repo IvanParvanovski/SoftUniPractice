@@ -1,0 +1,16 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Student>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+  <h1 class="display-4">Welcome</h1>
+</div>
+
+<script>
+  const data = {
+      labels: @Html.Raw(Json.Serialize(Model.OrderBy(x => x.Id).Select(x => x.FirstName  + " " + x.LastName).ToArray())),
+      datasets: [{
+        label: "Student's progress",
+        backgroundColor: 'rgb(45,108,243)',
+        borderColor: 'rgb(45,108,243)',
+        data: @Html.Raw(Json.Serialize(Model.OrderBy((Student x) => x.Id).Select(x => x.Grades.Average(y => y.Grade1)))),
+      }]
+    };
+  
+  const config = {
+      type: 'bar',
+      data: data,
+      options: {
+           scales: {
+               y: {
+                   beginAtZero: true
+               }
+           }
+       }
+    };
+</script>
+
+<div>
+    <canvas id="myChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+@* <script> *@
+@*   const labels = [ *@
+@*     'January', *@
+@*     'February', *@
+@*     'March', *@
+@*     'April', *@
+@*     'May', *@
+@*     'June', *@
+@*   ]; *@
+@* *@
+@*   const data = { *@
+@*     labels: labels, *@
+@*     datasets: [{ *@
+@*       label: 'My First dataset', *@
+@*       backgroundColor: 'rgb(255, 99, 132)', *@
+@*       borderColor: 'rgb(255, 99, 132)', *@
+@*       data: [0, 10, 5, 2, 20, 30, 45], *@
+@*     }] *@
+@*   }; *@
+@* *@
+@*   const config = { *@
+@*     type: 'line', *@
+@*     data: data, *@
+@*     options: {} *@
+@*   }; *@
+@* </script> *@
+
+
+<script>
+  const myChart = new Chart(
+    document.getElementById('myChart'),
+    config
+  );
+</script>

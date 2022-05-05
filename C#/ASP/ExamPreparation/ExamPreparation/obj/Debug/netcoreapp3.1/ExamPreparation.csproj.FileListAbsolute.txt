@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.genruntimeconfig.cache
