@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/qnxOP9RuoivcOhEcn6JeIOhUu7BMkQwlGr8wabpgPNSAAdgRZWRbq6cOrul32GRbZ7vAu4tsPQeQLj6ZwoZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\Graphs_Exercise\\Ex3\\Ex3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
