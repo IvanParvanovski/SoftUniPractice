@@ -1,8 +1,16 @@
-@model TModel
-
 @{
-    ViewBag.Title = "title";
+    ViewBag.Title = "hello world!" + ViewBag.Count;
     Layout = "_Layout";
 }
 
-<h2>title</h2>
+<body>
+    <h2>@ViewBag.Title</h2>
+<h3>Ivan P</h3>
+
+<ul>
+    @for (int i = 1; i <= ViewBag.Count; i++)
+    {
+        <li>@i</li>
+    }
+</ul>
+</body>    
