@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.genruntimeconfig.cache

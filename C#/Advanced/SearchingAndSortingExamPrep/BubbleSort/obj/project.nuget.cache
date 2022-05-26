@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JpUGVArgTF6AD81Uh340qresX6ovwmssNXWuT7v+YOgRqBVOzzIdaiqD3yZ3WOILWKE7bZMyXaNZEN2JPqS7Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\SearchingAndSortingExamPrep\\BubbleSort\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

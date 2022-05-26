@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\bin\Debug\netcoreapp3.1\Ex4ShuffleWords.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\bin\Debug\netcoreapp3.1\Ex4ShuffleWords.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\bin\Debug\netcoreapp3.1\Ex4ShuffleWords.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\bin\Debug\netcoreapp3.1\Ex4ShuffleWords.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\bin\Debug\netcoreapp3.1\Ex4ShuffleWords.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\bin\Debug\netcoreapp3.1\Ex4ShuffleWords.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex4ShuffleWords\obj\Debug\netcoreapp3.1\Ex4ShuffleWords.genruntimeconfig.cache

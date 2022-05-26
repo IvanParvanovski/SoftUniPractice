@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aw2cEyIqXgXtvG6+0BEju+N/SBxVh1rLf2/lazS81ACZEgGePzkOSCINMlJWd+dVWpWvLzRHTU+n67kPdalnyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SearchingAlgorithmsAndShuffling\\Ex4ShuffleWords\\Ex4ShuffleWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

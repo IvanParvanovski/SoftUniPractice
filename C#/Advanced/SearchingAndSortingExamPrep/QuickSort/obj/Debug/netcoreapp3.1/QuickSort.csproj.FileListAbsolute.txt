@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache

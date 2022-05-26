@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\bin\Debug\netcoreapp3.1\Ex2WordGenerator.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\bin\Debug\netcoreapp3.1\Ex2WordGenerator.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\bin\Debug\netcoreapp3.1\Ex2WordGenerator.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\bin\Debug\netcoreapp3.1\Ex2WordGenerator.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\bin\Debug\netcoreapp3.1\Ex2WordGenerator.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\bin\Debug\netcoreapp3.1\Ex2WordGenerator.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex2WordGenerator\obj\Debug\netcoreapp3.1\Ex2WordGenerator.genruntimeconfig.cache

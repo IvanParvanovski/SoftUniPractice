@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

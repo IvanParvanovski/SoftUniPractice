@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.genruntimeconfig.cache

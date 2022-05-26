@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\bin\Debug\netcoreapp3.1\Ex1NumbersSorter.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\bin\Debug\netcoreapp3.1\Ex1NumbersSorter.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\bin\Debug\netcoreapp3.1\Ex1NumbersSorter.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\bin\Debug\netcoreapp3.1\Ex1NumbersSorter.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\bin\Debug\netcoreapp3.1\Ex1NumbersSorter.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\bin\Debug\netcoreapp3.1\Ex1NumbersSorter.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\FinalExamPreparation\Ex1NumbersSorter\obj\Debug\netcoreapp3.1\Ex1NumbersSorter.genruntimeconfig.cache

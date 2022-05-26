@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jk9nNUJfzPO/q6vxaDzd9JPsXLRykSH/1wJ2vcMCdk/8fCM8CuxfM33ULfI4eGomKBlBoqGpUwM5qHDsf20Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SearchingAlgorithmsAndShuffling\\Ex3MatrixPath\\Ex3MatrixPath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

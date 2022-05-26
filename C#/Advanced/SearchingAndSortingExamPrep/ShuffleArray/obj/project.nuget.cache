@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WRwPVCJ7pyoFX3RUE+2Rt8BI0Tv12bY0OGjcrlNUlhESplQc+w1EwM1dhHLVm/9vnur2qI713jIPAaKBXgsBPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\SearchingAndSortingExamPrep\\ShuffleArray\\ShuffleArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

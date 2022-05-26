@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdTFwq0N3gurR/6qOPEetIfPJhunbHtFd4Ov+nVFO4cPY6946whFAmlvLXFLLEBil/CLayvQAP5x4uCpVKcMOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\FinalExamPreparation\\Ex1NumbersSorter\\Ex1NumbersSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

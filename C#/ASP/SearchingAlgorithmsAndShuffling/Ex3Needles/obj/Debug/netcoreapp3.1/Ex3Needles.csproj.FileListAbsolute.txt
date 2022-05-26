@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\bin\Debug\netcoreapp3.1\Ex3Needles.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\bin\Debug\netcoreapp3.1\Ex3Needles.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\bin\Debug\netcoreapp3.1\Ex3Needles.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\bin\Debug\netcoreapp3.1\Ex3Needles.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\bin\Debug\netcoreapp3.1\Ex3Needles.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\bin\Debug\netcoreapp3.1\Ex3Needles.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex3Needles\obj\Debug\netcoreapp3.1\Ex3Needles.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\bin\Debug\netcoreapp3.1\Ex1BinarySearch.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\bin\Debug\netcoreapp3.1\Ex1BinarySearch.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\bin\Debug\netcoreapp3.1\Ex1BinarySearch.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\bin\Debug\netcoreapp3.1\Ex1BinarySearch.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\bin\Debug\netcoreapp3.1\Ex1BinarySearch.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\bin\Debug\netcoreapp3.1\Ex1BinarySearch.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex1BinarySearch\obj\Debug\netcoreapp3.1\Ex1BinarySearch.genruntimeconfig.cache

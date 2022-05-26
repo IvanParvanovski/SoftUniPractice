@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex1NumbersSorter/1.0.0": {
+        "runtime": {
+          "Ex1NumbersSorter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex1NumbersSorter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

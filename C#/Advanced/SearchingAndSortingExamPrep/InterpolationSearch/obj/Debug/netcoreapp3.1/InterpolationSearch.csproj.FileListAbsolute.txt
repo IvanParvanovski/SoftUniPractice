@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAndSortingExamPrep\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\bin\Debug\netcoreapp3.1\Ex2Searching.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\bin\Debug\netcoreapp3.1\Ex2Searching.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\bin\Debug\netcoreapp3.1\Ex2Searching.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\bin\Debug\netcoreapp3.1\Ex2Searching.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\bin\Debug\netcoreapp3.1\Ex2Searching.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\bin\Debug\netcoreapp3.1\Ex2Searching.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\ASP\SearchingAlgorithmsAndShuffling\Ex2Searching\obj\Debug\netcoreapp3.1\Ex2Searching.genruntimeconfig.cache

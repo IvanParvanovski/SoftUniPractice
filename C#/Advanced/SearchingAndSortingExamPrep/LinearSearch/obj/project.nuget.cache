@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9WD4J+Nji+FK8PX6K61on+MHJ/qKCymktJwRDGSCafEm0xDUyjyPo4CgIHdV6T0Aa0I0Fk1G1d/snB7LOGRYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\SearchingAndSortingExamPrep\\LinearSearch\\LinearSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IayJyRzoUMcsX/k6vYAtZuSv8ZnL2VlmPtj3mp4tY4cJA8Ypnc5bwr+dHd6DwGhpwWD25Vi30/LsYW9zZOqYXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SearchingAlgorithmsAndShuffling\\SearchingAlgorithmsAndShuffling\\SearchingAlgorithmsAndShuffling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

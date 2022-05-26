@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgXtzl96qPU8sOYw0u/c6RgHkmt21J6KfNq3JlymiVxHez3dwNlFl19JUiPjg7yRNR2+skwfNafiPOGrBZemCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SearchingAlgorithmsAndShuffling\\Ex3Needles\\Ex3Needles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

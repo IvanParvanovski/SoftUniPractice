@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeTHDdi7CMPCem0ZpvRDHXXS0qS3eaIrTV28SNB5rWaXZZCdYNkBEe5ADUdAnMnFtomTyHlsrsz0gcq/Qnfejg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\ASP\\SearchingAlgorithmsAndShuffling\\Ex2Searching\\Ex2Searching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
