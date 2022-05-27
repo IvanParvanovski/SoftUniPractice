@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ASvQ6r9ZhhN9SEMs2GcA7mc2Y5lacpvuTeK1RTlqTyWAi8vQ4dy55ySTxu2VV5A76gZxl1XuHyfK68YZy3wLmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\SearchingAndSortExam\\Ex2SpecialVariations\\Ex2SpecialVariations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

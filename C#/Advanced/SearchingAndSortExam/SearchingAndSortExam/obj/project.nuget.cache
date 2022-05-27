@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+G9j0HXUdaEp+Fu5nIsZK45rHqGz5VJgXSdIXXD9/RzHnJbRmviUdl2bxr6Dh6jgUZ08mGMe6s0K2iqlVKcxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\SearchingAndSortExam\\SearchingAndSortExam\\SearchingAndSortExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

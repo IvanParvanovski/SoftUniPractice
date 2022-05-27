@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\bin\Debug\netcoreapp3.1\Ex1FindIndex.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\bin\Debug\netcoreapp3.1\Ex1FindIndex.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\bin\Debug\netcoreapp3.1\Ex1FindIndex.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\bin\Debug\netcoreapp3.1\Ex1FindIndex.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\bin\Debug\netcoreapp3.1\Ex1FindIndex.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\bin\Debug\netcoreapp3.1\Ex1FindIndex.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex1FindIndex\obj\Debug\netcoreapp3.1\Ex1FindIndex.genruntimeconfig.cache

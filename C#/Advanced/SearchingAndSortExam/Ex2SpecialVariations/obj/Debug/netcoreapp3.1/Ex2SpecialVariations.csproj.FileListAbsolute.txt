@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\bin\Debug\netcoreapp3.1\Ex2SpecialVariations.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\bin\Debug\netcoreapp3.1\Ex2SpecialVariations.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\bin\Debug\netcoreapp3.1\Ex2SpecialVariations.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\bin\Debug\netcoreapp3.1\Ex2SpecialVariations.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\bin\Debug\netcoreapp3.1\Ex2SpecialVariations.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\bin\Debug\netcoreapp3.1\Ex2SpecialVariations.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex2SpecialVariations\obj\Debug\netcoreapp3.1\Ex2SpecialVariations.genruntimeconfig.cache

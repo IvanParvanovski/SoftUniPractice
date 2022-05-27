@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\bin\Debug\netcoreapp3.1\Ex3MatrixPath.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\bin\Debug\netcoreapp3.1\Ex3MatrixPath.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\bin\Debug\netcoreapp3.1\Ex3MatrixPath.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\bin\Debug\netcoreapp3.1\Ex3MatrixPath.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\bin\Debug\netcoreapp3.1\Ex3MatrixPath.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\bin\Debug\netcoreapp3.1\Ex3MatrixPath.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\SearchingAndSortExam\Ex3MatrixPath\obj\Debug\netcoreapp3.1\Ex3MatrixPath.genruntimeconfig.cache

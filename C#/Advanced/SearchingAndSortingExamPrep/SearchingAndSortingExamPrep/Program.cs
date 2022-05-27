@@ -2,3 +2,13 @@
 
 using System;
 
+namespace Examination
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            
+        }
+    }
+}

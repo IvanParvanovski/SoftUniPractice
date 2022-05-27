@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamSortingAndSearching", "ExamSortingAndSearching\ExamSortingAndSearching.csproj", "{64D02F9C-69C9-4BFE-9CCF-95D35FE8BEA7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ex1FindIndex", "Ex1FindIndex\Ex1FindIndex.fsproj", "{B80F4A5B-956A-42CF-8268-2E0969628B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D02F9C-69C9-4BFE-9CCF-95D35FE8BEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D02F9C-69C9-4BFE-9CCF-95D35FE8BEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D02F9C-69C9-4BFE-9CCF-95D35FE8BEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D02F9C-69C9-4BFE-9CCF-95D35FE8BEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80F4A5B-956A-42CF-8268-2E0969628B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80F4A5B-956A-42CF-8268-2E0969628B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80F4A5B-956A-42CF-8268-2E0969628B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80F4A5B-956A-42CF-8268-2E0969628B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

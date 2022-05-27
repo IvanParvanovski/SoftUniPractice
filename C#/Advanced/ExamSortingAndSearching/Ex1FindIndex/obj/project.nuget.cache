@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZWCuRvkfBZ/w8Hf2yQS4vi28Nv42CnEjohiaNlH7dqUc9bp2rxeaQ5ywjs7Sik6hedflYyDKoErJ8pET5rK8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\ExamSortingAndSearching\\Ex1FindIndex\\Ex1FindIndex.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
