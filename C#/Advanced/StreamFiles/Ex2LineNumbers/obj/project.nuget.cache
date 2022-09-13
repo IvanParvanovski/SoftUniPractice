@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6lLKH49VXZsHOBTr9SsY0Rr6arzvf85bDL1exeekWKcAUlhc5OzytNNaqFNLvZknU1WG8o6u4ksquiefRcj+gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\StreamFiles\\Ex2LineNumbers\\Ex2LineNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

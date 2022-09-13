@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\bin\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\bin\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\bin\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\bin\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\bin\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\bin\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5ExtractSpecialBytes\obj\Debug\netcoreapp3.1\Ex5ExtractSpecialBytes.genruntimeconfig.cache

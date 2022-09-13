@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\bin\Debug\netcoreapp3.1\Ex1OddLines.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\bin\Debug\netcoreapp3.1\Ex1OddLines.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\bin\Debug\netcoreapp3.1\Ex1OddLines.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\bin\Debug\netcoreapp3.1\Ex1OddLines.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\bin\Debug\netcoreapp3.1\Ex1OddLines.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\bin\Debug\netcoreapp3.1\Ex1OddLines.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1OddLines\obj\Debug\netcoreapp3.1\Ex1OddLines.genruntimeconfig.cache

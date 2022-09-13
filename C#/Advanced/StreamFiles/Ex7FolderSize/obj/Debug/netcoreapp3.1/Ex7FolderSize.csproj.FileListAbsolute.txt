@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\bin\Debug\netcoreapp3.1\Ex7FolderSize.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\bin\Debug\netcoreapp3.1\Ex7FolderSize.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\bin\Debug\netcoreapp3.1\Ex7FolderSize.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\bin\Debug\netcoreapp3.1\Ex7FolderSize.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\bin\Debug\netcoreapp3.1\Ex7FolderSize.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\bin\Debug\netcoreapp3.1\Ex7FolderSize.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex7FolderSize\obj\Debug\netcoreapp3.1\Ex7FolderSize.genruntimeconfig.cache

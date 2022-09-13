@@ -10,6 +10,7 @@ namespace MergeSort
         {
             int[] numbers = {2, 8, 9, 7, 3, 12, 45};
             SortArray(numbers, 0, numbers.Length - 1);
+            
             Console.WriteLine(string.Join(" ", numbers));
         }
 
@@ -66,6 +67,7 @@ namespace MergeSort
                 int middle = left + (right - left) / 2;
                 SortArray(array, left, middle);
                 SortArray(array, middle + 1, right);
+                
                 MergeArray(array, left, middle, right);
             }
         }

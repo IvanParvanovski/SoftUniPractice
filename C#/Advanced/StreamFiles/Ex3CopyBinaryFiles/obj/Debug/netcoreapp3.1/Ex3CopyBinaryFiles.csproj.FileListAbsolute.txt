@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\bin\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\bin\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\bin\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\bin\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\bin\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\bin\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3CopyBinaryFiles\obj\Debug\netcoreapp3.1\Ex3CopyBinaryFiles.genruntimeconfig.cache

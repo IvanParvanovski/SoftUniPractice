@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JyDu4Hquzj92paF7JlBNZFmRPwjRU14pV4/541HdEAYjb/RMpP0KIN+5aojfDf96TiqzQYCllDxXWYwJ2WPx9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\StreamFiles\\Ex3CopyBinaryFiles\\Ex3CopyBinaryFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

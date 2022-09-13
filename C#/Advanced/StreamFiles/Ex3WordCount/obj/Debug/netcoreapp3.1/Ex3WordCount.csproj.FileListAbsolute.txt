@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\bin\Debug\netcoreapp3.1\Ex3WordCount.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\bin\Debug\netcoreapp3.1\Ex3WordCount.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\bin\Debug\netcoreapp3.1\Ex3WordCount.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\bin\Debug\netcoreapp3.1\Ex3WordCount.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\bin\Debug\netcoreapp3.1\Ex3WordCount.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\bin\Debug\netcoreapp3.1\Ex3WordCount.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex3WordCount\obj\Debug\netcoreapp3.1\Ex3WordCount.genruntimeconfig.cache

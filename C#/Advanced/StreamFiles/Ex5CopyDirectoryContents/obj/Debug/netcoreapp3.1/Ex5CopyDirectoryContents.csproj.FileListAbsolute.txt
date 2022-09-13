@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\bin\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\bin\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\bin\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\bin\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\bin\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\bin\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex5CopyDirectoryContents\obj\Debug\netcoreapp3.1\Ex5CopyDirectoryContents.genruntimeconfig.cache

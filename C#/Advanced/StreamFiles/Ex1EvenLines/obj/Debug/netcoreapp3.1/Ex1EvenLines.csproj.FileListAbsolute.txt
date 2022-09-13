@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\bin\Debug\netcoreapp3.1\Ex1EvenLines.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\bin\Debug\netcoreapp3.1\Ex1EvenLines.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\bin\Debug\netcoreapp3.1\Ex1EvenLines.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\bin\Debug\netcoreapp3.1\Ex1EvenLines.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\bin\Debug\netcoreapp3.1\Ex1EvenLines.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\bin\Debug\netcoreapp3.1\Ex1EvenLines.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex1EvenLines\obj\Debug\netcoreapp3.1\Ex1EvenLines.genruntimeconfig.cache

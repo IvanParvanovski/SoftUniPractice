@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCPW5nLGwlciYM7m0rKUK6BfZpykt5Swjp2R2GK2bYCd/NppYffjA3aa2Ik3eFN1dgO6OJX6tV5pj5n0PTrJFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\StreamFiles\\Ex5ExtractSpecialBytes\\Ex5ExtractSpecialBytes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

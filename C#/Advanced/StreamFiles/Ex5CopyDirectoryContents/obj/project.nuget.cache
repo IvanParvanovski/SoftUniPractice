@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqMaWs8+LSURY7uBrtCo3mm1KXzzk22D6UlYnRLxQwwWSqjLPjiqr3DdvhdsVwRY5x/59AgAPPmheO+moWcBkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Advanced\\StreamFiles\\Ex5CopyDirectoryContents\\Ex5CopyDirectoryContents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

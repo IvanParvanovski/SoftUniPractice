@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\bin\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\bin\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\bin\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\bin\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\bin\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\bin\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex6SplitMergeBinaryFiles\obj\Debug\netcoreapp3.1\Ex6SplitMergeBinaryFiles.genruntimeconfig.cache

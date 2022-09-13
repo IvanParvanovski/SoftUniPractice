@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\bin\Debug\netcoreapp3.1\Ex4DirectoryTraversal.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\bin\Debug\netcoreapp3.1\Ex4DirectoryTraversal.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\bin\Debug\netcoreapp3.1\Ex4DirectoryTraversal.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\bin\Debug\netcoreapp3.1\Ex4DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\bin\Debug\netcoreapp3.1\Ex4DirectoryTraversal.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\bin\Debug\netcoreapp3.1\Ex4DirectoryTraversal.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex4DirectoryTraversal\obj\Debug\netcoreapp3.1\Ex4DirectoryTraversal.genruntimeconfig.cache

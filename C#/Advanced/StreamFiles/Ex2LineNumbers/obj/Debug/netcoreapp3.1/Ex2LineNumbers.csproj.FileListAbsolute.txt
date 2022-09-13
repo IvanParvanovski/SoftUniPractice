@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\bin\Debug\netcoreapp3.1\Ex2LineNumbers.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\bin\Debug\netcoreapp3.1\Ex2LineNumbers.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\bin\Debug\netcoreapp3.1\Ex2LineNumbers.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\bin\Debug\netcoreapp3.1\Ex2LineNumbers.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\bin\Debug\netcoreapp3.1\Ex2LineNumbers.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\bin\Debug\netcoreapp3.1\Ex2LineNumbers.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Advanced\StreamFiles\Ex2LineNumbers\obj\Debug\netcoreapp3.1\Ex2LineNumbers.genruntimeconfig.cache
