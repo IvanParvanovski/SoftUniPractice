@@ -1,0 +1,49 @@
+ul#nav-list {
+    background-color: #444;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+ul#nav-list > li.nav-item {
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    display: inline-block;
+}
+
+li.nav-item > a.nav-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+}
+
+section {
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+header>p {
+    font-style: italic;
+}
+
+article>p {
+    font-size: 24px;
+}
+
+footer {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
