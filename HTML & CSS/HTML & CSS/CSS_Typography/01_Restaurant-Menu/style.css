@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@600&display=swap');
+
+body {
+    text-align: center;
+}
+
+#article-title {
+    font-family: 
+        'Times New Roman', 
+        Times, 
+        serif;
+
+    line-height: 1.15;
+    color: #747474;
+}
+
+#article-subtitle {
+    font-family: 
+        'Graphik Semibold Web', 
+        'Red Hat Display',
+        'Helvetica Neue', 
+        Helvetica, 
+        Arial,
+        sans-serif;
+
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+}
+
+#article-content {
+    font-family: 
+        'Graphik Regular Web',
+        'Helvetica Neue', 
+        Helvetica, 
+        Arial,
+        sans-serif;
+        
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+}
