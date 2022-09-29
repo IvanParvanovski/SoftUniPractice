@@ -1,0 +1,30 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+main {
+    border-top: solid 3px black;
+    margin-top: 55px;
+    padding-top: 1rem;
+}
+
+nav {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+}
+
+h1 {
+    float: left;
+}
+ 
+a { 
+    text-decoration: none;
+    color: rgb(56, 206, 22);
+}
+
+ul {
+    list-style: none;
+}
