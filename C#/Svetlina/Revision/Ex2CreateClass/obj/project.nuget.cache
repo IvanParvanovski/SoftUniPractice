@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rdl+ST5HgFHPqpIdUXJ+16pst67T7Hq3Mbfd/8L/MoI/XEhHZHyOMQY6p2Te95eptyNfg0sOVZeGTcQSiklxKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\Revision\\Ex2CreateClass\\Ex2CreateClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

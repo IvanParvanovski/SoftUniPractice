@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubQ/tXYf5e3M3jxYEYF58qfM7n2kmazltyhTYkIGiYdIdN0CKEZ2qr+Xyjt0Q7gDT+aiGOWvwGsdBZNuh7gyjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\Revision\\Revision\\Revision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

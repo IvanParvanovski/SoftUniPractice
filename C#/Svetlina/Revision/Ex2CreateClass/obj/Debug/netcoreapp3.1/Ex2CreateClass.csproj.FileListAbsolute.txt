@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\bin\Debug\netcoreapp3.1\Ex2CreateClass.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\bin\Debug\netcoreapp3.1\Ex2CreateClass.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\bin\Debug\netcoreapp3.1\Ex2CreateClass.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\bin\Debug\netcoreapp3.1\Ex2CreateClass.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\bin\Debug\netcoreapp3.1\Ex2CreateClass.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\bin\Debug\netcoreapp3.1\Ex2CreateClass.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex2CreateClass\obj\Debug\netcoreapp3.1\Ex2CreateClass.genruntimeconfig.cache

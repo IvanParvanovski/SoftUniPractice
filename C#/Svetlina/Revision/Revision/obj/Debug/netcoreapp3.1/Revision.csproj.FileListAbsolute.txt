@@ -1,0 +1,5 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.csproj.CoreCompileInputs.cache

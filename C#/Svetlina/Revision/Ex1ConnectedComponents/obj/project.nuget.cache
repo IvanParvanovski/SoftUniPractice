@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMTbPIiBiOc7tFEosxB1+74FXbuqjl3wG7dyEhqtZq0fdpKV36KfOG1fkMPOOPA4pVsVVfzLpK1mw0sajrn2DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\Revision\\Ex1ConnectedComponents\\Ex1ConnectedComponents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
