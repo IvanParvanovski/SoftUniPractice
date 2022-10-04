@@ -1,0 +1,49 @@
+html {
+    box-sizing: border-box;
+}
+
+:root {
+    --clr-primary: rgb(233, 95, 35);
+    --clr-primary-light: rgba(251, 249, 249, 0.632);
+}
+
+body {
+    background-color: #dadbdf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.group {
+    width: 400px;
+    margin: 50px auto;
+    display: block;
+
+    font-size: 0px;
+}
+
+.group .group__btn {
+    font-size: 12px;
+    padding: 8px 12px;
+    width: 33.33%;
+    border-radius: 0px;
+    border: 1px solid rgb(25, 109, 227);
+    
+    cursor: pointer;
+    background-color: var(--clr-primary-light);
+    color: var(--clr-primary);
+    font-weight: bold;
+}
+
+.group .group__btn:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.group .group__btn:nth-child(1) {
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.group .group__btn:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}

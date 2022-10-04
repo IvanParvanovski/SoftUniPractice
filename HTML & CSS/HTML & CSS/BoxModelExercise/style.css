@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(223, 217, 217, 0.524);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    background-color: lightblue;
+    padding: 14px;
+}
+
+div {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+p:nth-child(3n),
+div:nth-child(3n) {
+    background-color: lightsalmon;
+}
+
+p:nth-child(7) {
+    background-color: lightpink;
+}
+
+p:nth-of-type(7) {
+    background-color: lightgoldenrodyellow;
+}
