@@ -1,0 +1,19 @@
+{
+    "employees": {
+        "0": {
+            "id": "10",
+            "fullName": "Mary Smith",
+            "department": "Marketing"
+        },
+        "1": {
+            "id": "22",
+            "fullName": "Jim Brown",
+            "department": "Accounting"
+        },
+        "2": {
+            "id": "31",
+            "fullName": "Edgar Hoover",
+            "department": "Sales"
+        }
+    }
+}

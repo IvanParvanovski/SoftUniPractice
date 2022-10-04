@@ -8,6 +8,3 @@ namespace Revision
         }
     }
 }
-
-
-var author = context.Books.Include(book => book.author).Select().Where().OrderBy().ToList();

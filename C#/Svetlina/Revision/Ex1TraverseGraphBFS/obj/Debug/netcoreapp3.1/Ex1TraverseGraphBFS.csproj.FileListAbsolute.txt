@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\bin\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\bin\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\bin\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\bin\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\bin\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\bin\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Revision\Ex1TraverseGraphBFS\obj\Debug\netcoreapp3.1\Ex1TraverseGraphBFS.genruntimeconfig.cache

@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2CreateClass", "Ex2Create
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApplication", "SimpleApplication\SimpleApplication.csproj", "{95D950CC-BAF5-4C9E-AA70-066815510944}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1TraverseGraphBFS", "Ex1TraverseGraphBFS\Ex1TraverseGraphBFS.csproj", "{31C86896-CADA-430A-BFC6-ABE66C303ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1Bank", "Ex1Bank\Ex1Bank.csproj", "{6A0384BF-1FDC-4658-A793-4BB13D354FAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{95D950CC-BAF5-4C9E-AA70-066815510944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D950CC-BAF5-4C9E-AA70-066815510944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D950CC-BAF5-4C9E-AA70-066815510944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C86896-CADA-430A-BFC6-ABE66C303ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C86896-CADA-430A-BFC6-ABE66C303ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C86896-CADA-430A-BFC6-ABE66C303ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C86896-CADA-430A-BFC6-ABE66C303ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0384BF-1FDC-4658-A793-4BB13D354FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0384BF-1FDC-4658-A793-4BB13D354FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0384BF-1FDC-4658-A793-4BB13D354FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0384BF-1FDC-4658-A793-4BB13D354FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

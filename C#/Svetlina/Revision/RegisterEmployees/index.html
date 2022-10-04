@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Register Employees </title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <form id="register-form">
+            <div class="title">
+                <h2>Register here</h2>
+            </div>
+            <div class="info">
+                <input id="add-id" type="number" placeholder="Id">
+                <input id="add-fullName" type="text" placeholder="Full name">
+                <input id="add-department" type="text" placeholder="Department">
+            </div>
+            <button id="add-button">Submit</button>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Full Name</th>
+                    <th>Department</th>
+                </tr>
+            </thead>
+            <tbody id="employees">
+                <!-- Example: 
+                <tr>
+                    <td>1</td>
+                    <td>James</td>
+                    <td>Accounting</td>
+                </tr> -->
+            </tbody>
+        </table>
+    </div>
+    <script src="./app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEfvQPtO8dAMplGgBzZb3hKBgCNfYm7RkaZhNzkEHlSnNzLJ/rUumVzDVWNErXHhM/KJGd6iInWQf94u8G7Trg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\Revision\\Ex1TraverseGraphBFS\\Ex1TraverseGraphBFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
