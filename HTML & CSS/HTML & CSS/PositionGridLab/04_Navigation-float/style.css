@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background: rgb(238, 238, 238);
+    
+}
+
+a {
+    color: rgb(0, 102, 0);
+}

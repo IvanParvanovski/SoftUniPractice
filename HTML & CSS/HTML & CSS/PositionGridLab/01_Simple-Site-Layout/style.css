@@ -1,0 +1,47 @@
+body {
+    border-radius: 3px;
+    background: rgb(181, 216, 255);
+    padding: 5px 10px;
+    display: grid;
+    grid-template-columns: 100px auto;
+    grid-template-areas: 
+        "header header"
+        "aside main"
+        "footer footer";
+    grid-gap: 10px;
+}
+
+#page-header {
+    grid-area: header;
+}
+
+#page-main {
+    grid-area: main;
+}
+
+#page-aside {
+    grid-area: aside;
+}
+
+#page-footer {
+    grid-area: footer;
+}
+
+#page-header .page-header__title { 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#page-aside #aside-ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+#page-aside .aside-ul__a {
+    display: block;
+    padding: 5px 0px;
+    color: rgb(86, 40, 129);
+    text-decoration: none;
+}
+

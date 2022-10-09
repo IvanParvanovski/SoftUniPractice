@@ -1,0 +1,24 @@
+.viewport {
+    position: relative;
+    height: 400px;
+    margin: 15%;
+}
+
+.card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+i {
+    position: absolute;
+    top: 93%;
+    right: 0.8rem;
+    color: white;
+}
