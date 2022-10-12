@@ -1,0 +1,31 @@
+:root {
+    --clr-primary: red;
+    --clr-body: green;
+}
+
+h2 {
+    margin: 1.25em 0 0;
+}
+
+header {
+    padding: 2em;
+    background-color: white;
+    display: flex;
+}
+
+.nav__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.nav__list a {
+    line-height: 3;
+    color: var(--clr-primary);
+}
+
+.nav__list a:hover,
+.nav__list a:focus {
+    color: var(--clr-body);
+}

@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Work+Sans&display=swap');
+
+.card {
+    background-color: #fff;
+    border-radius: 14px;
+    overflow: hidden;
+}
+
+/* Card style - classic */
+
+.card .head {
+    position: relative;
+    height: 40%;
+}
+
+.card .head .head__tag {
+    position: absolute;
+    top: 24px;
+    right: 18px;
+
+    font-family: 'Roboto Mono', monospace;
+    padding: 2px 12px;
+    border-radius: 12px;
+    background-color: #845ec2;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+
+.card .head .head__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.card .content {
+    padding: 18px;
+    line-height: 21px;
+}
+
+.card .content .content__title {
+    margin-bottom: 12px;
+    /* z-index: 2; */
+}
+
+.card .content .content__description {
+    color: #757476;
+}
+
+.card .content.content--icon {
+    position: relative;
+}
+
+.card .content.content--icon .content__title,
+.card .content.content--icon .content__description {
+    width: calc(100% - 32px - 12px);
+}
+
+.card .content.content--icon .content__icon {
+    position: absolute;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 32px;
+    color: #817a88;
+    cursor: pointer;
+    border: none;
+    padding: 0px;
+    background-color: transparent;
+}
+
+/* Card - Read more */
+.card.card--read-more .content {
+    position: relative;
+}
+
+.card.card--read-more .content .content__btn {
+    border-radius: 18px;
+    padding: 6px 18px;
+    color: #fff;
+    background-color: #2c73d2;
+    font-family: 'Roboto Mono', monospace;
+    border: none;
+    cursor: pointer;
+
+    position: absolute;
+    bottom: 18px;
+
+    bottom: 13%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+.card.card--read-more .content .content__btn:hover {
+    color: #2c73d2;
+    background-color: #fff;
+    border: 1px solid #2c73d2;
+    font-weight: bold;
+}
+
+.card.card--read-more .content::after {
+    content: "";
+    width: 100%;
+    height: 60%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 50%, rgba(255,255,255,0.5011600928074246) 70%);
+}
+
+/* Card - Background image */
+
+.card.card--bg-img {
+    position: relative;
+}
+
+.card.card--bg-img .card__bg-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.card.card--bg-img::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.card.card--bg-img .head,
+.card.card--bg-img .content {
+    z-index: 1;
+    position: relative;
+    color: white;
+}
+
+.card.card--bg-img .head .head__tag {
+    left: 18px;
+    right: unset;
+
+}
+
+.card.card--bg-img .head .head__action {
+    position: absolute;
+    top: 24px;
+    right: 18px;
+
+    border: none;
+    color: #fff;
+    background-color: transparent;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.card.card--bg-img .content .content__title,
+.card.card--bg-img .content .content__description {
+    color: #fff;
+    margin-bottom: 4px;
+}

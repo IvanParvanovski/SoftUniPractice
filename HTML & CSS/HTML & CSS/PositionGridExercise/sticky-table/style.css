@@ -1,0 +1,27 @@
+body {
+    background-color: #dadbdf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Main table */
+table.mainTable {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border: 2px solid #ffcc00;
+    color: #000000;
+    table-layout: fixed;
+}
+
+table.mainTable td,
+table.mainTable th {
+    border: 2px solid #ab8f1e;
+    padding: 3px;
+    width: 250px;
+}
+
+.frozen {
+    right: 0px;
+    position: sticky;
+    background-color: rgb(189, 162, 29);
+}

@@ -1,0 +1,52 @@
+body {
+    background-color: #dadbdf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #234465;
+    padding: 6px 24px;
+    position: sticky;
+
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.header .header__logo {
+    width: 150px;
+}
+
+.header .nav .list {
+    display: flex;
+    list-style: none;
+    gap: 12px;
+}
+
+.header .nav {
+    margin-left: auto;
+    margin-right: 16px;
+}
+
+
+.header .nav .nav__item .nav__item__link {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.profile-btn {
+    cursor: pointer;
+    padding: 0.5rem 0.6rem;
+    border-radius: 100%;
+    background-color: rgba(255, 81, 0, 0.872);
+    border-color: white;
+}
+
+
+
+.profile-btn .profile-icon {
+    font-size: 20px;
+    color: white;
+}

@@ -1,0 +1,22 @@
+.container {
+    border: 2px dashed black;
+}
+
+.container.container-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.container.container-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.container.container-flex .item {
+    width: calc(100% / 3 - 24px * 2);
+    flex-grow: 1;
+    justify-content: s;
+}

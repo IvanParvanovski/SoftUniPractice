@@ -1,0 +1,42 @@
+#page-header .nav-list {
+    background-color: var(--clr-gray-900);
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    height: 104px;
+    width: 100%;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom: 0.1px solid var(--clr-gray-600);
+}
+
+
+.nav-list__logo-btn {
+    width: 172px;
+    height: 64px;
+    background-color: var(--clr-gray-700);
+}
+
+#website-logo {
+    width: 108px;
+    height: 36px;
+}
+
+.nav-list__item #login-btn {
+    background-color: var(--clr-gray-700);
+    border: none;
+    padding: 16px 24px;
+    border-radius: 8px;
+
+    font-weight: 500;
+    font-size: 16px;
+    font-family: inherit;
+    color: #fff;
+
+    cursor: pointer;
+}
+
+
+

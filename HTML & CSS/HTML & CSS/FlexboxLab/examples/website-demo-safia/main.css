@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+:root {
+    /* Primary Palette - Purple */
+    --clr-primary-blue-900: #001A57;
+    --clr-primary-blue-800: #00308F;
+    --clr-primary-blue-600: #0059F7;
+    --clr-primary-blue-300: #689EFF;
+    --clr-primary-blue-100: #0059F7;
+    
+    /* Secondary Palette - Green */
+    --clr-secondary-darkbrown: #66240A;
+    --clr-secondary-brown: #C34B1E;
+    --clr-secondary-salmon: #F9724D;
+    --clr-secondary-skinlight: #FBB6AB;
+    --clr-secondary-white: #FEF1EF;
+
+    /* Gray Pallete - Gray */
+    --clr-gray-900: #070E27;
+    --clr-gray-800: #081131;
+    --clr-gray-700: #162044;
+    --clr-gray-600: #4E5A85;
+    --clr-gray-500: #7E8BB6;
+    --clr-gray-300: #CCD2E9;
+    --clr-gray-200: #F4F7FF;
+    --clr-white: #fff;
+
+    --page-px: 190px;
+    --page-px-mini: 80px;
+    
+}
+
+body {
+    background-color: #dadbdf;
+    font-family: 'Sora', sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 56px;
+    line-height: 64px;
+}
+
+h2 {
+    font-size: 48px;
+    line-height: 64px;
+}
+
+h3 {
+    font-size: 36px;
+    line-height: 40px;
+}
+
+h4 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+h5 {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+

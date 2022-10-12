@@ -1,0 +1,19 @@
+#hero {
+    background-color: var(--clr-gray-900);
+    color: white;
+
+    padding: 64px 0;
+}
+
+#hero .info {
+    width: calc(100% - 2 * var(--page-px));
+    margin: 0 auto;
+    display: flex;
+}
+
+#hero .info .info__title {
+    color: var(--clr-white);
+    font-size: 64px;
+    line-height: 80px;
+    align-items: center;
+}

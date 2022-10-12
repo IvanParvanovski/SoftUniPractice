@@ -1,0 +1,18 @@
+
+.panel {
+    background-color: rgb(249, 106, 90);
+    border-radius: 14px;
+    overflow: hidden;
+    padding: 18px;
+    text-align: center;
+    color: #fff;
+}
+
+.panel .panel__icon {
+    font-size: 48px;
+    margin-bottom: 12px;
+}
+
+.panel .panel__text {
+    font-size: 22px;
+}

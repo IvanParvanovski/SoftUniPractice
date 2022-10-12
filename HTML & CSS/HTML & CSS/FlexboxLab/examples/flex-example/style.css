@@ -1,0 +1,42 @@
+.container {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin: 2rem;
+}
+
+.item {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.item:nth-child(1) {
+    background-color: #FFC75F;
+}
+
+.item:nth-child(2) {
+    background-color: #FF6F91;
+}
+
+.item:nth-child(3) {
+    background-color: #FF8066;
+}
+
+.item:nth-child(4) {
+    background-color: #B740AD;
+}
+
+.item:nth-child(5) {
+    background-color: #00D2FC;
+}
+
+.item:nth-child(6) {
+    background-color: #845EC2;
+}
+
+.item:nth-child(7) {
+    background-color: #492986;
+}
