@@ -1,0 +1,31 @@
+.page-header,
+.page-main {
+    margin: 40px;
+}
+
+header {
+    border-bottom: 2px solid rgb(0,0,0);
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0px;
+
+    display: flex;
+    gap: 10px;
+}
+
+a {
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}

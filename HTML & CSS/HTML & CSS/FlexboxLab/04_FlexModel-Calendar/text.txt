@@ -1,4 +1,3 @@
-Calendar
 
 Workweek
 1 Monday

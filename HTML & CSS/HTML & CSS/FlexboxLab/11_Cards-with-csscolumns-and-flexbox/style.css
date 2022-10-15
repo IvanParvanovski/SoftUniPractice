@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(238, 238, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.card .card__img {
+    object-fit: cover;
+}
+
+.card .content,
+.card .footer {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+}
+
+.card .footer {
+    border-top: 2px solid lightgray;    
+}
+
+/* Masonry */
+
+.masonry.cards-layout {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 16px;
+
+    
+    height: max-content;
+    /* height: 50; */
+}
+
+.masonry .card {
+    height: 50px;
+    width: 50px;
+} 
+
+/* Flex Layout */
+
+.flex.cards-layout {
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    width: 100vw;
+    gap: 16px;
+}
+
+.flex .card {
+    width: 30%;
+}
+

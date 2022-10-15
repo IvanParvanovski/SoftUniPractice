@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;   
+
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    margin: 2rem;
+    display: flex;
+    gap: 16px;
+}
+
+.container__img {
+    border-radius: 16px;
+    width: 150px;
+    height: 40vh;
+    object-fit: cover;
+}
+
+.container__img:nth-child(2) {
+    width: 70%;
+    background-color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+}
