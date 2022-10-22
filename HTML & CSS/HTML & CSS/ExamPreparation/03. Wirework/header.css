@@ -1,0 +1,70 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    background-color: var(--clr-white);
+}
+
+#page-header {
+    display: flex;
+    flex-wrap: wrap;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#page-header .logo-section,
+#page-header .page-navigation {
+    padding: 15px 50px;
+    justify-content: center;
+}
+
+#page-header .logo-section {
+    display: flex;
+}
+
+#page-header .page-header__title {
+    padding-right: 12px;
+    margin: 0px;
+    margin-right: 12px;
+    align-self: center;
+
+    font-size: 35px;
+    color: var(--clr-gray);
+    border-right: 1px solid lightgray;
+}
+
+#page-header .page-header__subtitle {
+    padding: 0;
+    font-size: 14px;
+}
+
+#page-header .page-header__subtitle .text-highlight {
+    color: var(--clr-gray-text);
+}
+
+#page-header .page-navigation__list {
+    display: flex;
+    list-style: none;
+    gap: 1px;
+}
+
+#page-header .page-navigation__list__link {
+    text-decoration: none;
+    color: var(--clr-gray);
+    background-color: var(--clr-link-btn-background);
+    padding: 15px;
+}
+
+#page-header .page-navigation__list__link.active {
+    background-color: var(--clr-orange);
+    color: var(--clr-white);
+}
+
+#page-header .banner {
+    width: 100%;
+    height: 650px;
+    object-fit: cover;
+}

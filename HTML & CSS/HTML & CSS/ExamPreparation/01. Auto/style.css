@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    box-sizing: border-box;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+    width: 100%;
+    height: 68vh;
+    margin-top: 50px;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.container .content .content__heading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.container .content {
+    width: 40%;
+}
+
+.container .content .content__text {
+    font-size: 19.5px;
+}
+
+.container .content .content__text:last-of-type {
+    margin-bottom: 40px;
+}
+
+.container .content .content__text,
+.advantages .advantages__item .content__desc {
+    color: rgb(115, 115, 115);
+}
+
+.advantages {
+    list-style: none;
+    padding: 0;
+}
+
+.advantages .advantages__item {
+    margin-bottom: 1.2rem;
+}
+
+.advantages .advantages__item__img {
+    padding-right: 8px;
+}
+
+.advantages .advantages__item .content {
+    display: inline-block;
+    width: 90%;
+    vertical-align: top;
+}
+
+.advantages .content .content__heading {
+    font-size: 18px;
+}
+
+.advantages .content .content__heading,
+.advantages .content .content__desc {
+    display: block;
+    margin: 0px;
+
+    line-height: 1.7rem;
+}
+
+.advantages .advantages__item .advantages__item__img {
+    width: 55px;
+    height: 55px;
+}
+
+.container .visualization .visualization__img {
+    width: 100%;
+    height: 100%;
+}
+

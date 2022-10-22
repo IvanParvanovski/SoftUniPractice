@@ -1,0 +1,137 @@
+/* Info */
+
+#page-main .info {
+    background-color: var(--clr-orange);
+    width: 100%;
+
+    text-align: center;
+    padding: 100px 0;
+}
+
+#page-main .info .info__content {
+    margin: 0 auto;
+
+    padding: 0px 200px;
+    color: #f4c4bb;
+    line-height: 2.2rem;
+    font-size: 23px;
+}
+
+#page-main .info .text.--underline {
+    text-decoration: underline;
+}
+
+#page-main .info .text.--highlight {
+    color: var(--clr-white);
+}
+
+#page-main .info .text.--bold {
+    font-weight: bold;
+}
+
+/* Products */
+
+#page-main .products {
+    display: flex;
+    text-align: center;
+    background-color: var(--clr-gray);
+    padding: 100px 50px;
+}
+
+#page-main .products .card {
+    margin-right: 20px;
+    padding: 30px;
+}
+
+#page-main .products .card .card__icon,
+#page-main .products .card .card__heading,
+#page-main .products .card .card__text {
+    display: block;
+}
+
+#page-main .products .card .card__icon {
+    width: fit-content;
+    height: fit-content;
+    vertical-align: middle;
+    font-size: 50px;
+
+    padding: 30px;
+    margin: 0 auto;
+
+    color: white;
+    background-color: var(--clr-orange);
+}
+
+#page-main .products .card .card__heading {
+    color: var(--clr-white);
+    font-weight: normal;
+    font-size: 26px;
+
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--clr-gray-text);
+}
+
+#page-main .products .card .card__text {
+    font-size: 18px;
+    color: var(--clr-gray-text);
+}
+
+/* Learn more */
+
+#page-main .learn-more {
+    background-color: var(--clr-white);
+    text-align: center;
+    padding: 75px 0;
+}
+
+#page-main .learn-more .learn-more__heading {
+    margin: 0;
+    margin-bottom: 5px;
+    color: #5e5e5e;
+    font-size: 32px;
+    font-weight: normal;
+}
+
+#page-main .learn-more .learn-more__text {
+    margin: 0;
+    margin-bottom: 25px;
+    
+    color: #939a9f;
+}
+
+#page-main .learn-more .learn-more__btn {
+    padding: 15px 35px;
+
+    font-weight: 600;
+    letter-spacing: 3px;
+
+    background-color: var(--clr-green);
+    color: var(--clr-white);
+    border: none;
+    cursor: pointer;
+}
+
+/* Services */
+
+#page-main .services {
+    background-color: var(--clr-gray);
+    display: flex;
+    text-align: center;
+    padding: 100px 50px;
+}
+
+#page-main .services .card {
+    padding: 20px;
+}
+
+#page-main .services .card .card__heading{
+    color: var(--clr-white);
+    font-weight: normal;
+    font-size: 26px;
+}
+
+#page-main .services .card .card__desc {
+    color: var(--clr-gray-text);
+    font-size: 18px;
+    line-height: 32px;
+}

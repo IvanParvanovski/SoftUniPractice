@@ -1,0 +1,24 @@
+/* TODO: Add the responsive styles here */
+@media (max-width: 600px) {
+    section.w3-top article.w3-right.w3-hide-small .w3-bar-item.w3-button {
+        /* background-color: aqua; */
+        display: none;    
+    }
+
+    main.w3-content #about img {
+        display: none;
+    }
+
+    main.w3-content #about article:nth-child(2) {
+        width: 100%;
+        height: 100%;
+    }
+
+    main.w3-content #menu article:first-child {
+        width: 100%;
+    }
+
+    main.w3-content #menu article:nth-child(2) {
+        width: 100%;
+    }
+}
