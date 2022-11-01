@@ -1,0 +1,9 @@
+h1 {
+    background-color: lightblue;
+}
+
+@media (min-width: 399px) and (max-width: 699px) {
+    h1 {
+        background-color: lightcoral;
+    }
+}

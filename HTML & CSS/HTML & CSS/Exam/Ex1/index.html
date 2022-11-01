@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Calculator</title>
+
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="visualization">
+            <div class="layer"></div>
+            <img class="visualization__img" src="image/calculator.png" alt="No Image">
+        </div>
+
+        <div class="content">
+            <h1 class="content__heading">
+                FITNESS CALCULATOR
+            </h1>
+
+            <div class="controls">
+                <button class="controls__standart-units">
+                    Standart units (US)
+                </button>
+
+                <button class="controls__metric-units">
+                    Metric units
+                </button>
+            </div>
+
+            <div class="content__gender">
+                <h2 class="content__gender__heading">
+                    Gender
+                </h2>
+
+                <select class="input content__gender__input" name="gender" id="gender">
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                    <option value="other">Other</option>
+                </select>
+
+                <input class="input content__gender__input" type="text" placeholder="Years...">
+            </div>
+
+            <div class="content__weight">
+                <h2 class="content__weight__heading">
+                    Weight
+                </h2>
+
+                <input class="input content__weight__input" type="text" placeholder="Pounds...">
+            </div>
+
+            <div class="content__height">
+                <h2 class="content__height__heading">Height</h2>
+
+                <input class="input content__height__input" type="text" placeholder="Feet...">
+                <input class="input content__height__input" type="text" placeholder="Inches...">
+            </div>
+
+            <button class="content__calculate-btn">Calculate</button>
+        </div>
+    </div>
+</body>
+</html>

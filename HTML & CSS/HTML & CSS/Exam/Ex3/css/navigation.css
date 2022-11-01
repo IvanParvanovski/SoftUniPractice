@@ -1,0 +1,33 @@
+.contacts-navigation {
+    display: flex;
+    justify-content: space-between;
+    
+    /* position: sticky;
+    top: 0; */
+    
+    padding: 18px 20px;
+
+    background-color: var(--clr-red);
+    color: white;
+}
+
+.contacts-navigation {
+    font-size: 18px;
+}
+
+.contacts-navigation .number,
+.contacts-navigation .location,
+.contacts-navigation .social-media {
+    display: flex;
+    gap: 8px;
+}
+
+.contacts-navigation .social-media .social-media__item {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.contacts-navigation .social-media .social-media__platform {
+    font-size: 20px;
+    cursor: pointer;
+}

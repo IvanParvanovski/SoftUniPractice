@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+html {
+    font-family: 'PT Sans', sans-serif;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    height: 100vh;
+}
+
+.card {
+    position: relative;
+
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid red;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+.card .content {
+    width: 50%;
+    background-image: url('./image/image1.png');
+    padding: 24px;
+}
+
+.card .content .content__heading {
+    margin-bottom: 0px;
+    font-size: 28px;
+}
+
+
+.card .picture {
+    width: 50%;
+    height: 100%;
+}
+
+.card .picture .picture__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card .content .content__heading {
+    text-align: center;
+    border-bottom: 1px solid green;
+    padding-bottom: 5px;
+}
+
+.card .content .preparation-info {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    /* font-family: inherit; */
+}
+
+.--highlight {
+    color: green;
+    font-weight: bold;
+}
+
+.recipe__desc {
+    font-size: 22px;
+}
+
+.picture .picture__img {
+    height: 100%;
+}

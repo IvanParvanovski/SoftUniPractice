@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+    --margin-btw: 26px;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    width: 60%;
+    background-color: rgb(238, 238, 238);
+    overflow: hidden;
+    border-radius: 16px;
+    border: 1px solid gray;
+
+    box-shadow: 0px 6px 17px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 6px 17px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 6px 17px -1px rgba(0,0,0,0.75);
+}
+
+.container .visualization {
+    width: 50%;
+}
+
+.container .content {
+    width: 50%;
+
+    position: relative;
+    padding: 40px 20px;
+}
+
+.container .visualization {
+    position: relative;
+}
+
+.container .visualization .layer {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.295);
+    position: absolute;
+}
+
+.container .visualization .visualization__img {
+    width: 100%;
+    height: 100%;
+}
+
+.container .content .content__heading {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 60px;
+
+    font-size: 24px;
+}
+
+.container .content .controls {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: var(--margin-btw);
+}
+
+.content .controls .controls__standart-units,
+.content .controls .controls__metric-units {
+    border: 1px solid black;
+    padding: 8px 20px;
+    border-radius: 7px;
+    font-size: 16px;
+}
+
+.content .controls .controls__standart-units {
+    background-color: #86d862;
+}
+
+.content .controls .controls__metric-units {
+    background-color: #e0e0df;
+}
+
+.container .content .content__gender,
+.container .content .content__weight,
+.container .content .content__height {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: var(--margin-btw);
+}
+
+.content .content__weight .content__weight__heading,
+.content .content__gender .content__gender__heading,
+.content .content__height .content__height__heading {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.content .content__gender .input {
+    width: 35%;
+    padding: 5px;
+}
+
+.content .input {
+    border-radius: 3px;
+    padding: 2px 5px;
+    width: 45%;
+    font-size: 14px;
+    border: 1px solid gray;
+}
+
+.content .content__weight .content__weight__input {
+    width: 90%;
+}
+
+.content .content__calculate-btn {
+    width: 80%;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+
+    background-color: #05a2d3;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    box-shadow: 0px 6px 17px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 6px 17px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 6px 17px -1px rgba(0,0,0,0.75);
+}
+
+.content .content__calculate-btn,
+.content .controls .controls__standart-units,
+.content .controls .controls__metric-units {
+    cursor: pointer;
+}

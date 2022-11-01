@@ -1,0 +1,93 @@
+@media (max-width: 600px) {
+    .site-main {
+        padding: 0;
+        margin: 0;
+    }
+
+    .site-header .site-navigation li {
+        display: none;
+    }
+
+    .site-main .entry-header {
+        border-radius: 0px;
+    }
+
+    .site-main .entry-header button {
+        width: 120px;
+    } 
+
+    .site-main .site-logos .site-logos-container {
+        min-width: 0px;
+    }
+
+    .site-main .entry-content .site-information-text {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .site-main .entry-content .entry-description {
+        margin: 0 auto;
+        width: 400px;
+    }
+
+    .site-main .entry-content .site-information .button  {
+        width: 100px;
+    }
+    .site-main .entry-content .site-information-image {
+        display: none;
+    }
+    .site-main .entry-content .site-form,
+    .site-main .site-blog .site-blog-container {
+        margin: 0;
+    }
+    .site-main .entry-content .site-form .entry-title {
+        font-size: 12px;
+    }
+    
+    .site-main .entry-content .site-form p {
+        flex-wrap: wrap;
+    }
+
+    .site-main .entry-content .site-form label {
+        width: 100%;
+    }
+
+    .site-main .entry-content .site-form .button {
+        margin: 0 auto;
+        padding-right: 30px;
+    }
+
+    .site-main .site-blog .entry-title {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .site-main .site-blog .site-posts {
+        flex-wrap: wrap;
+    }
+
+    .site-main .site-blog .site-post {
+        flex: 0 0 80%;
+    }
+
+    .site-main .site-blog .site-post h2 {
+        width: 340px;
+        margin: 0 auto;
+    }
+
+    .site-main .site-blog .site-post p {
+        width: 360px;
+        margin: 0 auto;
+    }
+
+    .site-footer {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .site-footer p,
+    .site-footer a {
+        width: 100%;
+    }
+}

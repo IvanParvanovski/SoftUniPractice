@@ -1,0 +1,91 @@
+#page-main .welcome-section .welcome-section__heading,
+#page-main .coaches-section .coaches-section__heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3rem;
+    letter-spacing: -1px;
+}
+
+#page-main .welcome-section .welcome-section__separator,
+#page-main .coaches-section .coaches-section__separator {
+    margin: 0 auto;
+    width: 40px;
+    height: 3px;
+    background-color: var(--clr-red);
+    margin-bottom: 3rem;
+}
+
+
+#page-main .welcome-section .cards,
+#page-main .coaches-section .cards {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#page-main .welcome-section .card,
+#page-main .coaches-section .card {
+    width: 30%;
+    text-align: center;
+}
+
+/* Welcome section */
+
+#page-main .welcome-section {
+    margin-bottom: 50px;
+}
+
+#page-main .welcome-section .card__img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 16px;
+
+}
+
+#page-main .welcome-section .card__title {
+    margin-bottom: 16px;
+    font-size: 20px;
+    
+    color: var(--clr-red);
+    font-weight: bold;
+}
+
+#page-main .welcome-section .card__desc {
+    width: 65%;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+/* Coaches section */
+
+#page-main .coaches-section {
+    padding-top: 3rem;
+    background-color: rgb(239, 239, 239);
+    padding-bottom: 3rem;
+}
+
+#page-main .coaches-section .card .card__img {
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+
+#page-main .coaches-section .card .card__coach {
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#page-main .coaches-section .card .card__coach-department {
+    margin-bottom: 16px;
+    font-weight: bold;
+    color: var(--clr-red);
+}
+
+#page-main .coaches-section .card .card__coach-desc {
+    font-size: 18px;
+    width: 63%;
+    margin: 0 auto;
+    color:#a6a1ab;
+}
+

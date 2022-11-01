@@ -1,0 +1,48 @@
+@media (max-width:600px) {
+    html {
+        width: 100vw;
+    }
+    
+    body {
+        width: 100vw;
+    }
+
+    main .left-to-right article {
+        margin: 0 auto;
+        border-radius: 15%;
+        padding: 30px 30px 30px 30px;
+        font-size: 19.5px;
+        width: 600px;
+    }
+
+    main .left-to-right header h1 {
+        font-size: 3rem;
+    }
+
+    main .left-to-right header p {
+        font-size: 24px;
+    }
+
+    main .left-to-right article button {
+        display: none;
+    }
+
+    main section:nth-child(2) {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    main section:nth-child(2) button {
+        display: none;
+    }
+
+    main section:nth-child(3) article {
+        width: 600px;
+        padding: 80px 40px 80px 40px;
+    }
+
+    main section:nth-child(3) header h1 {
+        font-size: 36px;
+    }
+}

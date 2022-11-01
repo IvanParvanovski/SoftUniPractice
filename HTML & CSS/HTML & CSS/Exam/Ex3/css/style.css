@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@import url('./navigation.css');
+@import url('./header.css');
+@import url('./main.css');
+
+:root {
+    --clr-red: #d01919;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#page-footer {
+    width: 100%;
+    /* padding: 10px; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: var(--clr-red);
+}
