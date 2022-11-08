@@ -1,0 +1,30 @@
+#title {
+    color: rgb(14, 205, 14);
+}
+
+.subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightcoral;
+}
+
+.container {
+    margin: 0 auto;
+    width: fit-content;
+    text-align: center;
+}
+input {
+   margin-bottom: 16px; 
+}
+
+button {
+    display: block;
+    margin-bottom: 50px;
+    background-color: bisque;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0 auto;
+}

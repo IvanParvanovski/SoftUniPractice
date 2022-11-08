@@ -1,0 +1,11 @@
+<h1 id="title">Angular</h1>
+
+<div class="container">
+    <h2 class="subtitle">{{title}}</h2>
+
+    <input #titleInput type="text">
+    <button (click)="changeTitleHandler(titleInput.value)">Change title</button>    
+</div>
+
+<app-list></app-list>
+

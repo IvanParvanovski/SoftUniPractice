@@ -1,0 +1,11 @@
+<button (click)="handleClickEvent()">
+    <ng-container *ngIf="showLastName">Hide</ng-container>
+    <ng-container *ngIf="!showLastName">Show</ng-container>
+</button>
+
+
+<ul id="list-container">
+    <li *ngFor="let user of users" class="list-item">
+        <app-list-item [userItem]="user" [showLastNameValue]="showLastName" (customEvent)="customEventHandler($event)"></app-list-item>
+    </li>
+</ul>
