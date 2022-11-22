@@ -1,0 +1,23 @@
+:host {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba($color: #000000, $alpha: 0.4);
+    color: lightgreen;
+    flex-direction: column;
+}
+
+#title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+#title h1 {
+    font-weight: 600;
+
+}
