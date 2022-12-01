@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfEmployee>
+  <Employee>
+    <Id>1</Id>
+    <Name>Adams Baker</Name>
+    <Department>Development</Department>
+  </Employee>
+  <Employee>
+    <Id>2</Id>
+    <Name>Jones Klein</Name>
+    <Department>Management</Department>
+  </Employee>
+  <Employee>
+    <Id>3</Id>
+    <Name>Sophia Baker</Name>
+    <Department>Transport</Department>
+  </Employee>
+</ArrayOfEmployee>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PostAnswers>
+  <PostAnswer>
+    <AnswerContent>I Like Good Vibrations by Beach Boys.</AnswerContent>
+    <PostId>2</PostId>
+  </PostAnswer>
+  <PostAnswer>
+    <AnswerContent>Very useful</AnswerContent>
+    <PostId>3</PostId>
+  </PostAnswer>
+  <PostAnswer>
+    <AnswerContent>I did it</AnswerContent>
+    <PostId>4</PostId>
+  </PostAnswer>
+  <PostAnswer>
+    <AnswerContent>Thank you for this post.</AnswerContent>
+    <PostId>7</PostId>
+  </PostAnswer>
+</PostAnswers>

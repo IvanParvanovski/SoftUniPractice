@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Posts>
+  <Post>
+    <PostContent>The all-new Things. Your to-do list.</PostContent>
+    <UserId>1</UserId>
+  </Post>
+  <Post>
+    <PostContent>Best Song Ever: I Got You (I Feel Good) by James Brown.</PostContent>
+    <UserId>2</UserId>
+  </Post>
+  <Post>
+    <PostContent>Google: Share interesting customer stories</PostContent>
+    <UserId>4</UserId>
+  </Post>
+  <Post>
+    <PostContent>Show people what is happening...</PostContent>
+    <UserId>3</UserId>
+  </Post>
+  <Post>
+    <PostContent>Increase followers with giveaways</PostContent>
+    <UserId>7</UserId>
+  </Post>
+  <Post>
+    <PostContent>Share your expertise</PostContent>
+    <UserId>5</UserId>
+  </Post>
+  <Post>
+    <PostContent>Involve your fans and let them get creative</PostContent>
+    <UserId>6</UserId>
+  </Post>
+</Posts>
