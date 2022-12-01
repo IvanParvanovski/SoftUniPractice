@@ -1,0 +1,72 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+}
+
+table {
+    max-width: 960px;
+    margin: 10px 5em;
+}
+
+label {
+    margin: auto 5em;
+    width: 50%;
+}
+
+thead th {
+    font-weight: 400;
+    background: #8a97a0;
+    color: #FFF;
+}
+
+tr {
+    background: #f4f7f8;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+}
+
+tr:nth-child(even) {
+    background: #e8eeef;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 20px;
+    font-weight: 300;
+}
+
+button {
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 1em;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #333333;
+    background-color: #f8f8f8;
+    text-align: center;
+    transition: all 0.2s;
+}
+
+button:hover {
+    border-color: rgba(255, 255, 255, 1);
+}
+
+#result {
+    margin-top: 10px;
+    /* margin: 10px 2.4em; */
+    margin-left: 2.4em;
+    margin-right: 28.9em;
+    font: bold 34px "Century Schoolbook", Georgia, Times, serif;
+    color: #333;
+    line-height: 90%;
+    /* margin: .2em 0 .4em 0; */
+    letter-spacing: -2px;
+    /* color: #00529B; */
+    background-color: #BDE5F8;
+    /* margin: 10px 0px; */
+    padding: 12px;
+}
