@@ -23,7 +23,7 @@ import { ThemeModule } from './theme/theme.module';
     CoreModule,
     HttpClientModule,
     SharedModule,
-    MyModule.withProviders()
+    MyModule.withProviders(),
   ],
   providers: [],
   bootstrap: [AppComponent]
