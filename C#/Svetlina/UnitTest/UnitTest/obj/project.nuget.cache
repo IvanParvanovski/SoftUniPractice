@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QIyWLNlNegoVkmrk4uzgxN3ETJaAiJOmjGONGFvievSphWUrsvLpa9e7ZHiimTt+kXNtBuPfcs+m7FlC+i1Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\UnitTest\\UnitTest\\UnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

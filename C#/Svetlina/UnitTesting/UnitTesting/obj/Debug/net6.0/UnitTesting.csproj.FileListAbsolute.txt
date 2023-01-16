@@ -1,0 +1,15 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\refint\UnitTesting.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.genruntimeconfig.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTesting\UnitTesting\obj\Debug\net6.0\ref\UnitTesting.dll
