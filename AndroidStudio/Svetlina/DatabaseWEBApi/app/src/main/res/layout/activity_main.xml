@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Hello World!"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+    <EditText
+        android:id="@+id/my_edit_text"
+        android:layout_width="411dp"
+        android:layout_height="67dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Enter text here"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="59dp"
+        tools:ignore="MissingConstraints" />
+    <Button
+        android:id="@+id/my_button"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:text="Click me"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="167dp"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:id="@+id/my_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Result!"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:id="@+id/my_text_view_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello, World!"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        tools:ignore="MissingConstraints" />
+
+
+
+</LinearLayout>

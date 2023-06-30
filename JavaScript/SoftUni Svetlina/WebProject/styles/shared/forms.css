@@ -1,0 +1,237 @@
+@media (min-width: 1080px) {
+    .form-title {
+        font-size: 3rem;
+        top: -10%;
+    }
+
+    .primary-form {
+        width: 30%;
+        top: 40%;
+        left: 50%;
+        transform: translate(-40%, -50%);
+        padding: 4%;
+    }
+
+    .primary-form input {
+        width: 100%;
+        font-size: 1.25rem;
+
+    }
+
+    .primary-form label {
+        font-size: 1.5rem;
+    }
+
+    .primary-form .submit-btn {
+        font-size: 1.35rem;
+        padding: 0.25rem 1.5rem;
+    }
+
+    .primary-form p {
+        font-size: 1.25rem;
+    }
+
+    .primary-form.--crud {
+        width: 60%;
+    }
+
+    .--crud .input-fields {
+        width: 45%;
+    }
+}
+
+@media (max-width: 1079px) {
+    .form-title {
+        font-size: 1.5rem;
+        top: -5%;
+    }
+
+    .wrapper {
+        padding-top: 8%;
+        padding-bottom: 16%;
+    }
+
+
+    .primary-form {
+        padding: 4%;
+        padding-top: 12%;
+        top: 25%;
+    }
+
+    .primary-form.--crud {
+        top: 42.5%;
+        width: 100%;
+
+    }
+
+    .primary-form input {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .primary-form label {
+        font-size: 1.2rem;
+    }
+
+    .primary-form .submit-btn {
+        font-size: 1rem;
+        padding: 0.25rem 1.5rem;
+    }
+
+    .primary-form p {
+        font-size: 1rem;
+    }
+
+    .primary-form.--crud {
+        width: 80%;
+        position: relative;
+    }
+
+    .--crud .form-title {
+        font-size: 1.5rem;
+        top: -2%;
+    }
+
+    .--crud .input-fields {
+        width: 100%;
+    }
+}
+
+#login-form {
+    background-color: salmon;
+    width: 100%;
+}
+
+.form-title {
+    position: absolute;
+    left: 5%;
+    color: var(--clr-pink);
+    font-family: var(--font-secondary);
+    text-transform: uppercase;
+    padding: 2%;
+    background-color: var(--clr-primary);
+    border: 4px solid var(--clr-pink);
+}
+
+.primary-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+
+    margin: auto auto;
+
+    background-color: var(--clr-primary);
+
+    border-radius: 5px;
+}
+
+.primary-form.--crud {
+    justify-content: space-around;
+}
+
+
+
+.--crud #description {
+    font-family: var(--font-primary);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.--crud .submit-btn {
+    width: 50%;
+    margin-left: 25%;
+}
+
+/* --- */
+
+.primary-form div.field {
+    display: flex;
+    position: relative;
+    gap: 1rem;
+
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.primary-form label {
+    width: 100%;
+
+    font-family: var(--font-secondary);
+    color: var(--clr-pink);
+    text-transform: uppercase;
+}
+
+.primary-form input {
+    height: 2rem;
+
+    margin-bottom: 2rem;
+    padding-left: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+
+    border: 2px solid var(--clr-white);
+    border-radius: 0.25rem;
+}
+
+div.field i {
+    position: absolute;
+    top: 42%;
+    color: var(--clr-primary);
+    left: 2%;
+    font-size: 1.5rem;
+}
+
+.primary-form .submit-btn {
+    background-color: var(--clr-btn-view);
+    color: var(--clr-secondary);
+    font-family: var(--font-secondary);
+    text-transform: uppercase;
+
+
+
+    border-radius: 0.25rem;
+    border: none;
+    letter-spacing: 1px;
+    margin-bottom: 2rem;
+    border: 2px solid var(--clr-btn-view);
+
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+
+}
+
+.primary-form .submit-btn:hover {
+    cursor: pointer;
+    background-color: var(--clr-secondary);
+    color: var(--clr-btn-view);
+    border: 2px solid var(--clr-btn-view);
+    font-weight: bold;
+
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+
+}
+
+.primary-form p {
+    width: 100%;
+    color: var(--clr-background);
+    font-family: var(--font-primary);
+    margin-left: 2%;
+    text-indent: 2%;
+    border-left: 4px solid var(--clr-pink);
+    /* border-bottom: 2px solid var(--clr-pink); */
+}
+
+
+.link.--highlighted {
+    color: var(--clr-pink);
+
+}

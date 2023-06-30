@@ -3,6 +3,7 @@ import { FormBuilder, Validators } from '@angular/forms';
 import { appEmailDomains } from 'src/app/shared/constants';
 import { appEmailValidator } from 'src/app/shared/validators';
 import { sameValueGroupValidator } from 'src/app/shared/validators/same-value-group-validator';
+import { AuthService } from '../auth.service';
 
 @Component({
   selector: 'app-register',
@@ -21,7 +22,7 @@ export class RegisterComponent {
       '', 
     ],
     ext: [
-      
+      '',
     ],
     pass: this.fb.group({
       password: [
@@ -35,11 +36,17 @@ export class RegisterComponent {
   });
 
   constructor(
-    private fb: FormBuilder
+    private fb: FormBuilder,
+    private authService: AuthService
   ) { }
 
   registerHandler() {
-    console.log(this.form.value);
-    
+    if (this.form.invalid) {
+      return;
+    }
+
+    const { username, email, pass: {password, rePassword} = {}, telephone} = this.form.value;
+    this.authService
+      .register(username!, email!, password!, rePassword!, telephone || undefined);
   }
 }

@@ -2113,6 +2113,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "P02_DatabaseExtended/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/P02_DatabaseExtended.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/P02_DatabaseExtended.dll": {}
+        }
       }
     }
   },
@@ -6661,12 +6671,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "P02_DatabaseExtended/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseExtended/P02_DatabaseExtended.csproj",
+      "msbuildProject": "../DatabaseExtended/P02_DatabaseExtended.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "NUnit3TestAdapter >= 3.9.0",
+      "P02_DatabaseExtended >= 1.0.0",
       "nunit >= 3.9.0"
     ]
   },
@@ -6696,7 +6712,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\UnitTestExercise\\DatabaseExtended\\P02_DatabaseExtended.csproj": {
+              "projectPath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\UnitTestExercise\\DatabaseExtended\\P02_DatabaseExtended.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,27 @@
+@media (min-width: 1080px) {
+    #collaborative-companies {
+        padding: 4rem;
+    }
+}
+
+@media (max-width: 1079px) {
+    #collaborative-companies {
+        padding: 1rem;
+        gap: 0.5rem;
+    }
+}
+
+
+#collaborative-companies {
+    display: flex;
+    box-sizing: border-box;
+
+    justify-content: space-between;
+    align-items: center;
+    
+    background-color: var(--clr-background);
+}
+
+.collaborative-companies__logo {
+    width: 18%;
+}

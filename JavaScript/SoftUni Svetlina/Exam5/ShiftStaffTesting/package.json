@@ -1,0 +1,19 @@
+{
+    "name": "02.phonebook",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "mocha app.test.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "playwright-chromium": "^1.16.3"
+    },
+    "dependencies": {
+        "chai": "^4.3.4",
+        "mocha": "^9.1.3"
+    }
+}

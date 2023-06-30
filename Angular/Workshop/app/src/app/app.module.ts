@@ -10,6 +10,7 @@ import { MyModule } from './my-module';
 import { AppRoutingModule } from './app-routing.module';
 import { AuthModule } from './auth/auth.module';
 import { ThemeModule } from './theme/theme.module';
+import { appInterceptorProvider } from './auth/app.interceptor';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,9 @@ import { ThemeModule } from './theme/theme.module';
     SharedModule,
     MyModule.withProviders(),
   ],
-  providers: [],
+  providers: [
+    appInterceptorProvider
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

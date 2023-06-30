@@ -1,0 +1,10 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\bin\Debug\netcoreapp3.1\P04_FightingArena.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\bin\Debug\netcoreapp3.1\P04_FightingArena.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\bin\Debug\netcoreapp3.1\P04_FightingArena.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\FightingArena\obj\Debug\netcoreapp3.1\P04_FightingArena.pdb

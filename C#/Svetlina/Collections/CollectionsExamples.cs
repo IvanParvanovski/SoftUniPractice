@@ -2,9 +2,9 @@
 
 namespace Collections
 {
-    class CollectionsExamples
+    public class CollectionsExamples
     {
-        static void Main()
+        public static void Main()
         {
             Console.WriteLine("CircularQueue<T> Examples");
             Console.WriteLine("=========================");

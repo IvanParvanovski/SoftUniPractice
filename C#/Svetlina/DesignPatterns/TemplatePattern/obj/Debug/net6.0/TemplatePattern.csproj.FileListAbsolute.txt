@@ -1,0 +1,15 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\bin\Debug\net6.0\TemplatePattern.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\bin\Debug\net6.0\TemplatePattern.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\bin\Debug\net6.0\TemplatePattern.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\bin\Debug\net6.0\TemplatePattern.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\bin\Debug\net6.0\TemplatePattern.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\refint\TemplatePattern.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\TemplatePattern.genruntimeconfig.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\TemplatePattern\obj\Debug\net6.0\ref\TemplatePattern.dll

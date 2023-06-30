@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aeqfc6D8J/z13mvA4fkqiZ2mO3+DwNx8YzUxvNtoSAnPrIB62WASSfdxG9X1vRfvSm9BEwbFnR55MwreAJMqdQ==",
+  "dgSpecHash": "4jItcEJV8zgKuJnUVWk5MLzjJ3bpwlXdPkPMyPdxFHYZfaY/U/KxfGBkNqdVXmPFx0qZ3Cnd1KttGljtQ0B6xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\Collections\\Collections.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iparv\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\iparv\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }

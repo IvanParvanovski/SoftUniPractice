@@ -1,0 +1,15 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll

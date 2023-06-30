@@ -1,0 +1,10 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\bin\Debug\netcoreapp3.1\P01_Database.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\bin\Debug\netcoreapp3.1\P01_Database.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\bin\Debug\netcoreapp3.1\P01_Database.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\Database\obj\Debug\netcoreapp3.1\P01_Database.pdb

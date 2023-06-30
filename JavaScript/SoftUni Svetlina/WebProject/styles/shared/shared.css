@@ -1,0 +1,252 @@
+@media (min-width: 1080px) {
+    .additional-info__article {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+    .additional-info__title {
+        font-size: 4.2rem;
+    }
+
+    .additional-info__content {
+        font-size: 2.5rem;
+    }
+
+    .additional-info__article {
+        width: 45%;
+    }
+
+    .divider__cut-diamond {
+        top: 50%;
+        left: 50%;
+        transform: translateY(-50%);
+
+        width: 25px;
+        height: 25px;
+    }
+
+    .divider .divider__left-line,
+    .divider .divider__right-line {
+        width: 46%;
+    }
+
+    article.info-article .content {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+
+    article.info-article .content__title {
+        font-size: 3rem;
+    }
+
+    .divider {
+
+        margin-top: 2rem;
+        margin-bottom: 2.5rem;
+    }
+
+    .info-article.--right .content,
+    .info-article.--left .content {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .info-article .content {
+        width: 30%;
+    }
+
+
+}
+
+@media (max-width: 1079px) {
+    .additional-info__article {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+
+    .additional-info__title {
+        font-size: 2.1rem;
+    }
+
+    .additional-info__content {
+        font-size: 1.2rem;
+    }
+
+    .additional-info__article {
+        width: 70%;
+    }
+
+    .divider__cut-diamond {
+        width: 15px;
+        height: 15px;
+        top: -100%;
+        left: 50%;
+    }
+
+    .divider .divider__left-line,
+    .divider .divider__right-line {
+        width: 42%;
+    }
+
+    /* --- */
+    article.info-article .content {
+        font-size: 0.8rem;
+    }
+
+    article.info-article .content__title {
+        font-size: 1.5rem;
+    }
+
+    .divider {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .info-article .content {
+        margin-top: 1rem;
+        overflow: scroll;
+        top: 0;
+        width: 42%;
+        box-sizing: border-box;
+        height: 80%;
+        right: 0;
+    }
+
+    .content .divider .divider__left-line,
+    .content .divider .divider__right-line {
+        width: 38%;
+    }
+
+
+}
+
+html {
+    background-color: var(--clr-background);
+    height: 100%;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+}
+
+main {
+    min-height: 80vh;
+}
+
+.additional-info {
+    background-color: var(--clr-primary);
+    color: var(--clr-secondary);
+}
+
+.divider {
+
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 2px;
+}
+
+.divider .divider__left-line,
+.divider .divider__right-line {
+    height: 2px;
+
+    background-color: var(--clr-white);
+}
+
+.divider__cut-diamond {
+    position: absolute;
+
+    background: var(--clr-pink);
+
+    /* Rotate */
+    transform: rotate(-45deg);
+
+    /* Rotate Origin */
+    transform-origin: 0 100%;
+}
+
+.additional-info__article {
+    margin: 0 auto;
+}
+
+.additional-info__title {
+    color: var(--clr-pink);
+    width: fit-content;
+    margin: 0 auto;
+    font-family: var(--font-secondary);
+    text-transform: uppercase;
+}
+
+.additional-info__content {
+    text-align: center;
+    font-family: var(--font-primary);
+}
+
+/* --- */
+
+article.info-article {
+    position: relative;
+    box-sizing: border-box;
+    background-color: var(--clr-background);
+}
+
+.info-article__img {
+    width: 50%;
+    object-fit: cover;
+}
+
+.info-article .content {
+    position: absolute;
+
+}
+
+.info-article .content {
+
+    margin-top: 1rem;
+    overflow: auto;
+    top: 0;
+    width: 42%;
+    box-sizing: border-box;
+    height: 80%;
+    right: 0;
+}
+
+.info-article.--left .info-article__img {
+    display: -webkit-box;
+    margin-right: auto;
+}
+
+.info-article.--right .info-article__img {
+    display: -webkit-box;
+    margin-left: auto;
+}
+
+
+article.info-article .divider__left-line,
+article.info-article .divider__right-line {
+    background-color: var(--clr-primary);
+}
+
+
+article.info-article .content__title {
+    color: var(--clr-pink);
+    width: fit-content;
+    font-family: var(--font-secondary);
+    text-transform: uppercase;
+}
+
+article.info-article .content {
+    font-family: var(--font-primary);
+    color: var(--clr-primary);
+}
+
+.info-article.--right .content {
+    left: 4%;
+}
+
+.info-article.--left .content {
+    right: 4%;
+}

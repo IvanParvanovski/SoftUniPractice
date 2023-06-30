@@ -11,4 +11,6 @@
     <string name="_8">8</string>
     <string name="edit">EDIT</string>
     <string name="delete">DELETE</string>
+    <string name="check">Check</string>
+    <string name="not_checked">Not Checked!</string>
 </resources>

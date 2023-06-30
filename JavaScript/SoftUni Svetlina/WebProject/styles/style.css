@@ -1,0 +1,10 @@
+@import "/styles/shared/reset.css";
+@import "/styles/shared/shared.css";
+@import "/styles/shared/variables.css";
+@import "/styles/shared/footer.css";
+@import "/styles/shared/navbar.css";
+@import "/styles/shared/forms.css";
+
+@import "/styles/home/home.css";
+@import "/styles/catalogue/catalogue.css";
+@import "/styles/details/details.css";

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include layout="@layout/toolbar"
+        android:id="@+id/toolbar"
+        />
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/recyclerView"-->
+<!--        />-->
+
+    <TextView
+        android:id="@+id/tvHomeActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Home Activity"
+        android:gravity="center"
+        android:background="@color/layoutBackground"
+        android:textColor="@color/white"
+        android:textSize="32sp">
+    </TextView>
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:text="First Name"
+            android:textSize="24sp"
+            android:textColor="@color/layoutBackground">
+        </TextView>
+
+        <EditText
+            android:id="@+id/etFirstName"
+            android:layout_marginEnd="32sp"
+            android:layout_marginStart="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="ivan">
+        </EditText>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Last Name"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:textColor="@color/layoutBackground">
+        </TextView>
+
+        <EditText
+            android:id="@+id/etLastName"
+            android:layout_marginEnd="32sp"
+            android:layout_marginStart="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="parvanovski">
+        </EditText>
+
+        <TextView
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Age"
+            android:textSize="24sp"
+            android:textColor="@color/layoutBackground">
+        </TextView>
+
+        <EditText
+            android:id="@+id/etAge"
+            android:layout_marginBottom="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginStart="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="17">
+        </EditText>
+
+        <Button
+            android:layout_marginBottom="32sp"
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:gravity="center_horizontal">
+        </Button>
+    </LinearLayout>
+
+
+</LinearLayout>

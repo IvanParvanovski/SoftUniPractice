@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdditionalDataActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvHomeActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Additional Activity"
+        android:gravity="center"
+        android:background="@color/layoutBackground"
+        android:textColor="@color/white"
+        android:textSize="32sp">
+    </TextView>
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:text="Address"
+            android:textSize="24sp"
+            android:textColor="@color/layoutBackground">
+        </TextView>
+
+        <EditText
+            android:id="@+id/etAdd"
+            android:layout_marginEnd="32sp"
+            android:layout_marginStart="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="Nadejda st."
+            android:autofillHints="">
+        </EditText>
+
+
+        <TextView
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Phone"
+            android:textSize="24sp"
+            android:textColor="@color/layoutBackground">
+        </TextView>
+
+        <EditText
+            android:id="@+id/etPhone"
+            android:layout_marginBottom="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginStart="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:hint="0888999222">
+        </EditText>
+
+        <Button
+            android:layout_marginBottom="32sp"
+            android:id="@+id/btnSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:gravity="center_horizontal">
+        </Button>
+
+
+    </LinearLayout>
+</LinearLayout>

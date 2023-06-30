@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/design_default_color_primary"
+    android:elavation="4dp">
+
+    <Button
+        android:layout_marginBottom="32sp"
+        android:id="@+id/first"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First"
+        android:gravity="center_horizontal">
+    </Button>
+    <Button
+        android:layout_marginBottom="32sp"
+        android:id="@+id/second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Second"
+        android:gravity="center_horizontal">
+    </Button>
+    <Button
+        android:layout_marginBottom="32sp"
+        android:id="@+id/third"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Third"
+        android:gravity="center_horizontal">
+    </Button>
+</androidx.appcompat.widget.Toolbar>

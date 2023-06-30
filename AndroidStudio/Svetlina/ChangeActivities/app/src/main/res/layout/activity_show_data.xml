@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ShowDataActivity">
+
+    <TextView
+        android:id="@+id/tvDataActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data Activity"
+        android:gravity="center"
+        android:background="@color/layoutBackground"
+        android:textColor="@color/white"
+        android:textSize="32sp">
+    </TextView>
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginBottom="48sp"
+            android:id="@+id/tvFirstName"
+            android:text="null"
+            android:textColor="@color/layoutBackground"
+            android:gravity="center"
+            android:textSize="21sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TextView>
+
+        <TextView
+            android:layout_marginBottom="48sp"
+            android:id="@+id/tvLastName"
+            android:text="null"
+            android:textColor="@color/layoutBackground"
+            android:gravity="center"
+            android:textSize="21sp"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+        </TextView>
+
+        <TextView
+            android:layout_marginBottom="48sp"
+            android:id="@+id/tvAge"
+            android:layout_width="match_parent"
+            android:text="null"
+            android:textColor="@color/layoutBackground"
+            android:textSize="21sp"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+        </TextView>
+
+
+        <TextView
+            android:layout_marginBottom="48sp"
+            android:id="@+id/tvPhone"
+            android:layout_width="match_parent"
+            android:text="null"
+            android:textColor="@color/layoutBackground"
+            android:textSize="21sp"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+        </TextView>
+
+        <TextView
+            android:layout_marginBottom="48sp"
+            android:id="@+id/tvAddress"
+            android:layout_width="match_parent"
+            android:text="null"
+            android:textColor="@color/layoutBackground"
+            android:textSize="21sp"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+        </TextView>
+
+
+        <Button
+            android:id="@+id/btnHome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home"
+            android:gravity="center_horizontal">
+        </Button>
+
+
+    </LinearLayout>
+</LinearLayout>

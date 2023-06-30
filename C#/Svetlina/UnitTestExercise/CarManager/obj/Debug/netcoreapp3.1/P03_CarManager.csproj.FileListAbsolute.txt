@@ -1,0 +1,10 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\bin\Debug\netcoreapp3.1\P03_CarManager.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\bin\Debug\netcoreapp3.1\P03_CarManager.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\bin\Debug\netcoreapp3.1\P03_CarManager.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\UnitTestExercise\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.pdb

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:900');
+html,
+body {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #015241;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin-top: 30px;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+.search {
+    width: 30%;
+    margin: 20px auto;
+}
+
+.searchTerm {
+    border: 3px solid #009879;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.searchButton {
+    background: #009879;
+    color: #fff;
+    border: 2px solid#005f4c;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px#eee;
+    text-shadow: none;
+    padding: 8px;
+    cursor: pointer
+}
+
+.active {
+    background-color: #a9a9a9c7;
+    color: #fff;
+    font-weight: bold;
+}

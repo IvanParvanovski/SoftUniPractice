@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvjfwVTJJakVWH5SCR7VSDv6TfpaS/i1UtOHHunUBT65pJa0LC3HY7UG7+ekEf9P63wdwYlYuw72usSuavNAmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\DesignPatterns\\SingletonDemo\\SingletonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

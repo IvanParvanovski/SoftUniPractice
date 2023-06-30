@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\Callbacks\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache

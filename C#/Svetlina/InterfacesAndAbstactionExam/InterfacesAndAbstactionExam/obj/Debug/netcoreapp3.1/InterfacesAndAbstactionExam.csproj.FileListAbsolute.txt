@@ -1,0 +1,14 @@
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.csproj.AssemblyReference.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.AssemblyInfoInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.AssemblyInfo.cs
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.csproj.CoreCompileInputs.cache
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\bin\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.exe
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\bin\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.deps.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\bin\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.runtimeconfig.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\bin\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.runtimeconfig.dev.json
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\bin\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\bin\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.dll
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.pdb
+C:\Users\iparv\OneDrive\Desktop\SoftUni\C#\Svetlina\InterfacesAndAbstactionExam\InterfacesAndAbstactionExam\obj\Debug\netcoreapp3.1\InterfacesAndAbstactionExam.genruntimeconfig.cache

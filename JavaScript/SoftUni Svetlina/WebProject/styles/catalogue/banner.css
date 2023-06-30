@@ -1,0 +1,48 @@
+@media (min-width: 1080px) {
+    #banner.--half {
+        height: 85vh;
+    }
+
+    #banner.--half .banner__title {
+        font-size: 6em;
+        width: 30%;
+    }
+}
+
+@media (max-width: 1079px) {
+    #banner.--half {
+        height: 40vh;
+        z-index: -10;
+    }
+
+    #banner .background__img {
+        height: 100%;
+        object-fit: cover;
+    }
+
+    #banner.--half .banner__title {
+        font-size: 3em;
+    }
+}
+
+#banner.--half {
+    position: relative;
+
+    margin-bottom: 2rem;
+}
+
+#banner.--half .banner__title {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    z-index: 10;
+    color: var(--clr-white);
+    font-family: var(--font-secondary);
+
+    border-bottom: 3px solid var(--clr-white);
+    padding-bottom: 1rem;
+}

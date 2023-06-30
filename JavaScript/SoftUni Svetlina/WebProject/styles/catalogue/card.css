@@ -1,0 +1,152 @@
+@media (min-width: 1080px) {
+    .card {
+        flex: 1 1 0px;
+        min-height: 600px;
+    }
+    .desc__content__name {
+        max-height: 168px;
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 1079px) {
+    .card {
+        width: 100%;
+    }
+
+    .desc__content__name {
+        max-height: 168px;
+        overflow: auto;
+    }
+}
+
+
+.cards {
+    box-sizing: border-box;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    margin-bottom: 2rem;
+}
+
+.card {
+    position: relative;
+    height: 45vh;
+
+    overflow: hidden;
+}
+
+.card__img {
+    border-radius: 1rem;
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+}
+
+.card .desc {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    top: 0;
+    left: 0;
+}
+
+.desc__gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    border-radius: 1rem;
+    background-color: rgba(118, 118, 118, 0.487);
+}
+
+.desc .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    padding: 1.5rem;
+
+    border-radius: 0.5rem;
+    background-color: var(--clr-primary);
+}
+
+.desc__content__artist {
+    margin-bottom: 0.25rem;
+
+    color: var(--clr-pink);
+    font-family: var(--font-secondary);
+    font-size: 2.25rem;
+}
+
+.desc__content__name {
+    margin-bottom: 2rem;
+    line-height: normal;
+    color: var(--clr-secondary);
+    font-family: var(--font-primary);
+    font-size: 1.25rem;
+}
+
+.card .desc .controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 4px;
+}
+
+.controls button {
+    background-color: transparent;
+    border: none;
+}
+
+.desc__content__price {
+    display: inline-block;
+    height: 100%;
+
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+
+    font-size: 1.5rem;
+    font-family: var(--font-secondary);
+    color: var(--clr-white);
+    background-color: var(--clr-green);
+}
+
+
+
+.desc__content__view-more {
+    margin: 0 auto;
+    padding: 0 1rem;
+
+    font-family: var(--font-secondary);
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 1.3rem;
+
+    border: 0px;
+    border-radius: 4px;
+
+    color: var(--clr-white);
+    background-color: var(--clr-btn-view);
+
+    cursor: pointer;
+}
+
+.desc__content__view-more:hover {
+    background-color: var(--clr-white);
+    color: var(--clr-btn-view);
+    font-weight: bold;
+}

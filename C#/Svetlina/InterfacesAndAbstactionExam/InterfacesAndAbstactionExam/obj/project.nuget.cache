@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sB/1HfMMMCp9MXBp3e5LSLQREFNL12Ml3orxthSyYqaoarKiuqiUdK9Gl35kjE6gsh0yIeQpiERCtVEfv70bkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iparv\\OneDrive\\Desktop\\SoftUni\\C#\\Svetlina\\InterfacesAndAbstactionExam\\InterfacesAndAbstactionExam\\InterfacesAndAbstactionExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

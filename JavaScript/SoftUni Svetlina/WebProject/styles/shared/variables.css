@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Oswald&display=swap');
+
+:root {
+    --clr-primary: #2F0D5E;
+    --clr-secondary: #E8D5B5;
+    --clr-background: #DFE0DF;
+    /* --clr-highlight: #4B291F; */
+    --clr-white: #fff;
+    --clr-pink: #D80286;
+    --clr-black: #000;
+
+    --clr-green: #00B49E;
+    --clr-btn-view: #008FBD;
+    --clr-edit: #e88409;
+    --clr-delete: #f21818;
+    
+    --font-primary: 'Karla', sans-serif;
+    --font-secondary: 'Oswald', sans-serif;
+
+}

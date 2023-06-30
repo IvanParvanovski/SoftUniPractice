@@ -1,0 +1,220 @@
+@import url('../variables.css');
+
+@media (min-width: 1080px) {
+    .nav--hidden {
+        display: none;
+    }
+
+    #navbar {
+        display: flex;
+
+        width: 100%;
+        height: 100px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 100;
+
+        justify-content: space-around;
+        border-bottom: 2px solid var(--clr-white);
+
+        background-color: var(--clr-primary);
+        opacity: 0.95;
+    }
+
+    .user-section__name {
+        font-size: 1.5rem;
+    }
+
+
+    .navbar__logo {
+        padding: 8px;
+    }
+
+    .navbar__controls {
+        display: none;
+    }
+
+    #navbar .links-section {
+        display: flex;
+        align-items: center;
+    }
+
+
+    #navbar .guest-section,
+    #navbar .user-section {
+        display: none;
+        align-items: center;
+    }
+
+    .navbar__link:not(.--highlighted):hover {
+        box-shadow: inset 400px 50px 0 0 var(--clr-pink);
+        -webkit-transition: ease-out 1.4s;
+        -moz-transition: ease-out 1.4s;
+        transition: ease-out 1.4s;
+    }
+
+    .navbar__link {
+        padding: 8px;
+    }
+
+    .user-section__logout,
+    .navbar__li {
+        font-family: var(--font-secondary);
+        text-transform: uppercase;
+    }
+
+
+    .user-section__logout:hover,
+    .navbar__link.--highlighted:hover {
+        background-color: var(--clr-primary);
+        color: var(--clr-background);
+        border: 3px solid var(--clr-background);
+
+        -webkit-transition: all 0.4s ease-in-out;
+        -moz-transition: all 0.4s ease-in-out;
+        -ms-transition: all 0.4s ease-in-out;
+        -o-transition: all 0.4s ease-in-out;
+        transition: all 0.4s ease-in-out;
+    }
+
+    .user-section__logout,
+    .navbar__link.--highlighted {
+        padding: 4px 24px;
+    }
+}
+
+@media (max-width: 1079px) {
+    .navbar__logo {
+        display: inline-block;
+        width: 24%;
+        padding: 1rem 2rem;
+    }
+
+    
+    .navbar__controls {
+        box-sizing: border-box;
+        width: 50%;
+        display: inline-block;
+        text-align: right;
+        vertical-align: top;
+        margin-top: 8%;
+    }
+
+    .navbar__controls__icon.fa-bars {
+        transform: scale(1.5);
+        font-size: 1.25rem;
+        color: var(--clr-white);
+    }
+
+    .navbar__controls__icon.fa-xmark {
+        display: none;
+        transform: scale(1.5);
+        font-size: 1.25rem;
+        color: var(--clr-pink);
+    }
+
+    .user-section__name {
+        font-size: 1.2rem;
+    }
+
+    #navbar .links-section {
+        display: none;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .user-section {
+        justify-content: center;
+    }
+
+    .user-section__logout {
+        font-family: var(--font-secondary);
+        text-transform: uppercase;
+    }
+
+    .links-section .navbar__li {
+        width: 65%;
+        padding-bottom: 4px;
+        padding-left: 16px;
+
+        text-align: left;
+        border-bottom: 2px solid var(--clr-pink);
+    }
+
+    .links-section .navbar__link {
+        margin: 0px;
+    }
+
+    .navbar__link {
+        font-family: var(--font-secondary);
+    }
+
+    .guest-section,
+    .user-section {
+        display: none;
+    }
+
+    
+    .guest-section .navbar__li {
+        margin: auto auto;
+    }
+
+    .user-section,
+    .guest-section {
+        width: 80%;
+        margin: auto auto;
+        padding: 2rem;
+    }
+
+    .user-section__logout,
+    .navbar__link.--highlighted {
+        padding: 2px 16px;
+    }
+}
+
+nav {
+    background-color: var(--clr-primary);
+}
+
+.user-section__logout,
+.navbar__link {
+    margin-left: 3rem;
+    font-size: 1.6rem;
+
+    color: var(--clr-secondary);
+    text-decoration: none;
+
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 var(--clr-pink);
+    -webkit-transition: ease-out 0.8s;
+    -moz-transition: ease-out 0.8s;
+    transition: ease-out 0.8s;
+}
+
+.user-section__logout,
+.navbar__link.--highlighted {
+    background-color: var(--clr-background);
+    color: var(--clr-primary);
+
+    font-weight: bold;
+    border-radius: 10px;
+    letter-spacing: 1.65px;
+    border: 3px solid transparent;
+
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+
+.user-section__name {
+    color: var(--clr-pink);
+    font-weight: bold;
+    font-family: var(--font-primary);
+}

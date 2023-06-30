@@ -35,10 +35,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -46,10 +46,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -60,7 +60,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -77,7 +77,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -88,7 +88,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -99,7 +99,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -116,7 +116,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -124,17 +124,21 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
                         android:id="@+id/firstRow_leftGrid_ninth"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
+                        android:text=""
                         android:layout_weight="1"
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
             </LinearLayout>
@@ -155,10 +159,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -166,10 +170,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -180,7 +184,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -197,7 +201,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -208,7 +212,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -219,7 +223,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -236,7 +240,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -244,10 +248,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -255,6 +259,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:text=""
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
             </LinearLayout>
@@ -275,10 +283,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -286,10 +294,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -300,7 +308,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -317,7 +325,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -328,7 +336,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -339,7 +347,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -356,7 +364,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light"
                         tools:ignore="NestedWeights" />
 
@@ -365,14 +373,17 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
                         android:id="@+id/firstRow_rightGrid_ninth"
+                        android:textSize="24sp"
+                        android:gravity="center"
+                        android:textAlignment="center"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -404,10 +415,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light"
                         tools:ignore="NestedWeights" />
 
@@ -416,10 +427,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -430,7 +441,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -447,7 +458,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -458,7 +469,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -469,7 +480,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -486,7 +497,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -494,10 +505,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -505,6 +516,9 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="24sp"
+                        android:textAlignment="center"
+                        android:gravity="center"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
             </LinearLayout>
@@ -526,10 +540,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -537,10 +551,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -551,7 +565,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -568,7 +582,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -579,7 +593,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -590,7 +604,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -607,7 +621,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -615,10 +629,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -626,6 +640,9 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="24sp"
+                        android:textAlignment="center"
+                        android:gravity="center"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
             </LinearLayout>
@@ -647,10 +664,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -658,10 +675,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -672,7 +689,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -689,7 +706,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -700,7 +717,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -711,7 +728,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -728,7 +745,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light"
                         tools:ignore="TooManyViews" />
 
@@ -737,14 +754,17 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
                         android:id="@+id/middleRow_rightGrid_ninth"
+                        android:textSize="24sp"
+                        android:textAlignment="center"
+                        android:gravity="center"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -776,10 +796,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -787,10 +807,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -801,7 +821,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -818,7 +838,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -829,7 +849,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -840,7 +860,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -857,7 +877,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -865,10 +885,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -876,6 +896,9 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="24sp"
+                        android:textAlignment="center"
+                        android:gravity="center"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
             </LinearLayout>
@@ -897,10 +920,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -908,10 +931,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -922,7 +945,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -939,7 +962,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -950,7 +973,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -961,7 +984,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -978,7 +1001,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -986,16 +1009,19 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
                         android:id="@+id/lastRow_middleGrid_ninth"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
+                        android:textSize="24sp"
+                        android:textAlignment="center"
+                        android:gravity="center"
                         android:layout_weight="1"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
@@ -1018,10 +1044,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_9"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -1029,10 +1055,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_1"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -1043,7 +1069,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -1060,7 +1086,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -1071,7 +1097,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -1082,7 +1108,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
                 </LinearLayout>
                 <LinearLayout
@@ -1099,7 +1125,7 @@
                         android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
@@ -1107,14 +1133,17 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="@string/_7"
+                        android:text=""
                         android:gravity="center"
                         android:textAlignment="center"
-                        android:textSize="40sp"
+                        android:textSize="24sp"
                         android:background="@drawable/border_light" />
 
                     <TextView
                         android:id="@+id/lastRow_rightGrid_ninth"
+                        android:textSize="24sp"
+                        android:textAlignment="center"
+                        android:gravity="center"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -1154,8 +1183,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_1"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
 
                     <Button
@@ -1163,8 +1193,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_2"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
 
                     <Button
@@ -1172,8 +1203,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_3"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
                 </LinearLayout>
 
@@ -1189,8 +1221,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_4"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
 
                     <Button
@@ -1198,8 +1231,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_5"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
 
                     <Button
@@ -1207,8 +1241,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_6"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
                 </LinearLayout>
 
@@ -1224,8 +1259,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_7"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
 
                     <Button
@@ -1233,8 +1269,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_8"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
 
                     <Button
@@ -1242,8 +1279,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:textSize="18sp"
                         android:text="@string/_9"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         style="?android:attr/buttonBarButtonStyle" />
                 </LinearLayout>
             </LinearLayout>
@@ -1255,21 +1293,26 @@
                 android:orientation="vertical">
 
                 <Button
-                    android:id="@+id/button_delete"
+                    android:id="@+id/checkBtn"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:text="@string/delete"
+                    android:textSize="18sp"
+                    android:text="@string/check"
                     style="?android:attr/buttonBarButtonStyle"
                     tools:ignore="NestedWeights" />
 
-                <Button
-                    android:id="@+id/button_edit"
-                    android:layout_width="match_parent"
+                <TextView
+                    android:id="@+id/resultTextView"
                     android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:text="@string/not_checked"
                     android:layout_weight="1"
-                    android:text="@string/edit"
-                    style="?android:attr/buttonBarButtonStyle"/>
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    />
+
+
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>

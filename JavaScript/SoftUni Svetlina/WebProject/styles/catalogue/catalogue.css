@@ -1,0 +1,106 @@
+@import "./card.css";
+@import "./banner.css";
+
+@media (min-width: 1080px) {
+    .missing-text {
+        font-size: 2.5rem;
+        padding: 1.5rem 3.5rem;
+    }
+
+    .card-creation {
+        width: 30%;
+    }
+}
+
+@media (max-width: 1079px) {
+    .missing-text {
+        font-size: 1.5rem;
+        width: 50%;
+        text-align: center;
+        padding: 1rem 3rem;
+    }
+
+    .card-creation {
+        box-sizing: border-box;
+        flex-wrap: wrap;
+        width: 100%
+    }
+
+    .card-creation span {
+        display: none;
+    }
+}
+
+
+.card-creation {
+    margin: 0 auto;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    align-items: center;
+
+    font-size: 2rem;
+
+    padding: 1rem;
+}
+
+.card-creation .card-creation__heading {
+    font-family: var(--font-primary);
+}
+
+.card-creation .card-creation__button {
+    color: var(--clr-white);
+    background-color: var(--clr-green);
+    border: 2px solid transparent;
+
+    cursor: pointer;
+    font-size: 1.5rem;
+    padding: 0.25rem 2rem;
+
+    -webkit-transition: all 0.15s ease-in-out;
+    -moz-transition: all 0.15s ease-in-out;
+    -ms-transition: all 0.15s ease-in-out;
+    -o-transition: all 0.15s ease-in-out;
+    transition: all 0.15s ease-in-out;
+}
+
+.card-creation .card-creation__button:hover {
+    background-color: transparent;
+    border: 3px solid var(--clr-green);
+    color: var(--clr-green);
+    font-weight: bold;
+    font-size: 2rem;
+
+    -webkit-transition: all 0.15s ease-in-out;
+    -moz-transition: all 0.15s ease-in-out;
+    -ms-transition: all 0.15s ease-in-out;
+    -o-transition: all 0.15s ease-in-out;
+    transition: all 0.15s ease-in-out;
+}
+
+.card-creation .card-creation__link {
+    font-family: var(--font-secondary);
+    text-transform: uppercase;
+    text-decoration: none;
+    color: inherit;
+
+    -webkit-transition: all 0.15s ease-in-out;
+    -moz-transition: all 0.15s ease-in-out;
+    -ms-transition: all 0.15s ease-in-out;
+    -o-transition: all 0.15s ease-in-out;
+    transition: all 0.15s ease-in-out;
+}
+
+
+.missing-text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-family: var(--font-secondary);
+    letter-spacing: 1px;
+    background-color: var(--clr-primary);
+    color: var(--clr-pink);
+}
