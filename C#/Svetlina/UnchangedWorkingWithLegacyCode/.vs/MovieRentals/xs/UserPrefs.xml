@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{56110D0A-4AD9-416A-990B-C78A7BB801F2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MovieRentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OmdbAPI.cs">
+    <Files>
+      <File FileName="OmdbAPI.cs" Line="13" Column="1" />
+      <File FileName="MovieRentalApp.cs" Line="32" Column="1" />
+      <File FileName="appsettings.json" Line="3" Column="2" />
+      <File FileName="MovieRentals.csproj" Line="18" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieRentals" expanded="True">
+            <Node name="MovieRentals">
+              <Node name="OmdbAPI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

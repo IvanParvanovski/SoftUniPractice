@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/bin/Debug/net6.0/Ex1ReserveSeat
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/bin/Debug/net6.0/Ex1ReserveSeat.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/bin/Debug/net6.0/Ex1ReserveSeat.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/bin/Debug/net6.0/Ex1ReserveSeat.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/bin/Debug/net6.0/Ex1ReserveSeat.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/refint/Ex1ReserveSeat.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/Ex1ReserveSeat.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex1ReserveSeat/obj/Debug/net6.0/ref/Ex1ReserveSeat.dll

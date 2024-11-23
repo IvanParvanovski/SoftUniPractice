@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/bin/Debug/net5.0/Eventures.Data.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/bin/Debug/net5.0/Eventures.Data.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/bin/Debug/net5.0/Eventures.Data.runtimeconfig.dev.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/bin/Debug/net5.0/Eventures.Data.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/bin/Debug/net5.0/Eventures.Data.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/refint/Eventures.Data.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/Eventures.Data.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/Debug/net5.0/ref/Eventures.Data.dll

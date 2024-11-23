@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/bin/Debug/net7.0/AlternativeCombinationsAlgo
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/bin/Debug/net7.0/AlternativeCombinationsAlgo.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/bin/Debug/net7.0/AlternativeCombinationsAlgo.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/bin/Debug/net7.0/AlternativeCombinationsAlgo.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/bin/Debug/net7.0/AlternativeCombinationsAlgo.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/refint/AlternativeCombinationsAlgo.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/AlternativeCombinationsAlgo.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/AlternativeCombinationsAlgo/obj/Debug/net7.0/ref/AlternativeCombinationsAlgo.dll

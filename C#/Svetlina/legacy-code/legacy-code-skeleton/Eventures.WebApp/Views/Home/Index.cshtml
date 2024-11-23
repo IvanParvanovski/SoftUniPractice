@@ -1,0 +1,33 @@
+﻿@model HomeViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="jumbotron bg-eventures w-75 mx-auto">
+    @if (!this.User.Identity.IsAuthenticated)
+    {
+        <h1>Eventures: Events and Tickets</h1>
+        <hr class="hr-2 bg-dark" />
+        <h3 class="mt-4"><a href="/Identity/Account/Login">Login</a> to start eventuring.</h3>
+        <h5>(Default user credentials: <b>guest</b> / <b>guest</b>)</h5>
+        <h3 class="mt-4"><a href="/Identity/Account/Register">Register</a> if you don't have an account.</h3>
+    }
+    else
+    {
+        <h1 class="text-center">Welcome, @this.User.Identity.Name</h1>
+        <hr class="hr-2 bg-secondary" />
+        <h4 class="mt-4 text-secondary text-center">Eventures wishes you an exciting experience.</h4>
+        <h3 class="mt-4">View <a href="/Events/All">all events</a>.</h3>
+        <h3 class="mt-4">Create a <a href="/Events/Create">new event</a>.</h3>
+    }
+
+    <hr class="hr-2 bg-dark" />
+    <h5 class="mt-4">We already have <b>@Model.AllEventsCount</b> events on our Eventures App!</h5>
+
+    @if (Model.UserEventsCount > -1)
+    {
+        <h5 class="mt-4">You have <b>@Model.UserEventsCount</b> event(s)!</h5>
+    }
+</div>
+

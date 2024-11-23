@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/bin/Debug/net7.0/KnapsackProblem
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/bin/Debug/net7.0/KnapsackProblem.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/bin/Debug/net7.0/KnapsackProblem.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/bin/Debug/net7.0/KnapsackProblem.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/bin/Debug/net7.0/KnapsackProblem.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/refint/KnapsackProblem.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/KnapsackProblem.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/KnapsackProblem/obj/Debug/net7.0/ref/KnapsackProblem.dll

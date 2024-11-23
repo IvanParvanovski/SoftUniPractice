@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/bin/Debug/net7.0/Ex4VariationsWithRepetition
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/bin/Debug/net7.0/Ex4VariationsWithRepetition.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/bin/Debug/net7.0/Ex4VariationsWithRepetition.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/bin/Debug/net7.0/Ex4VariationsWithRepetition.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/bin/Debug/net7.0/Ex4VariationsWithRepetition.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/refint/Ex4VariationsWithRepetition.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/Ex4VariationsWithRepetition.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex4VariationsWithRepetition/obj/Debug/net7.0/ref/Ex4VariationsWithRepetition.dll

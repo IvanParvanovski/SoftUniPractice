@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{CB3088EE-CC21-4554-BDE1-8D74AABC5378}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.Ex6InOrderTraversal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.Ex4ShuffleString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ImplementationsDS.MaxHeap FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ImplementationsDS.BinarySearch FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AverageSumLevels FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DataStructure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.Ex2UniqueMorseCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ImplementationsDS.Variations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.ExTrees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.ExamFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.Ex3UnivaluedBinaryTree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ImplementationsDS.Permutations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.Ex1VaildAnagram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ImplementationsDS.BinarySearchTree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep.Ex5MaxDepthTree FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex1VaildAnagram/ExamFile/Program.cs">
+    <Files>
+      <File FileName="Ex1VaildAnagram/ExamFile/Program.cs" Line="19" Column="47" />
+      <File FileName="Ex1VaildAnagram/Ex6InOrderTraversal/Program.cs" />
+      <File FileName="MaxHeap/Variations/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithms" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

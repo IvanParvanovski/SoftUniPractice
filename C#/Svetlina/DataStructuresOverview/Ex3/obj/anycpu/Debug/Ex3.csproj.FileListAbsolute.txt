@@ -1,0 +1,5 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex3/bin/Debug/Ex3.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex3/bin/Debug/Ex3.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex3/obj/anycpu/Debug/Ex3.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex3/obj/anycpu/Debug/Ex3.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex3/obj/anycpu/Debug/Ex3.pdb

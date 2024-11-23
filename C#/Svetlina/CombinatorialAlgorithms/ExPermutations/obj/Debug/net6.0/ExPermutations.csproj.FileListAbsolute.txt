@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/bin/Debug/net6.0/ExPermutations
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/bin/Debug/net6.0/ExPermutations.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/bin/Debug/net6.0/ExPermutations.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/bin/Debug/net6.0/ExPermutations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/bin/Debug/net6.0/ExPermutations.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/refint/ExPermutations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ExPermutations.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExPermutations/obj/Debug/net6.0/ref/ExPermutations.dll

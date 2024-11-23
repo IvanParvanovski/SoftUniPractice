@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/bin/Debug/net7.0/Ex4Fuel
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/bin/Debug/net7.0/Ex4Fuel.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/bin/Debug/net7.0/Ex4Fuel.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/bin/Debug/net7.0/Ex4Fuel.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/bin/Debug/net7.0/Ex4Fuel.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/refint/Ex4Fuel.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/Ex4Fuel.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex1/Ex4/obj/Debug/net7.0/ref/Ex4Fuel.dll

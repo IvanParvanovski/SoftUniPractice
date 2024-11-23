@@ -1,0 +1,6 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/bin/Debug/MultiThreadProgramming.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/bin/Debug/MultiThreadProgramming.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/obj/Debug/MultiThreadProgramming.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/obj/Debug/MultiThreadProgramming.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/obj/Debug/MultiThreadProgramming.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/obj/Debug/MultiThreadProgramming.pdb

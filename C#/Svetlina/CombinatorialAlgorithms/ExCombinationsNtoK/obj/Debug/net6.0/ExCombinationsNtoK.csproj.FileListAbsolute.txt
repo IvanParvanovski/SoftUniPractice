@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/bin/Debug/net6.0/ExCombinationsNtoK
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/bin/Debug/net6.0/ExCombinationsNtoK.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/bin/Debug/net6.0/ExCombinationsNtoK.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/bin/Debug/net6.0/ExCombinationsNtoK.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/bin/Debug/net6.0/ExCombinationsNtoK.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/refint/ExCombinationsNtoK.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ExCombinationsNtoK.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/ExCombinationsNtoK/obj/Debug/net6.0/ref/ExCombinationsNtoK.dll

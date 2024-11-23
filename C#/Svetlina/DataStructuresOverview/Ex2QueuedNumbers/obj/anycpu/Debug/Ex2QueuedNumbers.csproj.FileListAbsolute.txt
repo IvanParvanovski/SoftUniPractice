@@ -1,0 +1,6 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex2QueuedNumbers/bin/Debug/Ex2QueuedNumbers.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex2QueuedNumbers/bin/Debug/Ex2QueuedNumbers.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex2QueuedNumbers/obj/anycpu/Debug/Ex2QueuedNumbers.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex2QueuedNumbers/obj/anycpu/Debug/Ex2QueuedNumbers.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex2QueuedNumbers/obj/anycpu/Debug/Ex2QueuedNumbers.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/Ex2QueuedNumbers/obj/anycpu/Debug/Ex2QueuedNumbers.pdb

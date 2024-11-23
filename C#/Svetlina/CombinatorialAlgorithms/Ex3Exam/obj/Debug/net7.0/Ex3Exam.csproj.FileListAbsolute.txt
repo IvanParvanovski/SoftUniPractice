@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/bin/Debug/net7.0/Ex3Exam
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/bin/Debug/net7.0/Ex3Exam.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/bin/Debug/net7.0/Ex3Exam.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/bin/Debug/net7.0/Ex3Exam.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/bin/Debug/net7.0/Ex3Exam.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/refint/Ex3Exam.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/Ex3Exam.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3Exam/obj/Debug/net7.0/ref/Ex3Exam.dll

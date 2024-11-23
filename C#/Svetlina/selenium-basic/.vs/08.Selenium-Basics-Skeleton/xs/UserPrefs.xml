@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{35C0FAFA-0893-47D2-9761-8A6980DA357C}|Default">
+  <MonoDevelop.Ide.ItemProperties.SeleniumTestsProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/selenium-basic/URLShortenerSeleniumTests.cs" relfile="URLShortenerSeleniumTests.cs" line="25" column="1" />
+      <Breakpoint file="/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/selenium-basic/URLShortenerSeleniumTests.cs" relfile="URLShortenerSeleniumTests.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="URLShortenerSeleniumTests.cs">
+    <Files>
+      <File FileName="URLShortenerSeleniumTests.cs" Line="45" Column="17" />
+      <File FileName="WikipediaSeleniumTests.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="08.Selenium-Basics-Skeleton" expanded="True">
+            <Node name="SeleniumTestsProject">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="URLShortenerSeleniumTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="08.Selenium-Basics-Skeleton">
+            <Node name="SeleniumTestsProject">
+              <Node name="SeleniumTestsProject">
+                <Node name="URLShortenerSeleniumTests">
+                  <Node name="Test_HomePage_Valid - fe2a2460-6db2-4c2d-25ec-359962500aa1" selected="True" />
+                </Node>
+                <Node name="WikipediaSeleniumTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

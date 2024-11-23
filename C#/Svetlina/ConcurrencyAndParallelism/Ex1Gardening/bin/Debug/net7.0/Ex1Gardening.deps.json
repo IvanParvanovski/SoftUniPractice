@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex1Gardening/1.0.0": {
+        "runtime": {
+          "Ex1Gardening.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex1Gardening/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

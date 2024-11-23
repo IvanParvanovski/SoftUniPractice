@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/bin/Debug/net7.0/DijkstraAlgorithm
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/bin/Debug/net7.0/DijkstraAlgorithm.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/bin/Debug/net7.0/DijkstraAlgorithm.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/bin/Debug/net7.0/DijkstraAlgorithm.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/bin/Debug/net7.0/DijkstraAlgorithm.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/refint/DijkstraAlgorithm.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/DijkstraAlgorithm.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/DijkstraAlgorithm/obj/Debug/net7.0/ref/DijkstraAlgorithm.dll

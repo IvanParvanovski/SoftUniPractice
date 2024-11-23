@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0ACB3FB7-5965-4B50-A392-4CB50A96E222}|Eventures.WebApp Console">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Eventures.WebApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eventures.Services/Infrastructure/ServiceMappingProfile.cs">
+    <Files>
+      <File FileName="Eventures.Services/EventService.cs" Line="18" Column="16" />
+      <File FileName="Eventures.WebApp.UnitTests/EventServiceTests.cs" Line="31" Column="64" />
+      <File FileName="Eventures.WebApp.UnitTests/UnitTestsBase.cs" Line="20" Column="32" />
+      <File FileName="Eventures.Tests.Common/TestDb.cs" Line="11" Column="24" />
+      <File FileName="Eventures.Data/Event.cs" Line="1" Column="1" />
+      <File FileName="Eventures.Services/Models/EventServiceModel.cs" Line="1" Column="1" />
+      <File FileName="Eventures.Services/Infrastructure/ServiceMappingProfile.cs" Line="17" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eventures">
+            <Node name="Eventures.Services" expanded="True" />
+            <Node name="Eventures.Tests.Common" expanded="True" />
+            <Node name="Eventures.WebApp.UnitTests">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

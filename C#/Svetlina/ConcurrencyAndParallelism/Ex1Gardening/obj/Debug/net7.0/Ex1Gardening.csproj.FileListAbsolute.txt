@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/bin/Debug/net7.0/Ex1Gardening
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/bin/Debug/net7.0/Ex1Gardening.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/bin/Debug/net7.0/Ex1Gardening.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/bin/Debug/net7.0/Ex1Gardening.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/bin/Debug/net7.0/Ex1Gardening.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/refint/Ex1Gardening.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/Ex1Gardening.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ConcurrencyAndParallelism/Ex1Gardening/obj/Debug/net7.0/ref/Ex1Gardening.dll

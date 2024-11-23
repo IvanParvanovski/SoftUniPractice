@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/bin/Debug/net7.0/Ex3VariationsWithoutRepetitions
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/bin/Debug/net7.0/Ex3VariationsWithoutRepetitions.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/bin/Debug/net7.0/Ex3VariationsWithoutRepetitions.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/bin/Debug/net7.0/Ex3VariationsWithoutRepetitions.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/bin/Debug/net7.0/Ex3VariationsWithoutRepetitions.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/refint/Ex3VariationsWithoutRepetitions.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/Ex3VariationsWithoutRepetitions.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex3VariationsWithoutRepetitions/obj/Debug/net7.0/ref/Ex3VariationsWithoutRepetitions.dll

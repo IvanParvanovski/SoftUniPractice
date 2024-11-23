@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/bin/Debug/net6.0/Ex2Bank
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/bin/Debug/net6.0/Ex2Bank.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/bin/Debug/net6.0/Ex2Bank.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/bin/Debug/net6.0/Ex2Bank.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/bin/Debug/net6.0/Ex2Bank.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/refint/Ex2Bank.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/Ex2Bank.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AsynchronousProgramming/Ex2Bank/obj/Debug/net6.0/ref/Ex2Bank.dll

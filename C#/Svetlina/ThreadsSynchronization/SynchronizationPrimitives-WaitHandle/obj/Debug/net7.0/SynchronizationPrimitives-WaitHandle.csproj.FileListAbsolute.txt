@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/bin/Debug/net7.0/SynchronizationPrimitives-WaitHandle
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/bin/Debug/net7.0/SynchronizationPrimitives-WaitHandle.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/bin/Debug/net7.0/SynchronizationPrimitives-WaitHandle.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/bin/Debug/net7.0/SynchronizationPrimitives-WaitHandle.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/bin/Debug/net7.0/SynchronizationPrimitives-WaitHandle.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/refint/SynchronizationPrimitives-WaitHandle.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/SynchronizationPrimitives-WaitHandle.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-WaitHandle/obj/Debug/net7.0/ref/SynchronizationPrimitives-WaitHandle.dll

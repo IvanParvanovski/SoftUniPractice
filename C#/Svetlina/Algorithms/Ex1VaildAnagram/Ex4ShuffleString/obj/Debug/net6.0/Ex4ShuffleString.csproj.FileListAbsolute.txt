@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/bin/Debug/net6.0/Ex4ShuffleString
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/bin/Debug/net6.0/Ex4ShuffleString.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/bin/Debug/net6.0/Ex4ShuffleString.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/bin/Debug/net6.0/Ex4ShuffleString.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/bin/Debug/net6.0/Ex4ShuffleString.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/refint/Ex4ShuffleString.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/Ex4ShuffleString.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex4ShuffleString/obj/Debug/net6.0/ref/Ex4ShuffleString.dll

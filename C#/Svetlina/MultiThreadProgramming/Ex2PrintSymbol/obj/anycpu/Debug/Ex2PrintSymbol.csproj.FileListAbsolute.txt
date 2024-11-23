@@ -1,0 +1,5 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2PrintSymbol/bin/Debug/Ex2PrintSymbol.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2PrintSymbol/bin/Debug/Ex2PrintSymbol.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2PrintSymbol/obj/anycpu/Debug/Ex2PrintSymbol.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2PrintSymbol/obj/anycpu/Debug/Ex2PrintSymbol.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2PrintSymbol/obj/anycpu/Debug/Ex2PrintSymbol.pdb

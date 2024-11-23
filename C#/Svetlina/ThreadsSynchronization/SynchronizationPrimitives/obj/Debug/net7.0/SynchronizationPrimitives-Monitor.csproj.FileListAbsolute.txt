@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/bin/Debug/net7.0/SynchronizationPrimitives-Monitor
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/bin/Debug/net7.0/SynchronizationPrimitives-Monitor.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/bin/Debug/net7.0/SynchronizationPrimitives-Monitor.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/bin/Debug/net7.0/SynchronizationPrimitives-Monitor.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/bin/Debug/net7.0/SynchronizationPrimitives-Monitor.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/refint/SynchronizationPrimitives-Monitor.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/SynchronizationPrimitives-Monitor.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives/obj/Debug/net7.0/ref/SynchronizationPrimitives-Monitor.dll

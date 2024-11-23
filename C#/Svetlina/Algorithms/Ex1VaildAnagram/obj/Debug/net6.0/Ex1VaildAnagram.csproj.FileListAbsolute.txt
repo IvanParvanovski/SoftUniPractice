@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/bin/Debug/net6.0/Ex1VaildAnagram
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/bin/Debug/net6.0/Ex1VaildAnagram.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/bin/Debug/net6.0/Ex1VaildAnagram.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/bin/Debug/net6.0/Ex1VaildAnagram.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/bin/Debug/net6.0/Ex1VaildAnagram.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/refint/Ex1VaildAnagram.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/Ex1VaildAnagram.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/obj/Debug/net6.0/ref/Ex1VaildAnagram.dll

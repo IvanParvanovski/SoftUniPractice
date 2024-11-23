@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/bin/Debug/net7.0/GreadyActivitySelection
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/bin/Debug/net7.0/GreadyActivitySelection.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/bin/Debug/net7.0/GreadyActivitySelection.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/bin/Debug/net7.0/GreadyActivitySelection.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/bin/Debug/net7.0/GreadyActivitySelection.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/refint/GreadyActivitySelection.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/GreadyActivitySelection.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/GreadyActivitySelection/obj/Debug/net7.0/ref/GreadyActivitySelection.dll

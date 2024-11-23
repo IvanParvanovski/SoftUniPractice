@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/bin/Debug/net7.0/AlgorithmsFirstTerm
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/bin/Debug/net7.0/AlgorithmsFirstTerm.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/bin/Debug/net7.0/AlgorithmsFirstTerm.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/bin/Debug/net7.0/AlgorithmsFirstTerm.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/bin/Debug/net7.0/AlgorithmsFirstTerm.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/refint/AlgorithmsFirstTerm.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/AlgorithmsFirstTerm.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/AlgorithmsFirstTerm/AlgorithmsFirstTerm/obj/Debug/net7.0/ref/AlgorithmsFirstTerm.dll

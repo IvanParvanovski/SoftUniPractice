@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/bin/Debug/net6.0/ExamFile
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/bin/Debug/net6.0/ExamFile.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/bin/Debug/net6.0/ExamFile.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/bin/Debug/net6.0/ExamFile.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/bin/Debug/net6.0/ExamFile.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/refint/ExamFile.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ExamFile.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/ExamFile/obj/Debug/net6.0/ref/ExamFile.dll

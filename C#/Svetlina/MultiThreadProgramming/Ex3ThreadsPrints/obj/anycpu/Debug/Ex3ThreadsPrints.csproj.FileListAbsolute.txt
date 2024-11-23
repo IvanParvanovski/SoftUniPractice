@@ -1,0 +1,5 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex3ThreadsPrints/bin/Debug/Ex3ThreadsPrints.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex3ThreadsPrints/bin/Debug/Ex3ThreadsPrints.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex3ThreadsPrints/obj/anycpu/Debug/Ex3ThreadsPrints.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex3ThreadsPrints/obj/anycpu/Debug/Ex3ThreadsPrints.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex3ThreadsPrints/obj/anycpu/Debug/Ex3ThreadsPrints.pdb

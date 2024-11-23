@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9668C89C-5C03-46E5-9F64-5976AD7B8710}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SynchronizationPrimitives-Mutex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DeadlockTechniques PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ThreadsSynchronization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SynchronizationPrimitives-Semaphore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SynchronizationPrimitives-Monitor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SynchronizationPrimitives-WaitHandle/Program.cs">
+    <Files>
+      <File FileName="SynchronizationPrimitives-WaitHandle/Program.cs" Line="21" Column="40" />
+      <File FileName="SynchronizationPrimitives/Program.cs" Line="41" Column="10" />
+      <File FileName="SynchronizationPrimitives-Mutex/Program.cs" Line="20" Column="43" />
+      <File FileName="SynchronizationPrimitives-Semaphore/Program.cs" Line="11" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThreadsSynchronization" expanded="True">
+            <Node name="SynchronizationPrimitives-WaitHandle">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SynchronizationPrimitives-WaitHandle PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

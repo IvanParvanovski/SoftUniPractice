@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9B4893F5-9629-46E3-A7F3-B377EAA199CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex2QueuedNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex3/Program.cs">
+    <Files>
+      <File FileName="Ex1Message/Program.cs" Line="3" Column="30" />
+      <File FileName="Ex2QueuedNumbers/Program.cs" Line="11" Column="1" />
+      <File FileName="Ex3/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataStructuresOverview" expanded="True">
+            <Node name="DataStructuresOverview" expanded="True" />
+            <Node name="Ex1Message" expanded="True" />
+            <Node name="Ex2QueuedNumbers" expanded="True" />
+            <Node name="Ex3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ex6SetOfElements" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DataStructuresOverview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex1Message FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ex6SetOfElements FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

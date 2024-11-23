@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{3C8AB6FC-229E-4909-AAB5-2A3266081E48}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex4Boom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex3ForwardAndBack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex1HotAndCold PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex3ThreadsPrints PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MultiThreadProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex1EvenNumbers/Program.cs">
+    <Files>
+      <File FileName="Ex1EvenNumbers/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiThreadProgramming" expanded="True">
+            <Node name="Ex1EvenNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ex1HotAndCold" expanded="True" />
+            <Node name="Ex2HotAndCold2" expanded="True" />
+            <Node name="Ex2PrintSymbol" expanded="True" />
+            <Node name="Ex3ForwardAndBack" expanded="True" />
+            <Node name="Ex3ThreadsPrints" expanded="True" />
+            <Node name="Ex4Boom" expanded="True" />
+            <Node name="Ex4MultipleThreads" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex2PrintSymbol PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex1EvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ex4MultipleThreads PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Ex2HotAndCold2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/MultiThreadProgramming/Program.cs" relfile="MultiThreadProgramming/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

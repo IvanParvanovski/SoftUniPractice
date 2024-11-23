@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex6CombinationsWithoutRepetition/1.0.0": {
+        "runtime": {
+          "Ex6CombinationsWithoutRepetition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex6CombinationsWithoutRepetition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

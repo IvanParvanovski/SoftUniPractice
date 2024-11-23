@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseAlgorithms", "TraverseAlgorithms\TraverseAlgorithms.csproj", "{59F7EEC7-EF84-47DD-967D-E1382FFFD770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{1C5C86E4-A651-4E94-B91B-6FE80AEBCA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F7EEC7-EF84-47DD-967D-E1382FFFD770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F7EEC7-EF84-47DD-967D-E1382FFFD770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F7EEC7-EF84-47DD-967D-E1382FFFD770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F7EEC7-EF84-47DD-967D-E1382FFFD770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5C86E4-A651-4E94-B91B-6FE80AEBCA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5C86E4-A651-4E94-B91B-6FE80AEBCA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5C86E4-A651-4E94-B91B-6FE80AEBCA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5C86E4-A651-4E94-B91B-6FE80AEBCA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C4CC4B-A4B3-47F5-BF4E-7FF5D253174B}
+	EndGlobalSection
+EndGlobal

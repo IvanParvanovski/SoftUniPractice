@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/bin/Debug/net7.0/CombinatorialAlgorithms
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/bin/Debug/net7.0/CombinatorialAlgorithms.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/bin/Debug/net7.0/CombinatorialAlgorithms.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/bin/Debug/net7.0/CombinatorialAlgorithms.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/bin/Debug/net7.0/CombinatorialAlgorithms.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/refint/CombinatorialAlgorithms.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/CombinatorialAlgorithms.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/CombinatorialAlgorithms/obj/Debug/net7.0/ref/CombinatorialAlgorithms.dll

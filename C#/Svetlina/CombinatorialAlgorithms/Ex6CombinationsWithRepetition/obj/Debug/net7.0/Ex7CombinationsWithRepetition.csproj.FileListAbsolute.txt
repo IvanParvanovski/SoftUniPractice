@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/bin/Debug/net7.0/Ex7CombinationsWithRepetition
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/bin/Debug/net7.0/Ex7CombinationsWithRepetition.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/bin/Debug/net7.0/Ex7CombinationsWithRepetition.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/bin/Debug/net7.0/Ex7CombinationsWithRepetition.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/bin/Debug/net7.0/Ex7CombinationsWithRepetition.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/refint/Ex7CombinationsWithRepetition.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/Ex7CombinationsWithRepetition.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/CombinatorialAlgorithms/Ex6CombinationsWithRepetition/obj/Debug/net7.0/ref/Ex7CombinationsWithRepetition.dll

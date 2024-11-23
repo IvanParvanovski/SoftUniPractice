@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/bin/Debug/net7.0/DeadlockTechniques
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/bin/Debug/net7.0/DeadlockTechniques.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/bin/Debug/net7.0/DeadlockTechniques.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/bin/Debug/net7.0/DeadlockTechniques.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/bin/Debug/net7.0/DeadlockTechniques.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/refint/DeadlockTechniques.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/DeadlockTechniques.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/DeadlockTechniques/obj/Debug/net7.0/ref/DeadlockTechniques.dll

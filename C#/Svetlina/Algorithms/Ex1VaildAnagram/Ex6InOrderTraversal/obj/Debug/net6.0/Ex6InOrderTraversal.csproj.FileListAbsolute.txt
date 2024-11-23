@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/bin/Debug/net6.0/Ex6InOrderTraversal
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/bin/Debug/net6.0/Ex6InOrderTraversal.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/bin/Debug/net6.0/Ex6InOrderTraversal.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/bin/Debug/net6.0/Ex6InOrderTraversal.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/bin/Debug/net6.0/Ex6InOrderTraversal.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/refint/Ex6InOrderTraversal.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/Ex6InOrderTraversal.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex6InOrderTraversal/obj/Debug/net6.0/ref/Ex6InOrderTraversal.dll

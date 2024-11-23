@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/bin/Debug/net7.0/SynchronizationPrimitives-Semaphore
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/bin/Debug/net7.0/SynchronizationPrimitives-Semaphore.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/bin/Debug/net7.0/SynchronizationPrimitives-Semaphore.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/bin/Debug/net7.0/SynchronizationPrimitives-Semaphore.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/bin/Debug/net7.0/SynchronizationPrimitives-Semaphore.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/refint/SynchronizationPrimitives-Semaphore.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/SynchronizationPrimitives-Semaphore.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Semaphore/obj/Debug/net7.0/ref/SynchronizationPrimitives-Semaphore.dll

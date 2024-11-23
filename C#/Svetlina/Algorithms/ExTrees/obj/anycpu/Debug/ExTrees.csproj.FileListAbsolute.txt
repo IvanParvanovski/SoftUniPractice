@@ -1,0 +1,6 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/ExTrees/bin/Debug/ExTrees.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/ExTrees/bin/Debug/ExTrees.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/ExTrees/obj/anycpu/Debug/ExTrees.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/ExTrees/obj/anycpu/Debug/ExTrees.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/ExTrees/obj/anycpu/Debug/ExTrees.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/ExTrees/obj/anycpu/Debug/ExTrees.csproj.AssemblyReference.cache

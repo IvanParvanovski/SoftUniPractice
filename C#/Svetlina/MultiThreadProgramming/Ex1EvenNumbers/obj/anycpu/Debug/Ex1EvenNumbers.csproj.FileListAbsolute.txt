@@ -1,0 +1,6 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex1EvenNumbers/bin/Debug/Ex1EvenNumbers.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex1EvenNumbers/bin/Debug/Ex1EvenNumbers.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex1EvenNumbers/obj/anycpu/Debug/Ex1EvenNumbers.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex1EvenNumbers/obj/anycpu/Debug/Ex1EvenNumbers.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex1EvenNumbers/obj/anycpu/Debug/Ex1EvenNumbers.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex1EvenNumbers/obj/anycpu/Debug/Ex1EvenNumbers.pdb

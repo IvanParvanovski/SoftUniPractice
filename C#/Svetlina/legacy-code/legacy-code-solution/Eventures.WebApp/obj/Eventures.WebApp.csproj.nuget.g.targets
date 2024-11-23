@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)tinymce/6.2.0/build/TinyMCE.targets" Condition="Exists('$(NuGetPackageRoot)tinymce/6.2.0/build/TinyMCE.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui/5.0.9/buildTransitive/Microsoft.AspnetCore.Identity.UI.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui/5.0.9/buildTransitive/Microsoft.AspnetCore.Identity.UI.targets')" />
+  </ImportGroup>
+</Project>

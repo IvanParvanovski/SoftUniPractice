@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/bin/Debug/net7.0/ThreadsSynchronization
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/bin/Debug/net7.0/ThreadsSynchronization.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/bin/Debug/net7.0/ThreadsSynchronization.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/bin/Debug/net7.0/ThreadsSynchronization.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/bin/Debug/net7.0/ThreadsSynchronization.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/refint/ThreadsSynchronization.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ThreadsSynchronization.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/ThreadsSynchronization/obj/Debug/net7.0/ref/ThreadsSynchronization.dll

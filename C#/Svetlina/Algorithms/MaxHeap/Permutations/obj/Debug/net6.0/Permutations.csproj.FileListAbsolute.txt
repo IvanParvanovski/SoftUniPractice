@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/bin/Debug/net6.0/Permutations
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/bin/Debug/net6.0/Permutations.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/bin/Debug/net6.0/Permutations.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/bin/Debug/net6.0/Permutations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/bin/Debug/net6.0/Permutations.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/refint/Permutations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/Permutations.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Permutations/obj/Debug/net6.0/ref/Permutations.dll

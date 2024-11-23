@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1C5C86E4-A651-4E94-B91B-6FE80AEBCA7E}|Default">
+  <MonoDevelop.Ide.ItemProperties.TraverseAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sudoku/Program.cs">
+    <Files>
+      <File FileName="TraverseAlgorithms/Program.cs" Line="11" Column="1" />
+      <File FileName="Sudoku/Program.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TraverseAlgorithms" expanded="True">
+            <Node name="Sudoku">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>result</Value>
+          <Value>matrix</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sudoku PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

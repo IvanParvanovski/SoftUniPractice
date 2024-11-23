@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/bin/Debug/net6.0/Variations
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/bin/Debug/net6.0/Variations.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/bin/Debug/net6.0/Variations.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/bin/Debug/net6.0/Variations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/bin/Debug/net6.0/Variations.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/refint/Variations.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/Variations.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/Variations/obj/Debug/net6.0/ref/Variations.dll

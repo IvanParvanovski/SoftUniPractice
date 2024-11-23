@@ -1,0 +1,5 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex4MultipleThreads/bin/Debug/Ex4MultipleThreads.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex4MultipleThreads/bin/Debug/Ex4MultipleThreads.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex4MultipleThreads/obj/anycpu/Debug/Ex4MultipleThreads.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex4MultipleThreads/obj/anycpu/Debug/Ex4MultipleThreads.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex4MultipleThreads/obj/anycpu/Debug/Ex4MultipleThreads.pdb

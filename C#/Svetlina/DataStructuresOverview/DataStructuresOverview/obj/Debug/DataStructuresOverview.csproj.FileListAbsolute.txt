@@ -1,0 +1,6 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/DataStructuresOverview/bin/Debug/DataStructuresOverview.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/DataStructuresOverview/bin/Debug/DataStructuresOverview.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/DataStructuresOverview/obj/Debug/DataStructuresOverview.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/DataStructuresOverview/obj/Debug/DataStructuresOverview.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/DataStructuresOverview/obj/Debug/DataStructuresOverview.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/DataStructuresOverview/DataStructuresOverview/obj/Debug/DataStructuresOverview.pdb

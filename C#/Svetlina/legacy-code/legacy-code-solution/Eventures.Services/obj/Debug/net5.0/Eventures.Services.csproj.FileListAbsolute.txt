@@ -1,0 +1,15 @@
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\bin\Debug\net5.0\Eventures.Services.deps.json
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\bin\Debug\net5.0\Eventures.Services.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\bin\Debug\net5.0\Eventures.Services.pdb
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\bin\Debug\net5.0\Eventures.Data.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\bin\Debug\net5.0\Eventures.Data.pdb
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.csproj.AssemblyReference.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.AssemblyInfoInputs.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.AssemblyInfo.cs
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.csproj.CoreCompileInputs.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.csproj.CopyComplete
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\refint\Eventures.Services.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\Eventures.Services.pdb
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Services\obj\Debug\net5.0\ref\Eventures.Services.dll

@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/bin/Debug/net6.0/DataStructure
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/bin/Debug/net6.0/DataStructure.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/bin/Debug/net6.0/DataStructure.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/bin/Debug/net6.0/DataStructure.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/bin/Debug/net6.0/DataStructure.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/refint/DataStructure.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/DataStructure.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/DataStructure/obj/Debug/net6.0/ref/DataStructure.dll

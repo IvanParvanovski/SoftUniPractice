@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/bin/Debug/net6.0/Ex2UniqueMorseCode
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/bin/Debug/net6.0/Ex2UniqueMorseCode.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/bin/Debug/net6.0/Ex2UniqueMorseCode.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/bin/Debug/net6.0/Ex2UniqueMorseCode.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/bin/Debug/net6.0/Ex2UniqueMorseCode.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/refint/Ex2UniqueMorseCode.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/Ex2UniqueMorseCode.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex2UniqueMorseCode/obj/Debug/net6.0/ref/Ex2UniqueMorseCode.dll

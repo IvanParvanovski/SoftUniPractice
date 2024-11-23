@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/bin/Debug/net6.0/BinarySearchTree
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/bin/Debug/net6.0/BinarySearchTree.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/bin/Debug/net6.0/BinarySearchTree.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/bin/Debug/net6.0/BinarySearchTree.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/bin/Debug/net6.0/BinarySearchTree.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/refint/BinarySearchTree.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/BinarySearchTree.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/MaxHeap/BinarySearchTree/obj/Debug/net6.0/ref/BinarySearchTree.dll

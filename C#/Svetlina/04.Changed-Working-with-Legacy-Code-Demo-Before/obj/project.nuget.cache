@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "cILsjay5RdcH4JORuquvmsCBmPjbvxKibc4a6561UzwQJ3J7fgLBKF5tlTpteP/tWkYehSWkFUM1W69TZNZVyQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/04.Changed-Working-with-Legacy-Code-Demo-Before/MovieRentals.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.configuration.usersecrets/6.0.1/microsoft.extensions.configuration.usersecrets.6.0.1.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/ivan_parvanovski/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,455 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp.UnitTests/Eventures.WebApp.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj",
+        "projectName": "Eventures.Data",
+        "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj",
+        "packagesPath": "/Users/ivan_parvanovski/.nuget/packages/",
+        "outputPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan_parvanovski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj",
+        "projectName": "Eventures.Services",
+        "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj",
+        "packagesPath": "/Users/ivan_parvanovski/.nuget/packages/",
+        "outputPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan_parvanovski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj"
+              },
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj",
+        "projectName": "Eventures.Tests.Common",
+        "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj",
+        "packagesPath": "/Users/ivan_parvanovski/.nuget/packages/",
+        "outputPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan_parvanovski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp.UnitTests/Eventures.WebApp.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp.UnitTests/Eventures.WebApp.UnitTests.csproj",
+        "projectName": "Eventures.WebApp.UnitTests",
+        "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp.UnitTests/Eventures.WebApp.UnitTests.csproj",
+        "packagesPath": "/Users/ivan_parvanovski/.nuget/packages/",
+        "outputPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan_parvanovski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj"
+              },
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj"
+              },
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj"
+              },
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp/Eventures.WebApp.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp/Eventures.WebApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp/Eventures.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp/Eventures.WebApp.csproj",
+        "projectName": "Eventures.WebApp",
+        "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp/Eventures.WebApp.csproj",
+        "packagesPath": "/Users/ivan_parvanovski/.nuget/packages/",
+        "outputPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivan_parvanovski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Data/Eventures.Data.csproj"
+              },
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Services/Eventures.Services.csproj"
+              },
+              "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj": {
+                "projectPath": "/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/legacy-code/legacy-code-skeleton/Eventures.Tests.Common/Eventures.Tests.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/bin/Debug/net7.0/SynchronizationPrimitives-Mutex
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/bin/Debug/net7.0/SynchronizationPrimitives-Mutex.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/bin/Debug/net7.0/SynchronizationPrimitives-Mutex.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/bin/Debug/net7.0/SynchronizationPrimitives-Mutex.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/bin/Debug/net7.0/SynchronizationPrimitives-Mutex.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/refint/SynchronizationPrimitives-Mutex.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/SynchronizationPrimitives-Mutex.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/ThreadsSynchronization/SynchronizationPrimitives-Mutex/obj/Debug/net7.0/ref/SynchronizationPrimitives-Mutex.dll

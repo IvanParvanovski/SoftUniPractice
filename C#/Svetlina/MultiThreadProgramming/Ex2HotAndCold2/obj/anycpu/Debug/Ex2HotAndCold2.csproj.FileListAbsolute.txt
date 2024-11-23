@@ -1,0 +1,5 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2HotAndCold2/bin/Debug/Ex2HotAndCold2.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2HotAndCold2/bin/Debug/Ex2HotAndCold2.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2HotAndCold2/obj/anycpu/Debug/Ex2HotAndCold2.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2HotAndCold2/obj/anycpu/Debug/Ex2HotAndCold2.exe
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/MultiThreadProgramming/Ex2HotAndCold2/obj/anycpu/Debug/Ex2HotAndCold2.pdb

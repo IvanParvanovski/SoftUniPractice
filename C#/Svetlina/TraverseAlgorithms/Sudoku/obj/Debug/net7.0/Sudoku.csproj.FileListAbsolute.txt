@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/bin/Debug/net7.0/Sudoku
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/bin/Debug/net7.0/Sudoku.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/bin/Debug/net7.0/Sudoku.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/bin/Debug/net7.0/Sudoku.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/bin/Debug/net7.0/Sudoku.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/refint/Sudoku.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/Sudoku.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/TraverseAlgorithms/Sudoku/obj/Debug/net7.0/ref/Sudoku.dll

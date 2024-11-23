@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{0ACB3FB7-5965-4B50-A392-4CB50A96E222}|Eventures.WebApp Console">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Eventures.WebApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eventures.WebApp/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Eventures.WebApp.UnitTests/AutoMapperMock.cs" Line="1" Column="1" />
+      <File FileName="Eventures.WebApp.UnitTests/EventServiceTests.cs" Line="4" Column="30" />
+      <File FileName="Eventures.Services/Contracts/IEventService.cs" Line="21" Column="45" />
+      <File FileName="Eventures.Services/EventService.cs" Line="64" Column="46" />
+      <File FileName="Eventures.WebApp.UnitTests/UnitTestsBase.cs" Line="20" Column="31" />
+      <File FileName="Eventures.Tests.Common/TestDb.cs" Line="13" Column="16" />
+      <File FileName="Eventures.Services/Models/EventServiceModel.cs" Line="13" Column="32" />
+      <File FileName="Eventures.WebApp/Controllers/EventsController.cs" Line="68" Column="44" />
+      <File FileName="Eventures.Data/Event.cs" Line="1" Column="1" />
+      <File FileName="Eventures.WebApp/Controllers/HomeController.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eventures" expanded="True">
+            <Node name="Eventures.Data" expanded="True" />
+            <Node name="Eventures.Services" expanded="True">
+              <Node name="Contracts" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Eventures.Tests.Common" expanded="True" />
+            <Node name="Eventures.WebApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Eventures.WebApp.UnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

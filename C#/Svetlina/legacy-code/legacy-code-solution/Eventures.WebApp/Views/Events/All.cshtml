@@ -1,0 +1,102 @@
+﻿@model IEnumerable<EventServiceModel>
+
+@{
+	ViewData["Title"] = "All Events";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Name)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Place)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Start)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.End)
+			</th>
+			<th>
+				Actions
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Name)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Place)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Start)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.End)
+				</td>
+				<td>
+					@if (this.User.Identity.Name == item.Owner)
+					{
+						@Html.ActionLink("Delete", "Delete", new { id = item.Id })
+						<span>|</span>
+						@Html.ActionLink("Edit", "Edit", new { id = item.Id })
+						<span>|</span>
+						<a href="#" id="details-@item.Id" onclick="details(@item.Id, '@item.TotalTickets', '@item.PricePerTicket', '@item.Description', '@item.Owner')">View Details</a>
+					}
+					else
+					{
+						<a href="#" id="details-@item.Id" onclick="details(@item.Id, '@item.TotalTickets', '@item.PricePerTicket', '@item.Description', '@item.Owner')">View Details</a>
+					}
+				</td>
+			</tr>
+			<tr class="@item.Id" style="display: none;">
+				<td colspan="5">
+					<table>
+						<tr>
+							<th>@Html.DisplayNameFor(modelItem => item.TotalTickets)</th>
+							<td>@Html.DisplayFor(modelItem => item.TotalTickets)</td>
+						</tr>
+						<tr>
+							<th>@Html.DisplayNameFor(modelItem => item.PricePerTicket)</th>
+							<td>@Html.DisplayFor(modelItem => item.PricePerTicket)</td>
+						</tr>
+						<tr>
+							<th>@Html.DisplayNameFor(modelItem => item.Description)</th>
+							<td>@Html.Raw(item.Description)</td>
+						</tr>
+						<tr>
+							<th>@Html.DisplayNameFor(modelItem => item.Owner)</th>
+							<td>@Html.DisplayFor(modelItem => item.Owner)</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<script>
+	function details(id, total, price, desc, owner) {
+		var table = $(`.${id}`);
+		var button = $(`#details-${id}`);
+
+		if (table.css("display") == "none") {
+			table.css("display", "table-row");
+			button.text("Hide Details");
+		} else if (table.css("display") == "table-row") {
+			table.css("display", "none");
+			button.text("View Details");
+		}
+	}
+</script>

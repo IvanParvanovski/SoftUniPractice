@@ -1,0 +1,15 @@
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\bin\Debug\net5.0\Eventures.Data.deps.json
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\bin\Debug\net5.0\Eventures.Data.runtimeconfig.json
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\bin\Debug\net5.0\Eventures.Data.runtimeconfig.dev.json
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\bin\Debug\net5.0\Eventures.Data.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\bin\Debug\net5.0\Eventures.Data.pdb
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.csproj.AssemblyReference.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.AssemblyInfoInputs.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.AssemblyInfo.cs
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.csproj.CoreCompileInputs.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\refint\Eventures.Data.dll
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.pdb
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\Eventures.Data.genruntimeconfig.cache
+C:\Users\marsr\Desktop\SoftUniSvetlina\12grade\04.Working-with-Legacy-Code-Exercise-Solutions\Eventures.Data\obj\Debug\net5.0\ref\Eventures.Data.dll

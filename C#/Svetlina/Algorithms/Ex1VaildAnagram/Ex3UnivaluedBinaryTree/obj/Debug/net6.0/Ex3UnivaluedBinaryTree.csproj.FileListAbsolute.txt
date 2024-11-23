@@ -1,0 +1,15 @@
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/bin/Debug/net6.0/Ex3UnivaluedBinaryTree
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/bin/Debug/net6.0/Ex3UnivaluedBinaryTree.deps.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/bin/Debug/net6.0/Ex3UnivaluedBinaryTree.runtimeconfig.json
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/bin/Debug/net6.0/Ex3UnivaluedBinaryTree.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/bin/Debug/net6.0/Ex3UnivaluedBinaryTree.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.csproj.AssemblyReference.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.AssemblyInfoInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.AssemblyInfo.cs
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.csproj.CoreCompileInputs.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/refint/Ex3UnivaluedBinaryTree.dll
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.pdb
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/Ex3UnivaluedBinaryTree.genruntimeconfig.cache
+/Users/ivan_parvanovski/Desktop/SoftUniPractice/C#/Svetlina/Algorithms/Ex1VaildAnagram/Ex3UnivaluedBinaryTree/obj/Debug/net6.0/ref/Ex3UnivaluedBinaryTree.dll
